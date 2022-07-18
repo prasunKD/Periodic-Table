@@ -1,0 +1,76 @@
+Technetium - Tc
+Chemical properties of technetium - Health effects of technetium - Environmental effects of technetium
+Atomic number
+
+43
+
+Atomic mass
+
+(99) g.mol -1
+
+Electronegativity according to Pauling
+
+1.9
+
+Density
+
+11.5 g.cm-3 at 20°C
+
+Melting point
+
+2200 oC
+
+Boiling point
+
+4877 oC
+
+Vanderwaals radius
+
+0.128 nm
+
+Isotopes
+
+9
+
+Electronic shell
+
+[ Kr ] 4d6 5s1
+
+Discovered by
+
+Carlo Perrier in 1937
+
+Technetium - Tc
+
+
+Technetium
+Technetium is a silvery-gray metal that tarnishes slowly in moist air. The common oxidation states of technetium are +7, +5, and +4. Under oxidizing conditions technetium (VII) will exist as the pertechnetate ion, TcO4-. The chemistry of technetium is said to be similar to that of rhenium. Technetium dissolves in nitric acid, aqua regia, and conc. sulfuric acid, but is not soluble in hydrochloric acid of any strength. The element is a remarkable corrosion inhibitor for steel. The metal is an excellent superconductor at 11K and below.
+
+There are twenty-two reported isotopes of technetium with masses ranging from 90 to 111. All the isotopes of technetium are radioactive. It is one of two elements with Z < 83 that have no stable isotopes; the other element is promethium (Z = 61). Technetium has three long lived radioactive isotopes: 97Tc (T1/2 =2.6 x 106 years), 98Tc (T1/2 = 4.2 x 106 years) and 99Tc (T1/2 = 2.1 x 105 years). 95Tcm ("m" stands for meta state) (T1/2 = 61 days) is used in tracer work. However, the most useful isotope of technetium is 99Tcm (T1/2 = 6.01 hours) is used in many medical radioactive isotope tests because of its half-life being short, the energy of the gamma ray it emits, and the ability of technetium to be chemically bound to many biologically active molecules. Because 99Tc is produced as a fission product from the fission of uranium in nuclear reactors, large quantities have been produced over the years. There are kilogram quantities of technetium.
+
+History
+
+Element 43 was predicted on the basis of the periodic table, and was erroneously reported as having been discovered in 1925, at which time it was named masurium. The element was actually discovered by Perrier and Segre in Italy in 1937. It was found in a sample of molybdenum, which was bombarded by deuterons in the Berkeley cyclotron, and which E. Lawrence sent to these investigators. Technetium was the first element to be produced artificially. Since its discovery, searches for the element in terrestrial material have been made. Finally in 1962, technetium-99 was isolated and identified in African pitchblende (a uranium rich ore) in extremely minute quantities as a spontaneous fission product of uranium-238 by B.T. Kenna and P.K. Kuroda. If it does exist, the concentration must be very small. Technetium has been found in the spectrum of S-, M-, and N-type stars, and its presence in stellar matter is leading to new theories of the production of heavy elements in the stars.
+
+Applications
+
+The most useful isotope of technetium is technetium-99m: it has a short half-life and it binds chemically to many biologically active molecules, these properties make it suitable for many medical radioactive isotope tests.
+
+When Tc-99m is combined with a tin compound it binds to red blood cells and can therefore be used to map circulatory system disorders. A pyrophosphate ion with Tc-99m adheres to calcium deposits in damaged heart muscle, making it useful to gauge damage after a heart attack. The sulfur colloid of Tc-99m is scavenged by the spleen, making it possible to image the structure of that organ.
+Like rhenium and palladium, technetium can serve as a catalyst. For certain reactions, for example the dehydrogenation of isopropyl alcohol, it is a far more effective catalyst than either rhenium or palladium. Of course, its radioactivity is a major problem in finding safe applications.
+
+Technetium-99 has also been proposed for use in optolectric nuclear batteries.
+
+Technetium in the environment
+
+Technetium is rarely encountered outside nuclear facilities ar research laboratories. World production of technetium runs to many tonnes because this element is extracted from spent nuclear fuel rods. However only tiny amounts of this have any commercial use.
+
+Health effects of technetium
+It is reported that mild carbon steels may be effectively protected by as little as 55 ppm of KTcO4 in aerated distilled water at temperatures up to 250oC. This corrosion protection is limited to closed systems, since technetium is radioative and must be confined. 98Tc has a specific activity of 6.2 x 108 Bq/g. Activity of this level must not be allowed to spread. 99Tc is a contamination hazard and should be handled in a glove box.
+
+Environmental effects of technetium
+Because technetium is produced in tonne quantities in nuclear reactors, it is adding to the planetary burden of unwanted radioactive waste. A little technetium escapes to the environment via its use in medical diagnosis.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/tc.htm#ixzz64kmiLiDk

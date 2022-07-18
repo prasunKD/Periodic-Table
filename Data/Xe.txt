@@ -1,0 +1,76 @@
+Xenon - Xe
+Chemical properties of xenon - Health effects of xenon - Environmental effects of xenon
+
+Atomic number
+
+54
+
+Atomic mass
+
+131.29 g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+5.9*10-3g.cm-3 at 20°C
+
+Melting point
+
+- 112 °C
+
+Boiling point
+
+- 107 °C
+
+Vanderwaals radius
+
+0.217 nm
+
+Isotopes
+
+21
+
+Electronic shell
+
+[ Kr ] 4d10 5s25p6
+
+Energy of first ionisation
+
+1170 kJ.mol -1
+
+Discovered by
+
+Sir Ramsay 1898
+
+Xenon - Xe
+
+
+Xenon
+Xenon is a rare, odorless, colourless, tasteless, chamically unreactive gas. It was regarded as completely inert until, in 1962, Neil Barlett reported synthesis of xenon haxafluoroplatinate. In a gas filled tube xenon emits blue light when excited by electrical discharge.
+
+Applications
+
+Xenon has relatively little commercial use. It is used in photographic flash lamps, stroboscopic lamps, high-intensitive arc-lamps for motion picture projection and high-pressure arc lamps to product ultraviolet light (solar simulators). Other uses are as general anaesthetic, xenon 'blue' headlights and fog lights are used on some vehicles and are said to be less tiring on the eyes. They illuminate road signs and markings better than conventional lights.
+
+Xenon in the environment
+
+Xenon si a trace gas in the Earth's atmosphere, occurring in 1 part in 20 million. The only commercial source of xenon is from industrial liquid-air plants. World production is less than 1 tonne per year, although reserved of xenon gas in the atmosphere amount to 2 billion tonnes.
+
+Health effects of xenon
+Inhalation: This gas is inert and is classified as a simple asphyxiant. Inhalation in excessive concentrations can result in dizziness, nausea, vomiting, loss of consciousness, and death. Death may result from errors in judgment, confusion, or loss of consciousness which prevent self-rescue. At low oxygen concentrations, unconsciousness and death may occur in seconds without warning.
+
+The effect of simple asphyxiant gases is proportional to the extent to which they diminish the amount (partial pressure) of oxygen in the air that is breathed. The oxygen may be diminished to 75% of it's normal percentage in air before appreciable symptoms develop. This in turn requires the presence of a simple asphyxiant in a concentration of 33% in the mixture of air and gas. When the simple asphyxiant reaches a concentration of 50%, marked symptoms can be produced. A concentration of 75% is fatal in a matter of minutes. Symptoms: The first symptoms produced by a simple asphyxiant are rapid respirations and air hunger. Mental alertness is diminished and muscular coordination is impaired. Later judgment becomes faulty and all sensations are depressed. Emotional instability often results and fatigue occurs rapidly. As the asphyxia progresses, there may be nausea and vomiting, prostration and loss of consciousness, and finally convulsions, deep coma and death.
+
+This agent is not considered a carcinogen.
+
+Effects of xenon on the environment
+Xenon is a rare atmospheric gas and as such is non-toxic and chemically inert. The extreme cold temperature (-244oC) will freeze organisms on contact, but no long term ecological effects are anticipated.
+
+Disposal considerations: When disposal becomes necessary, vent gas slowly to a well-ventilated out door location remote from personnel work areas and building air intakes. Do not dispose of any residual gas in compressed gas cylinders. Return cylinders to the supplier with residual pressure, the cylinder valve tightly closed. Please be advised that state and local requirements for waste disposal may be more restrictive or otherwise different from federal regulations. Consult state and local regulations regarding the proper disposal of this material.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/xe.htm#ixzz64ln6lvAG

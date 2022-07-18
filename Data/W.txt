@@ -1,0 +1,85 @@
+Tungsten - W
+Chemical properties of Tungsten - Health effects of Tungsten - Environmental effects of Tungsten
+Atomic number
+
+74
+
+Atomic mass
+
+183.85 g.mol -1
+
+Electronegativity accoridin to Pauling
+
+1.7
+
+Density
+
+19.3 g.cm-3 at 20°C
+
+Melting point
+
+3410 °C
+
+Boiling point
+
+5660 °C
+
+Vanderwaals radius
+
+0.137 nm
+
+Ionic radius
+
+0.068 nm (+4) ; 0.067 nm (+6)
+
+Isotopes
+
+10
+
+Electronic shell
+
+[ Xe ] 4f14 5d4 6s2
+
+Energy of first ionisation
+
+768.6 kJ.mol -1
+
+Standard potential
+
+- 0.05 V ( W+4/ W )
+
+Discovered by
+
+Fausto and Juan Jose de Elhuyar in 1783
+
+Tungsten - W
+
+
+Tungsten
+Tungsten is a lustrous and silvery white metal. The bulk metal resists attack by oxygen, acids and alkalis. Tungsten has the highest melting point of any metal.
+
+Applications
+
+Tungsten is used in filaments in incandescent light bulbs, it is also used in electric contacts and arc-welding electrodes. Tungsten is used in alloys, such as steel, to which it imparts great strength. Cement carbide is the most important use for tungsten: its main component is tungsten carbide (WC). It has the strength to our cast iron and it makes excellent cutting tools for the machining of steel. X-ray tubes for medical use have a tungsten emitter coil and the screen used to view X-rays rely on calcium and magnesiumtungstate phosphors to convert X-rays into blue visible light. Tungsten is also used in microchip tecnology and liquid crystals displays.
+
+Tungsten in the environment
+
+Very little tungsten has been detetced in the dew soils that have been analysed for it, although around an ore-processin plant in Russia levels as high as 2000 ppm were found. The concentration of the element in natural waters is very low.
+
+There are several minerals of tungsten, the most important are scheelite and wolframite. The main mining area is China, which today accounts for more than two-thirds of the world's supply. Other places with active tungsten mines are Russia, Austria, Bolivia, Peru and Portugal. World production is around 40.000 tonnes per year and reserves are estimated to be around 5 million tonnes. Tungsten is also recycled and it meets 30% of demand.
+
+Health effects of tungsten
+Tungsten has been shown to act by antagonizing the action of the essential trace element, Molybdenum. Long industrial experience has indicated no pneumoconiosis to develop among workers exposed solely to W or its insoluble compounds (at air concentrations of the order of 5 mg/m3).
+
+Acute health effects: Irritating to the skin and eyes on contact. Inhalation will cause irritation to the lungs and mucus membrane. Irritation to the eyes will cause watering and redness. Reddening, scaling, and itching are characteristics of skin inflammation. Follow safe industrial hygiene practices and always wear protective equipment when handling this compound.
+
+Chronic health effects: This product has no known chronic effects. Repeated or prolong exposure to this compound is not known to aggravate medical conditions.
+
+All tungsten compounds should be regarded as highly toxic. The metal dust presents a fire and explosion hazard.
+
+Effects of tungsten on the Environment
+Tungsten metal powder administered to animals has been shown in several studies as not altogether inert. One study found that guinea pigs treated orally or intravenously with tungsten suffered from anorexia, colic, incoordination of movement, trembling, dyspnea and weight loss. This product is not expected to be hazardous for the environment. No specific ecotoxicity data is available for this product.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/w.htm#ixzz64iecSk7U

@@ -1,0 +1,102 @@
+Titanium - Ti
+Chemical properties of titanium - Health effects of titanium - Environmental effects of titanium
+Atomic number
+
+22
+
+Atomic mass
+
+47.90 g.mol -1
+
+Electronegativity according to Pauling
+
+1.5
+
+Density
+
+4.51 g.cm-3 at 20°C
+
+Melting point
+
+1660 °C
+
+Boiling point
+
+3287 °C
+
+Vanderwaals radius
+
+0.147 nm
+
+Ionic radius
+
+0.09 nm (+2) ; 0.068 nm (+4)
+
+Isotopes
+
+8
+
+Electronic shell
+
+[ Ar ] 3d1 4s2
+
+Energy of first ionisation
+
+658 kJ.mol -1
+
+Energy of second ionisation
+
+1310 kJ.mol -1
+
+Energy of third ionisation
+
+2652 kJ.mol -1
+
+Energy of fourth ionisation
+
+4175 kJ.mol -1
+
+Discovered by
+
+William Gregor in 1791
+
+Titanium - Ti
+
+Titanium
+Chemical element, Ti, atomic number 22 and atomic weight 47.90. Its chemical behaviour shows many similarities with that or silica and zirconium, as an element belonging to the first transition group. Its chemistry in aqueous solution, especially in the lower oxidation states, has some similarities with that of chrome and vanadium. Titanium is a transition metal light with a white-silvery-metallic colour. It is strong, lustrous, corrosion-resistant. Pure titanium is not soluble in water but is soluble in concentrated acids. This metal forms a passive but protective oxide coating (leading to corrosion-resistance) when exposed to elevated temperatures in air but at room temperatures it resists tarnishing.
+
+The main oxidation state is 4+, although the states 3+ and 2+ are also known, but are less stable. This element burns in the air when it’s heated up to obtain the dioxide, TiO2, and when it is combined with halogens. It reduces the water vapor to form the dioxide and hydrogen, and it reacts in a similar way with hot concentrated acids, although it forms trichloride with chlorhydric acid. The metal absorbs hydrogen to give TiH2, and forms the nitride, TiN, and the carbide, TiC. Other known compounds are the sulfur TiS2, as well as the lowest oxides, Ti2O3 and TiO, and the sulfurs Ti2S3 and TiS. Salts are known in the three oxidation states.
+
+Applications
+
+The titanium dioxide is extensively used as a white pigment in outside paintings for being chemically inert, for its great coating power, its opacity to UV light damage and its autocleaning capacity. The dioxide was also used once as a bleaching and pacifying agent in porcelain enamels, giving them a final touch of great brightness, hardness and acid resistance. A typical lipstick contains 10% titanium.
+
+Titanium alloys are characterized by very high tensile strength even at high temperatures, light weight, high corrosion resistance, and ability to withstand extreme temperatures. ue to these properties they are principally used in aircraft, pipes for power plants, armour plating, naval ships, spacecraft and missiles. Titanium is as strong as steel but 45% lighter.
+
+In medicine titanium is used to make hip and knee replacements, pace-makers, bone-plates and screws and cranial plates for skull fractures. It has also been used to attach false theet.
+
+The alkaline earth titanates have some remarkable properties. The level of dielectric constants varies from 13 for the MgTiO3, to various milliards for solid solutions of SrTiO3 in BaTiO3. The barium titanate also has a dielectric constant of 10.000 close to 120ºC, which is its Curie point; it has low dielectric hysteresis. The ceramic transductors that contain barium titanate are favorably compared with Rochelle salt in terms of thermal stability and with quartz in terms of the strength of the effect and the capacity to form the ceramics in various forms. The compound has bee used as ultrasonic vibrations generator and as a sound detector.
+
+Titanium in the environment
+
+Although it is not found unbound to other elements in nature, Titanium is the ninth most abundant element in the Earth's crust (0.63% by mass) and is present in most igneous rocks and in sediments derived from them. Important titanium minerals are rutile, brookite, anatase, illmenite, and titanite. The chief mined ore, ilmenite, occurs as vast deposits of sand in Western Australia, Norway, Canada and Ukraine. Large deposits of rutile in North America and South Africa also contribute significantly to the world supply of titanium. World production of the metal is about 90.000 tonnes per year, and that of titanium dioxide is 4.3 million tonnes per year.
+
+The titanium dioxide, TiO2, is commonly found in a black or brownish form known as rutile. The natural forms that are less frequently found in nature are the anatasite and the brooquite. Both the pure rutile and the pure anatasite are white. The black basic oxide, FeTiO3, is found in the natural form as the natural mineral called ilmenite; this is the main commercial source of titanium.
+
+Health effects of titanium
+There is no known biological role for titanium. There is a detectable amount of titanium in the human body and it has been estimated that we take in about 0.8 mg/day, but most passes through us without being adsorbed. It is not a poison metal and the human body can tolerate titanium in large dose.
+
+Elemental titanium and titanium dioxide is of a low order of toxicity. Laboratory animals (rats) exposed to titanium dioxide via inhalation have developed small-localized areas of dark-colored dust deposits in the lungs. Excessive exposure in humans may result in slight changes in the lungs.
+
+Effects of overexposure to titanium powder: Dust inhalation may cause tightness and pain in chest, coughing, and difficulty in breathing. Contact with skin or eyes may cause irritation. Routes of entry: Inhalation, skin contact, eye contact.
+
+Carcinogenicity: The International Agency for Research on Cancer (IARC) has listed titanium dioxide within Group 3 (The agent is not classifiable as to its carcinogenicity to humans.)
+
+Environmental effects of titanium
+Low toxicity. When in a metallic powdered form, titanium metal poses a significant fire hazard and, when heated in air, an explosion hazard.
+
+No environmental effects have been reported.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ti.htm#ixzz64iYc1o8g

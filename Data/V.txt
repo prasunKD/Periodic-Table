@@ -1,0 +1,121 @@
+Vanadium - V
+Chemical properties of vanadium - Health effects of vanadium - Environmental effects of vanadium
+Atomic number
+
+23
+
+Atomic mass
+
+50.9414 g.mol -1
+
+Electronegativity according to Pauling
+
+1.6
+
+Density
+
+6.1 g.cm-3 at 20°C
+
+Melting point
+
+1910 °C
+
+Boiling point
+
+3407 °C
+
+Vanderwaals radius
+
+0.134 nm
+
+Ionic radius
+
+0.074 nm (+3) ; 0.059 (+5)
+
+Isotopes
+
+5
+
+Electronic shell
+
+[ Ar ] 3d3 4s2
+
+Energy of first ionisation
+
+649.1 kJ.mol -1
+
+Energy of second ionisation
+
+1414 kJ.mol -1
+
+Energy of third ionisation
+
+2830 kJ.mol -1
+
+Energy of fourth ionisation
+
+4652 kJ.mol -1
+
+Discovered by
+
+Nils Sefstrom in 1830
+
+Vanadium - V
+
+Vanadium
+Vanadium is a rare, soft, ductile gray-white element found combined in certain minerals and used mainly to produce certain alloys. Vanadium resists corrosion due to a protective film of oxide on the surface. Common oxidation states of vanadium include +2, +3, +4 and +5.
+
+Applications
+
+Most of the vanadium (about 80%) produced is used as ferrovanadium or as a steel additive. Mixed with aluminium in titanium alloys is used in jet engines and high speed air-frames, and steel alloys are used in axles, crankshafts, gears and other critical components. Vanadium alloys are also used in nuclear reactors because vanadium has low neutron-adsorption abilities and it doesn not deform in creeping under high temperatures.
+
+Vanadium oxide (V2O5) is used as a catalyst in manufacturing sulfuric acid and maleic anhydride and in making ceramics. It is added to glass to produce green or blue tint. Glass coated with vanadium dioxide (VO2) can block infrared radiation at some specific temperature.
+
+Vanadium in the environment
+
+Vanadium is never found unbound in nature. Vanadium occurs in about 65 different minerals among which are patronite, vanadinite, carnotite and bauxite. Vanadium occurs in carbon containing deposits such as crude oil, coal, oil shale and tar sands.
+Various vanadium ores are known but none is mined as such for the metal, which is generally obtained as a byproducts of other ores. The largest resources of vanadium are to be found in South Africa and in Russia. World production of vanadium ore is around 45.000 tonnes a year. Production of the metal itself comes to about 7000 tonnes per year.
+Watering is an important way in which vanadium is redistributed around the environment because venedates are generally very soluble.
+
+Vanadium is abundant in most soils, in variable amounts, and it is taken up by plants at levels that reflect its availability.
+
+In biology, a vanadium atom is an essential component of some enzymes, particularly the vanadium nitrogenase used by some nitrogen-fixing microorganisms.
+
+Health effects of vanadium
+Vanadium compounds are not regarded as serious hazard, however, workers exposed to vanadium peroxide dust were found to suffer severe eye, nose and throat irritation.
+
+The uptake of vanadium by humans mainly takes place through foodstuffs, such as buckwheat, soya beans, olive oil, sunflower oil, apples and eggs.
+
+Vanadium can have a number of effects on human health, when the uptake is too high. When vanadium uptake takes places through air it can cause bronchitis and pneumonia.
+
+The acute effects of vanadium are irritation of lungs, throat, eyes and nasal cavities.
+
+Other health effects of vanadium uptake are:
+
+- Cardiac and vascular disease
+- Inflammation of stomach and intestines
+- Damage to the nervous system
+- Bleeding of livers and kidneys
+- Skin rashes
+- Severe trembling and paralyses
+- Nose bleeds and throat pains
+- Weakening
+- Sickness and headaches
+- Dizziness
+- Behavioural changes
+
+The health hazards associated with exposure to vanadium are dependent on its oxidation state. This product contains elemental vanadium. Elemental vanadium could be oxidized to vanadium pentoxide during welding. The pentoxide form is more toxic than the elemental form. Chronic exposure to vanadium pentoxide dust and fumes may cause severe irritation of the eyes, skin, upper respiratory tract, persistent inflammations of the trachea and bronchi, pulmonary edema, and systemic poisoning. Signs and symptoms of overexposure include; conjunctivitis, nasopharyngitis, cough, labored breathing, rapid heart beat, lung changes, chronic bronchitis, skin pallor, greenish-black tongue and an allergic skin rash.
+
+
+Effects of vanadium on the environment
+Vanadium can be found in the environment in algae, plants, invertebrates, fishes and many other species. In mussels and crabs vanadium strongly bioaccumulates, which can lead to concentrations of about 105 to 106 times greater than the concentrations that are found in seawater.
+
+Vanadium causes the inhibition of certain enzymes with animals, which has several neurological effects. Next to the neurological effects vanadium can cause breathing disorders, paralyses and negative effects on the liver and kidneys.
+
+Laboratory tests with test animals have shown, that vanadium can cause harm to the reproductive system of male animals, and that it accumulates in the female placenta.
+
+Vanadium can cause DNA alteration in some cases, but it cannot cause cancer with animals.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/v.htm#ixzz64iYiWNHJ

@@ -1,0 +1,100 @@
+Uranium - U
+Chemical properties of uranium - Health effects of uranium - Environmental effects of uranium
+Atomic number
+
+92
+
+Atomic mass
+
+238.03 g.mol -1
+
+Electronegativity according to Pauling
+
+1.7
+
+Density
+
+18.95 g.cm-3 at 20°C
+
+Melting point
+
+1132 °C
+
+Boiling point
+
+3818 °C
+
+Vanderwaals radius
+
+0.121 nm
+
+Ionic radius
+
+0.103 nm (+3) ; 0.093 nm (+4)
+
+Isotopes
+
+11
+
+Electronc shell
+
+[ Rn ] 5f3 6d1 7s2
+
+Discovered by
+
+Martin Klaproth 1789
+
+Uranium - U
+
+Uranium
+Uranium is a hard, dense, malleable, ductile, silver-white, radioactive metal. Uranium metal has very high density. When finely divided, it can react with cold water. In air it is coated by uranium oxide, tarnishing rapidly. It is attacked by steam and acids. Uranium can form solids solutions and intermetallic compounds with many of the metals.
+
+Applications
+
+Uranium gained importance with the development of practical uses of nuclear energy. Depleted uranium is used as shelding to protect tanks, and also in bullets and missiles. The first atomic bomb used in warfare was an uranium bomb. This bomb contained enough of the uramium-235 isotope to start a runaway chain reaction which in a fraction of a second caused a large number of the uranium atoms to undergo fission, there by releasing a fireball of energy.
+
+The main use of uranium in the civilian sector is to fuel commercial nuclear power plants. This require uranium to be enriched with the uranium-235 isotope and the chain reaction to be controlled so that the energy is released in a more manageable way.
+
+The isotope uranium 238 is used to estimate the age of the earliest igneous rocks and for other types of radiometric dating.
+
+Phosphate fertilizers are made from material typically high in uranium, so they usually contain high amounts of it.
+
+Uranium in the environment
+
+Although uranium is radioactive, it is not particularly rare. It is widely spread throughout the environment and so it is impossible to avoid uranium. Uranium can be found naturally in the environment in very small amounts in rocks, soil, air and water. Humans add uranium metals and compounds, because they are released during mining and milling processes.
+
+In air the uranium concentrations are very low. Even at higher than usual concentrations in air, there is so little uranium present per cubic meter that less than one atom transfers every day.
+
+In water most of the uranium is dissolved uranium that derives from rocks and soil that the water runs over. Some of the uranium is suspended, so that the water gets a muddy texture. Only a very small part of uranium in water settles from air. The amounts of uranium in drinking water are generally very low.
+
+Uranium is found in soils in varying concentrations that are usually very low. Humans add uranium to the soil through industrial activities.
+
+Erosion of tailing from mines and mills may cause larger amounts of uranium to be released into the environment.
+
+Health effects of uranium
+People always experience exposure to a certain amount of uranium from food, air, soil and water, as it is naturally present in all these components. Food, such as root vegetables, and water will provide us with small amounts of natural uranium and we will breathe in minimal concentrations of uranium with air. The concentrations of uranium in seafood are usually so low that they can be safely ignored.
+
+People that live near hazardous waste sites, people that live near mines, people that work in the phosphate industry, people that eat crops grown on contaminated soil or people that drink water from a uranium waste disposal point may experience a higher exposure than other people. Uranium glazes are banned, but some artists that still use them for glasswork will experience a higher-than-usual exposure.
+
+Because uranium is a radioactive substance health effects have been researched. Scientists have detected no harmful radiation effects of natural levels of uranium. However, chemical effects may occur after the uptake of large amounts of uranium and these can cause health effects such as kidney disease.
+
+When people are exposed to uranium radionuclides that are formed during radioactive decay for a long period of time, they may develop cancer. The chances of getting cancer are much higher when people are exposed to enriched uranium, because that is a more radioactive form of uranium. This form of uranium gives off damaging radiation, which can cause people to develop cancer within a few years. Enriched uranium may end up in the environment during accidents in nuclear power plants.
+
+Whether uranium can cause reproductive effects in people is currently unknown.
+
+Effects of uranium on the Environment
+Uranium is a radioactive material that is very reactive. As a result it cannot be found in the environment in its elemental form. Uranium compounds that have consisted during reactions of uranium with other elements and substances dissolve in water to their own extend. The water-solubility of a uranium compound determines its mobility in the environment, as well as its toxicity.
+
+While uranium itself is not particularly dangerous, some of its decay products do pose a threat, expecially radon, which can build up in confined spaces such as basements.
+
+Uranium in air exists as dust that will fall into surface water, on plants or on soils through settling or rainfall. It will than sink to the sediment in water or to the lower soil layers, where it will mix with uranium that is already present.
+
+Water containing low amounts of uranium is usually safe to drink. Because of its nature, uranium is not likely to accumulate in fish or vegetables and uranium that is absorbed will be eliminated quickly through urine and faeces.
+
+The compounds in the soil will combine with other compounds, which can stay in the soil for years without moving towards the groundwater. Uranium concentrations are often higher in phosphate-rich soil, but this does not have to be a problem, because concentrations often do not exceed normal ranges for uncontaminated soil.
+
+Plants absorb uranium through their roots and store it there. Root vegetables such as radishes may contain higher than usual concentrations of uranium as a result. When the vegetables are washed the uranium will be removed.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/u.htm#ixzz64lpVTCQ8

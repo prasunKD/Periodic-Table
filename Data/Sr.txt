@@ -1,0 +1,98 @@
+Strontium - Sr
+Chemical properties of strontium - Health effects of strontium - Environmental effects of strontium
+Atomic number
+
+38
+
+Atomic mass
+
+87.62 g.mol -1
+
+Electronegativity according to Pauling
+
+1.0
+
+Density
+
+2.6 g.cm-3 at 20°C
+
+Melting point
+
+769 °C
+
+Boiling point
+
+1384 °C
+
+Vanderwaals radius
+
+0.215 nm
+
+Ionic radius
+
+0.113 nm (+2)
+
+Isotopes
+
+14
+
+Electronic shell
+
+[ Kr ] 5s2
+
+Energy of first ionisation
+
+549.2 kJ.mol -1
+
+Energy of second ionisation
+
+1064 kJ.mol -1
+
+Discovered by
+
+A. Crawford in 1790
+
+Strontium - Sr
+Strontium
+Strontium is a soft, silver-yellow, alkaline-earth metal. It has three allotropic crystalline forms and in its physical and chemical properties it is similar to calcium and barium. Strontium reacts vigorously with water and quickly tarnishes in air, so it must be stored out of contact with air and water. Due to its extreme reactivity to air, this element always naturally occurs combined with other elements and compounds. Finely powdered strontium metal will ignite spontaneously in air to produce both strontium oxide and strontium nitride.
+
+Applications
+
+Strontium has uses similar to those of calcium and barium, but it is rarely employed because of its higher cost. Principal uses of strontium compounds are in pyrotechnics, for the brilliant reds in fireworks and warning flares and in greases. A little is used as a getter in vacuum tubes to remove the last traces of air. Most strontium is used as the carbonate in special glass for television screens and visual display units. Although strontium-90 is a dangerously radioactive isotope, it is a useful by-product of nuclear reactors from whose spent fuel is extracted. Its high-energy radiation can be used to generate an electric current, and for this reason it can be used in space vehicles, remote weather stations and navigation buoys.
+
+Strontium in the environment
+
+Strontium is commonly occurs in nature, formung about 0.034% of all igneous rock and in the form of the sulfate mineral celestite (SrSO4) and the carbonate strontianite (SrCO3). Celestite occurs frequently in sedimentary deposits of sufficient size, thus the development of mining facilities attractive. The main mining areas are UK, Mexico, Turkey and Spain. World production of strontium ores is about 140.000 tonnes per year from an unassessed total of reserves.
+
+Foods containing strontium range from very low e.g. in corn (0.4 ppm and oranged (0.5 ppm) to high, e.g. in cabbage (45 ppm), onions (50 ppm) and lattuce (74 ppm).
+
+Health effects of strontium
+
+Strontium compounds that are water-insoluble can become water-soluble, as a result of chemical reactions. The water-soluble compounds are a greater threat to human health than the water-insoluble ones. Therefore, water-soluble forms of strontium have the opportunity to pollute drinking water. Fortunately the concentrations in drinking water are usually quite low.
+
+People can be exposed to small levels of (radioactive) strontium by breathing air or dust, eating food, drinking water, or by contact with soil that contains strontium. We are most likely to come in contact with strontium by eating or drinking.
+Strontium concentrations in food contribute to the strontium concentrations in the human body. Foodstuffs that contain significantly high concentrations of strontium are grains, leafy vegetables and dairy products.
+
+For most people, strontium uptake will be moderate. The only strontium compound that is considered a danger to human health, even in small quantities, is strontium chromate. The toxic chromium that it contains mainly causes this. Strontium chromate is known to cause lung cancer, but the risks of exposure have been greatly reduced by safety procedures in companies, so that it is no longer an important health risk.
+
+The uptake of high strontium concentrations is generally not known to be a great danger to human health. In one case someone experienced an allergic reaction to strontium, but there have been no similar cases since. For children exceeded strontium uptake may be a health risk, because it can cause problems with bone growth.
+Strontium salts are not known to cause skin rashes or other skin problems of any kind.
+When strontium uptake is extremely high, it can cause disruption of bone development. But this effect can only occur when strontium uptake is in the thousands of ppm range. Strontium levels in food and drinking water are not high enough to be able to cause these effects.
+
+Radioactive strontium is much more of a health risk than stable strontium. When the uptake is very high, it may cause anaemia and oxygen shortages, and at extremely high concentrations it is even known to cause cancer as a result of damage to the genetic materials in cells.
+
+Effects of strontium on the Environment
+Strontium in its elemental form occurs naturally in many compartments of the environment, including rocks, soil, water, and air. Strontium compounds can move through the environment fairly easily, because many of the compounds are water-soluble.
+Strontium is always present in air as dust, up to a certain level. Strontium concentrations in air are increased by human activities, such as coal and oil combustion. Dust particles that contain strontium will settle to surface water, soils or plant surfaces at some point. When the particles do not settle they will fall back onto earth when rain or snow falls. All strontium will eventually end up in soils or bottoms of surface waters, where they mix with strontium that is already present.
+Strontium can end up in water through soils and through weathering of rocks. Only a small part of the strontium in water comes from dust particles from the air. Most of the strontium in water is dissolved, but some of it is suspended, causing muddy water at some locations. Not much strontium ends up in drinking water.
+When strontium concentrations in water exceed regular concentrations, this is usually caused by human activities, mainly by dumping waste directly in the water. Exceeded strontium concentrations can also be caused by settling of dust particles from air that have reacted with strontium particles from industrial processes.
+Strontium concentrations in soil may also be increased by human activities, such as the disposal of coal ash and incinerator ash, and industrial wastes. Strontium in soil dissolves in water, so that it is likely to move deeper into the ground and enter the groundwater. A part of the strontium that is introduced by humans will not move into groundwater and can stay within the soil for decades.
+Because of the nature of strontium, some of it can end up in fish, vegetables, livestock and other animals.
+One of the isotopes of strontium is radioactive. This isotope is not likely to occur naturally in the environment. It ends up in the environment, though, as a result of human activities, such as nuclear bomb testing and radioactive storage leaking. The only way to decrease concentrations of this isotope is through radioactive decay to stable zirconium.
+The concentrations of radioactive strontium in the environment are relatively low and the particles will always end up in soils or water-bottoms eventually, where they mix with other strontium particles. It is not likely to end up in drinking water.
+
+Certain deep-sea creatures incorporate strontium into their shells as strontium sulphate, and stony corals require it, which is why it needs to be added in the water in aquaria.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/sr.htm#ixzz64ibhL8oh
