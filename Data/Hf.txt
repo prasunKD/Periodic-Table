@@ -1,0 +1,100 @@
+Hafnium - Hf
+Chemical properties of hafnium - Health effects of hafnium - Environmental effects of hafnium
+Atomic number
+
+72
+
+Atomic mass
+
+178.49 g.mol -1
+
+Electronegativity according to Pauling
+
+1.3
+
+Density
+
+13.07 g.cm-3 at 20°C
+
+Melting point
+
+2200 °C
+
+Boiling point
+
+5200 °C
+
+Vanderwaals radius
+
+0.161 nm
+
+Ionic radius
+
+0.075 nm
+
+Isotopes
+
+10
+
+Electronic shell
+
+[ Xe ] 4f14 5d2 6s2
+
+Energy of first ionisation
+
+530 kJ.mol -1
+
+Energy of second ionisation
+
+1425.5 kJ.mol -1
+
+Energy of third ionisation
+
+2244.3 kJ.mol -1
+
+Energy of fourth ionisation
+
+3207.5 kJ.mol -1
+
+Standard potential
+
+- 1.68 V ( HfO2+/ Hf )
+
+Discovered by
+
+Dirk Coster in 1923
+
+Hafnium - Hf
+
+Hafnium
+Hafnium is a lustrous, silvery, ductile metal. It restists corrosion due to formation of a tough, impenetrable oxide film on its surface. The metal is unaffected by alkalis and acids, except hydrofluoric acid. Hafnium is difficult to separate form its group 4 partner, zirconium, bacause the two elements have atoms that are the same size.
+
+Applications
+
+Hafnium and its alloys are used for control rods in nuclear reactors and nuclear submarines because hafnium is excellent at absorbing neutrons and it has a very high melting point and is corrosion resistant. It is used in high-temperature alloys and ceramics, since some of its compounds are very refractory: they will not melt except under the most extreme temperatures.
+
+Hafnium in the enviroment
+
+Hafnium ores are rare, but two are known: hafnon and alvite. Industrial production of hafnium metal is not much more than 50 tonnes a year. Known reserves are not recorded, but can be estimated from those of zirconium.
+
+Health effects of hafnium
+Hafnium metal does not normally cause problems but all hafnium compounds should be regarded as toxic although initial evidence would appear to suggest the danger is limited. The metal dust presents a fire and explosion hazard.
+
+Hafnium metal has no known toxicity. The metal is completely insoluble in water, saline solutions or body chemicals. Exposure to hafnium can occur through inhalation, ingestion, and eye or skin contact.
+
+Overexposure to hafnium and its compounds may cause mild irritation of the eyes, skin, and mucous membranes.
+
+No signs and symptoms of chronic exposure to hafnium have been reported in humans.
+
+Environmental effects of hafnium
+Hafnium poses not threat to plants. Plants take up small amounts of hafnium from the soil in which they grow.
+
+Effects on Animals: Data on the toxicity of hafnium metal or its dust are scant. Animal studies indicate that hafnium compounds cause eye, skin, and mucous membrane irritation, and liver damage. The oral LD50 for hafnium tetrachloride in rats is 2,362 mg/kg, and the intraperitoneal LD 50 in mice for hafnium oxychloride is 112 mg/kg.
+
+(LD50 = Lethal dose 50 = Single dose of a substance that causes the death of 50% of an animal population from exposure to the substance by any route other than inhalation. LD50 is usually expressed as milligrams or grams of material per kilogram of animal weight (mg/kg or g/kg).)
+
+No negative environmental effects have been reported.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/hf.htm#ixzz64idKdsk0

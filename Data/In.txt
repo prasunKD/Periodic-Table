@@ -1,0 +1,91 @@
+Indium - In
+Chemical properties of indium - Health effects of indium - Environmental effects of indium
+Atomic number
+
+49
+
+Atomic mass
+
+114.82 g.mol -1
+
+Electronegativity according to Pauling
+
+2
+
+Density
+
+7.31 g.cm-3 at 20°C
+
+Melting point
+
+156 °C
+
+Boiling point
+
+2000 °C
+
+Vanderwaals radius
+
+0.162 nm
+
+Ionic radius
+
+0.092 nm (+2)
+
+Isotopes
+
+11
+
+Electronic shell
+
+[ Kr ] 4d10 5s25p1
+
+Energy of first ionisation
+
+558.2 kJ.mol -1
+
+Energy of second ionisation
+
+1820.2 kJ.mol -1
+
+Energy of third ionisation
+
+2704 kJ.mol -1
+
+Standard potential
+
+- 0.34 V ( In3+/ In )
+
+Discovered by
+
+Ferdinand Reich 1863
+
+Indium - In
+
+Indium
+
+Indium is a soft, ductile, manleable, lustrous metallic metal. Its colour is silvery white and it has a face-centered tetragonal structure. It is liquid over a wide range of temperatures, like gallium that belongs to its same group. Both indium and gallium are able to wet glass. Indium is stable in air and in water but dissolves in acids. When heated above its melting point it ignites burning with a violet flame.
+
+Applications
+
+Indium is used in low-melting fusible alloys and as a protective plate for bearings and other metal surfaces. It can be used to form corrosion-resistant mirror surface: when evaporated and allowed to deposit on glass it produces a mirror as good a quality as that of silver. Indium foils are used to assess what is going on inside nuclear reactors. Finally, it is used as light filter in low pressure sodium vapor lamps.
+
+Indium in the environment
+
+Indium is not widely dispersed in the environment. Cultivated soils are reported to be richer in indium than non cultivated sites; some even have levels as high as 4 ppm. Indium produced in idustry comes as the by-product of smelting zinc and lead sulfide ores, some of which can contain 1% indium. Specimens of uncombined indium metal have been found in a region of Russia and an indium mineral, indite, has been found in Siberia, but it is rare. World production comes mainly from Canada and is around 75 tonnes per year, reserves of the metal are estimated to exceed 1500 tonnes.
+
+Health effects of indium
+
+Indium has no biological role. In small doses it is said to stimulate the metabolism.
+
+Indium compounds are encountered rarely by most people. All indium compounds should be regarded as highly toxic. Indium compounds damage the heart, kidney, and liver, and may be teratogenic.
+
+Insufficient data are available on the effect of this substance on human health, therefore utmost care must be taken.
+
+Environmental effects of indium
+
+Since indium is not widely dispersed in the environment, it poses no threat to land or marine life. Environmental effects from the substance have not been investigated.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/in.htm#ixzz64kqna0Ew

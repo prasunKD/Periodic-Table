@@ -1,0 +1,86 @@
+Ruthenium - Ru
+Chemical properties of ruthenium - Health effects of ruthenium - Environmental effects of ruthenium
+Atomic number
+
+44
+
+Atomic mass
+
+101.1 g.mol -1
+
+Electronegativity according to Pauling
+
+2.2
+
+Density
+
+12.2 g.cm-3 at 20°C
+
+Melting point
+
+2250 °C
+
+Boiling point
+
+4150 °C
+
+Vanderwaals radius
+
+0.135 nm
+
+Isotopes
+
+11
+
+Electronic shell
+
+[ Kr ] 4d7 5s1
+
+Energy of first ionisation
+
+722.4 kJ.mol -1
+
+Energy of second ionisation	1620 kJ.mol -1
+Energy of third ionisation	2747 kJ.mol -1
+Standard Potential
+
+0.45 V
+
+Discovered by
+
+Karl Klaus in 1844
+
+Ruthenium - Ru
+
+Ruthenium
+Ruthenium, together with rhodium, palladium, osmium, iridium, and platinum form a group of elements referred to as the platinum group metals (PGM).
+
+Ruthenium is a hard, white metal. It does not tarnish at room temperatures, but oxidises in air at about 800°C. The metal is not attacked by hot or cold acids or aqua regia, but when potassium chlorate is added to the solution, it oxidises explosively. It dissolved in molten alkalis.
+
+Applications
+
+Ruthenium demand is rising: the metal find use in the electronic industry (50%) and the chemical industry (40%), with smaller amounts being used in alloying. In electronics it used to be used mainly for electrical contacts but most now goes into chip resistors. In the chemical industry it is used in the anodes for chlorine production in electrochemical cells.
+
+The metal is used as a hardener for palladium and platinum and added in small amounts improves the corrosion resistance of titaniumin. It is used in electrical contact alloys and filaments, in jewelry, in pen nibs, and in instrument pivots. It is also used in alloys with cobalt, molybdenum, nickel, tungsten, and other metals. Ruthenium compounds are used to color ceramics and glass.
+Ruthenium is also a versatile catalyst, used for instance in the removal of H2S from oil refineries and from other industrial processes, for the production of ammonia from natural gas, and for the production of acetic acid from methanol.
+Some ruthenium complexes absorb light throughout the visible spectrum and are being actively researched in various, potential, solar energy technologies.
+
+Ruthenium in the environment
+
+Ruthenium is one of the rarest metals on Earth.
+
+Ruthenium is found as the free metal, sometimes associated with platinum, osmium and iridium, in North and South America, and in South Africa. There are few minerals, such as laurite, ruarsite and ruthenarsenite. All are rare and none acts as a commercial source of the metal. Ruthenium is also associated with nickel and deposits (from which it is recovered commercially). World production is 12 tonnes per year and reserves are hestimated to be ariund 5.000 tonnes.
+
+
+Health effects of ruthenium
+Ruthenium compounds are encountered relatively rarely by most people. All ruthenium compounds should be regarded as highly toxic and as carcinogenic. Compounds of ruthenium stain the skin very strongly. It seems that ingested ruthenium is retained strongly in bones. Ruthenium oxide, RuO4, is highly toxic and volatile, and to be avoided.
+
+Rhutenium 106 is one of the radionuclides involved in atmospheric testing of nuclear weapons, which began in 1945, with a US test, and ended in 1980 with a Chinese test. It is among the long-lived radionuclides that have produced and will continue to produce increased cancers risk for decades and centuries to come.
+
+
+Environmental effects of ruthenium
+Very few data are available on ruthenium impact on plants and estimates of its uptake have deducted levels of 5 ppb or less, although algae appear to concentrate it. No negative environmental effects have been reported.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ru.htm#Environmental%20effects%20of%20ruthenium#ixzz64knQaPO7

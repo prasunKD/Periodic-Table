@@ -1,0 +1,98 @@
+Cerium - Ce
+Chemical properties of cerium - Health effects of cerium - Environmental effects of cerium
+Atomic number
+
+58
+
+Atomic mass
+
+140.12 g.mol -1
+
+Electronegativity according to Pauling
+
+1.1
+
+Density
+
+6.76 g.cm-3 at 20°C
+
+Melting point
+
+799 °C
+
+Boiling point
+
+3426 °C
+
+Vanderwaals radius
+
+0.181 nm
+
+Ionic radius
+
+0.102 nm (+3) ; 0,087 nm (+4)
+
+Isotopes
+
+9
+
+Electronic shell
+
+[ Xe ] 4f1 5d1 6s2
+
+Energy of first ionisation
+
+526.8 kJ.mol -1
+
+Energy of second ionisation
+
+1045 kJ.mol -1
+
+Energy of third ionisation
+
+1945.6 kJ.mol -1
+
+Energy of fourth ionisation
+
+3537 kJ.mol -1
+
+Standard Potential
+
+- 2.48 V ( Ce3+/ Ce )
+
+Discovered by
+
+W. von Hisinger in 1903
+
+Cerium (Ce)
+
+Cerium
+Cerium is a malleable, soft, ductile, iron-grey metal, slightly harder than lead. It is very reactive: it tarnishes readily in the air, it oxidizes slowly in cold water and rapidly in hot water. It dissolves in acids. It can burn when heated or scratched with a knife.
+
+Applications
+
+The metal is used as a core for the carbon electrodes of arc lamps, for incandescent mantles for gas lighting. Cerium is used in aluminium and iron alloys, in stainless steel as a precipitation hardening agent, to make permanent magnets. Cerium oxide is part of the catalyst of catalytic converters used to clean up exhaust vehicles, it also catalyzes the reduction of nitrogen oxides (NOx) to nitrogen gas. All new cars are now equipped with catalytic conveter which consist in a ceramic or metal substrate, a coating of aluminium and cerium oxides and a layer of finely dispersed metal such as platinum or rhodium, which is the active surface.
+Cerium sulphide (Ce2S3) is likely to replace cadmium in red pigments for containers, toys, household wares and crates, since cadmium is now considered environmentally undesiderable.
+Other uses of cerium are in flat-screen televisions, low-energy light bulbs and magnetic-optic compact discs, in chromium plating. The use of cerium is still growing, due to the fact that it is suited to produce catalysers and to polish glass.
+
+Cerium in the environment
+
+Cerium is the most abundant of the rare earth elements. It makes up about 0.0046 % of the Earth's crust by weight. Cerium comes mainly from the major lanthanide ores but some is obtained from perovskite, a titanium mineral and allanite, both of which can have enough cerium to make them viable sources. Production amounts to 23.000 tonnes a year, but this amount is likely to increase since more and more cerium is used nowadays.
+
+Health effects of cerium
+Cerium is one of the rare chemicals, that can be found in houses in equipment such as colour televisions, fluorescent lamps, energy-saving lamps and glasses. All rare chemicals have comparable properties.
+
+Cerium is mostly dangerous in the working environment, due to the fact that damps and gasses can be inhaled with air. This can cause lung embolisms, especially during long-term exposure. Cerium can be a threat to the liver when it accumulates in the human body.
+
+Cerium has no know biological role, but it has been noted that cerium salts stimulate metabolism.
+
+Environmental effects of cerium
+Cerium is dumped in the environment in many different places, mainly by petrol-producing industries. It can also enter the environment when household equipment is thrown away. Cerium will gradually accumulate in soils and water soils and this will eventually lead to increasing concentrations in humans, animals and soil particles.
+
+With water animals cerium causes damage to cell membranes, which has several negative influences on reproduction and on the functions of the nervous system.
+
+Thanks to its use in catalytic converters cerium is slowly improving the atmosphere of cities, or wherever diesel engines operates. Diesel engines emits particulates, carbon particles only a few micrometers in diameter. One way to reduce particulates emissions is trap them in a ceramic filter and then burn them off. If a little cerium oxide is added to the fuel itself, it will catalyse the burning of the particulates and eliminate them.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ce.htm#ixzz64lop9EGN

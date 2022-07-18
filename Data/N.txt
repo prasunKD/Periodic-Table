@@ -1,0 +1,102 @@
+Nitrogen - N
+Chemical properties of nitrogen - Health effects of nitrogen - Environmental effects of nitrogen
+Atomic number
+
+7
+
+Atomic mass
+
+14.0067 g.mol -1
+
+Electronegativity according to Pauling
+
+3.0
+
+Density
+
+1.25*10-3 g.cm-3 at 20°C
+
+Melting point
+
+-210 °C
+
+Boiling point
+
+-195.8 °C
+
+Vanderwaals radius
+
+0.092 nm
+
+Ionic radius
+
+0.171 nm (-3) ; 0.011 (+5) ; 0.016 (+3)
+
+Isotopes
+
+4
+
+Electronic shell
+
+[ He ] 2s22p3
+
+Energy of first ionisation
+
+1402 kJ.mol -1
+
+Energy of second ionisation
+
+2856 kJ.mol -1
+
+Energy of third ionisation
+
+4578 kJ.mol -1
+
+Discovered by
+
+Rutherford in 1772
+
+Nitrogen - N
+
+Nitrogen
+Nitrogen is a common normally colourless, odourless, tasteless and mostly diatomic non-metal gas. It has five electrons in its outer shell, so it is trivalent in most compounds.
+
+Applications
+
+The greatest single commercial use of nitrogen is as a component in the manufacture of ammonia, subsequently used as fertilizer and to produce nitric acid.
+Liquid nitrogen (often referred to as LN2) is used as a refrigerant for freezing and transporting food products, for the preservation of bodies and reproductive cells (sperm and eggs), and for stable storage of biological samples.
+Nitric acid salts include some important compounds, for example potassium nitrate, nitric acid, and ammonium nitrate. Nitrated organic compounds, such as nitro-glycerine and trinitrotoluene, are often explosives.
+
+Nitrogen in the environment
+
+Nitrogen constitutes 78 percent of Earth's atmosphere and is a constituent of all living tissues. Nitrogen is an essential element for life, because it is a constituent of DNA and, as such, is part of the genetic code.
+
+Nitrogen molecules occur mainly in air. In water and soils nitrogen can be found in nitrates and nitrites. All of these substances are a part of the nitrogen cycle, and there are all interconnected.
+
+Humans have changed natural nitrate and nitrite proportions radically, mainly due to the application of nitrate-containing manures. Nitrogen is emitted extensively by industrial companies, increasing the nitrate and nitrite supplies in soil and water as a consequence of reactions that take place in the nitrogen cycle. Nitrate concentrations in drinking water will greatly increase due to this.
+
+Health effects of nitrogen
+
+Nitrates and nitrites are known to cause several health effects. These are the
+most common effects:
+
+- Reactions with haemoglobin in blood, causing the oxygen carrying capacity of the blood to decrease (nitrite)
+- Decreased functioning of the thyroid gland (nitrate)
+- Vitamin A shortages (nitrate)
+- Fashioning of nitro amines, which are known as one of the most common causes of cancer (nitrates and nitrites)
+
+But from a metabolic point of view, nitric oxide (NO) is much more important than nitrogen alone. In 1987, Salvador Moncada discovered that this was a vital body messenger for relaxing muscles, and today we know that it is involved in the cardiovascular system, the immune system, the central nervous system and the peripheral nervous system. The enzyme that produces nitric oxide, called nitric oxide synthesis, is abundant in the brain.
+
+Although nitric oxide is relatively short-lived, it can diffuse through membranes to carry out its functions. In 1991, a team headed by K.E. Anderson of Lund University Hospital, Sweden, showed that nitric oxide activates an erection by relaxing the muscle that controls the bloodflow into the penis. The drug Viagra works by releasing nitric oxide to produce the same effect.
+
+Environmental effects of nitrogen
+Humans have radically changed natural supplies of nitrates and nitrites. The main cause of the addition of nitrates and nitrites is the extensive use of fertilizers. Combustion processes can also enhance the nitrate and nitrite supplies, due to the emission of nitrogen oxides that can be converted to nitrates and nitrites in the environment.
+Nitrates and nitrites also form during chemical production and they are used as food conservers. This causes groundwater and surface water nitrogen concentration, and nitrogen in food to increase greatly.
+
+The addition of nitrogen bonds in the environment has various effects. Firstly, it can change the composition of species due to susceptibility of certain organisms to the consequences of nitrogen compounds. Secondly, mainly nitrite may cause various health effects in humans and animals. Food that is rich in nitrogen compounds can cause the oxygen transport of the blood to decrease, which can have serious consequences for cattle.
+
+High nitrogen uptake can cause problems in the thyroid gland and it can lead to vitamin A shortages. In the animal stomach and intestines nitrates can form nitroamines; dangerously carcinogenic compounds.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/n.htm#ixzz64iV50Xw0

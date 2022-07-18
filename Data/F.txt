@@ -1,0 +1,98 @@
+Fluorine - F
+Chemical properties of fluorine - Health effects of fluorine - Environmental effects of fluorine
+Atomic number
+
+9
+
+Atomic mass
+
+18.998403 g.mol -1
+
+Electronegativity according to Pauling
+
+4
+
+Density
+
+1.8*10-3 g.cm-3 at 20°C
+
+Melting point
+
+-219.6 °C
+
+Boiling point
+
+-188 °C
+
+Vanderwaals radius
+
+0.135 nm
+
+Ionic radius
+
+0.136 nm (-1) ; 0.007 (+7)
+
+Isotopes
+
+2
+
+Electronic shell
+
+[ He ] 2s22p5
+
+Energy of first ionisation
+
+1680.6 kJ.mol -1
+
+Energy of second ionisation
+
+3134 kJ.mol -1
+
+Energy of third ionisation
+
+6050 kJ mol-1
+
+Standard potential
+
+- 2.87 V
+
+Discovered by
+
+Moissan in 1886
+
+Flurorine - F
+
+
+Fluorine
+Fluorine is an univalent poisonous gaseous halogen, it is pale yellow-green and it is the most chemically reactive and electronegative of all the elements. Fluorine readily forms compounds with most other elements, even with the noble gases krypton, xenon and radon. It is so reactive that glass, metals, and even water, as well as other substances, burn with a bright flame in a jet of fluorine gas.
+In aqueous solution, fluorine commonly occurs as the fluoride ion F-. Fluorides are compounds that combine fluoride with some positively charged counterpart.
+
+Applications
+
+Atomic fluorine and molecular fluorine are used for plasma etching in semiconductor manufacturing, flat panel display production and MEMs fabrication.
+Fluorine is indirectly used in the production of low friction plastics such as teflon and in halons such as freon, in the production of uranium. Fluorochlorohydrocarbons are used extensively in air conditioning and in refrigeration.
+Fluorides are often added to toothpaste and, somewhat controversially, to municipal water supplies to prevent dental cavities. Fore more information visit our page on mineral water.
+
+Fluorine in the environment
+
+Annual world production of the mineral fluorite in around 4 million tonnes, and there are around 120 million tonnes of mineral reserves. The main mining areas for fluorite are China, Mexico and Western Europe.
+Fluorine occurs naturally in the earth's crust where it can be found in rocks, coal and clay. Fluorides are released into the air in wind-blown soil. Fluorine is the 13th most aboundant element in the Earth's crust: 950 ppm are contanined in it. Soils contain approximatively 330 ppm of fluorine, ranging from 150 to 400 ppm. Some solis can have as much as 1000 ppm and contaminated solis have been found with 3500 ppm. Hydrogen fluorides can be released into air through combustion processes in the industry. Fluorides that are found in air will eventually drop onto land or into water. When fluorine is attached to very small particles it can remain in the air for a long period of time.
+In the atmosphere 0.6 ppb of fluorine are present as salt spray and organicochloride compounds. Up to 50 ppb has been recorded in city environments.
+
+Health effects of fluorine
+Small amounts of fluorine are naturally present in water, air, plants and animals. As a result humans are exposed to fluorine through food and drinking water and by breathing air. Fluorine can be found in any kind of food in relatively small quantities. Large quantities of fluorine can be found in tea and shellfish.
+
+Fluorine is essential for the maintenance of solidity of our bones. Fluorine can also protect us from dental decay, if it is applied through toothpaste twice a day. If fluorine is absorbed too frequently, it can cause teeth decay, osteoporosis and harm to kidneys, bones, nerves and muscles.
+
+Fluorine gas is released in the industries. This gas is very dangerous, as it can cause death at very high concentrations. At low concentrations it causes eye and nose irritations.
+
+Environmental effects of fluorine
+When fluorine from the air ends up in water it will settle into the sediment. When it ends up in soils, fluorine will become strongly attached to soil particles. In the environment fluorine cannot be destroyed; it can only change form.
+
+Fluorine that is located in soils may accumulate in plants. The amount of uptake by plants depends upon the type of plant and the type of soil and the amount and type of fluorine found in the soil. With plants that are sensitive for fluorine exposure even low concentrations of fluorine can cause leave damage and a decline in growth. Too much fluoride, wheater taken in form the soil by roots, or asdorbed from the atmosphere by the leaves, retards the growth of plants and reduces crop yields. Those more affected are corns and apricots.
+
+Animals that eat fluorine-containing plants may accumulate large amounts of fluorine in their bodies. Fluorine primarily accumulates in bones. Consequently, animals that are exposed to high concentrations of fluorine suffer from dental decay and bone degradation. Too much fluorine can also cause the uptake of food from the paunch to decline and it can disturb the development of claws. Finally, it can cause low birth-weights.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/f.htm#ixzz64iVXjl7F

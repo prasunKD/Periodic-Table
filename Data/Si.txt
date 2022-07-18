@@ -1,0 +1,119 @@
+Silicon - Si
+Chemical properties of silicon - Health effects of silicon - Environmental effects of silicon
+Atomic number
+
+14
+
+Atomic mass
+
+28.0855 g.mol -1
+
+Electronegativity according to Pauling
+
+1.8
+
+Density
+
+2.33 g.cm -3 at 20 °C
+
+Melting point
+
+1410 °C
+
+Boiling point
+
+3265 °C
+
+Vanderwaals radius
+
+0.132 nm
+
+Ionic radius
+
+0.271 (-4) nm ; 0.041(+4)
+
+Isotopes
+
+5
+
+Electronic shell
+
+[Ne] 3s23p2
+
+Energy of first ionisation
+
+786.3 kJ.mol -1
+
+Energy of second ionisation
+
+1576.5 kJ.mol -1
+
+Energy of third ionisation
+
+3228.3 kJ.mol -1
+
+Energy of fourth ionisation
+
+4354.4 kJ.mol -1
+
+Discovered by
+
+Jons Berzelius in 1823
+
+Silicon - Si
+
+
+
+Silicon
+Silicon is the most abundant electropositive element in The Earth’s crust. It’s a metalloid with a marked metallic luster and very brittle. It is usually tetravalent in its compounds, although sometimes its bivalent, and it’s purely electropositive in its chemical behaviour. Moreover, pentacoordinated and hexacoordinated silicon compounds are also known.
+
+Natural silicon contains 92.2% of the isotope 28, 4.7% of silicon 29 and 3.1% of silicon 30. Apart from those stable natural isotopes, various radiactive artificial isotopes are known. Elemental silicon has the physical properties of metalloids, similar to the ones or germanium, situated under it in the group IV of the periodic table. Silicon is an intrinsic semiconductor in it’s purest form, although the intensity of its semiconduction is highly increased by introducing small quantities of impurities. Silicon is similar to metals in its chemical behaviour.
+
+It’s almost as electropositive as tin and much more positive than germanium or lead. According to this metallic character, it forms tetrapositive ions and various covalent compounds; it appears as a negative ion only in a few silicides and as a positive constituent of oxyacids or complex anions.
+
+It forms various series of hydrides, various halides (many of which contain silicon-silicon bounds) and many series of compounds which contain oxygen, which can have ionic or covalent properties.
+
+Applications
+
+Silicon is the principal component of glass, cement, ceramics, most semiconductor devices, and silicones, the latter a plastic substance often confused with silicon. Silicon is also an important constituent of some steels and a major ingredient in bricks. It is a refractory material used in making enamels and pottery.
+
+Elemental raw silicon and its intermetallic compounds are used as alloy integrals to provide more resistance to the aluminium, magnesium, copper and other metals. Metallurgic silicon with 98-99% purity is used as raw material in the manufacture of organosilicic and silicon resins, seals and oils. Silicon chips are used in integrated circuits. Photovoltaic cells for direct conversion of solar energy use thin cut slices of simple silicon crystals of electronic grade. Silicon dioxide is used as raw material to produce elemental silicon and silicon carbide. Big silicon crystals are used for piezoelectric glasses. Melted quartz sands are transformed in silicon glasses which are used in laboratories and chemical plants, as well as in electric insulators. A colloidal dispersion of silicon in water is used as a coating agent and as ingredient for certain enamels.
+
+It is known that silicon forms compounds with 64 out of the 96 stable elements and possibly form silicides with other 18 elements. Appart from metallic silicides, which are used in big quantities in metallurgy, it forms important commonly used compounds with hydrogen, carbon, halogens, nitrogen, oxygen and sulphur. Moreover, many useful organosilicic by-products.
+
+Silicon in the environment
+
+Silicon is found in many dioxide forms and in uncountable variations from the natural silicates.
+
+The silicon is much more abundant than any other element, apart from the oxygen. It constitutes 27,72% of the solid Earth’s crust, while the oxygen constitutes 46,6%, and the next element after silicon, aluminium, is found in a 8,13%.
+
+Sand is used as source of the silicon produced commercially. A few siliate minerals are mined, e.g. talc and mica. Other mined silicates are feldspars, nephenile, olivine, vermiculite, perlite, kaolinite, etc. At the other extreme there are forms of silica so rare that they are desirable for this reason alone: gemstone opal, agate and rhinestone.
+
+Health effects of silicon
+Silicon concentrates in no particular organ of the body but is found mainly in in connective tissues and skin. Silicon is non-toxic as the element and in all its natural forms, nameli silica and silicates, which are the most abundant.
+
+Elemental silicon is an inert material, which appears to lack the property of causing fibrosis in lung tissue. However, slight pulmonary lesions have been reported in laboratory animals from intratracheal injections of silicon dust. Silicon dust has little adverse affect on lungs and does not appear to produce significant organic disease or toxic effects when exposures are kept beneath exposure limits. Silicon may cause chronic respiratory effects. Crystalline silica (silicon dioxide) is a potent respiratory hazard. However, the likelihood of crystalline silica generation during normal processing is very remote. LD50 (oral)- 3160 mg/kg. (LD50: Lethal dose 50. Single dose of a substance that causes the death of 50% of an animal population from exposure to the substance by any route other than inhalation. Usually expressed as milligrams or grams of material per kilogram of animal weight.)
+
+Silicon crystalline irritates the skin and eyes on contact. Inhalation will cause irritation to the lungs and mucus membrane. Irritation to the eyes will cause watering and redness. Reddening, scaling, and itching are characteristics of skin inflammation.
+
+Lung cancer is associated with occupational exposures to crystalline silica specifically quartz and cristobalite. An exposure-response relationship has been reported in studies of miners, diatomaceous earth workers, granite workers, pottery workers, refractory brick workers, and other workers
+
+Several epidemiological studies have reported statistically significant numbers of excess deaths or cases of immunologic disorders and autoimmune diseases in silica-exposed workers. These diseases and disorders include scleroderma, rheumatoid arthritis, systemic lupus erythematosus, and sarcoidosis.
+
+Recent epidemiological studies have reported statistically significant associations of occupational exposure to crystalline silica with renal diseases and subclinical renal changes
+
+Crystalline silica may affect the immune system, leading to mycobacterial infections (tuberculous and nontuberculous) or fungal, especially in workers with silicosis
+
+Occupational exposure to breathable crystalline silica is associated with bronchitis, chronic obstructive pulmonary disease (COPD) and emphysema. Some epidemiologic studies suggest that these health effects may be less frequent or absent in nonsmokers.
+
+
+Effects of silicon on the environment
+No negative environmental effects have been reported.
+
+Now check out our silicon and water page!
+
+Sources of periodic table
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/si.htm#ixzz64iWmIVfl

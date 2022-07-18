@@ -1,0 +1,112 @@
+Cadmium - Cd
+Chemical properties of cadmium - Health effects of cadmium - Environmental effects of cadmium
+Atomic number
+
+48
+
+Atomic mass
+
+112.4 g.mol -1
+
+Electronegativity according to Pauling
+
+1.7
+
+Density
+
+8.7 g.cm-3 at 20°C
+
+Melting point
+
+321 °C
+
+Boiling point
+
+767 °C
+
+Vanderwaals radius
+
+0.154 nm
+
+Ionic radius
+
+0.097 nm (+2)
+
+Isotopes
+
+15
+
+Electronic shell
+
+[ Kr ] 4d10 5s2
+
+Energy of first ionisation
+
+866 kJ.mol -1
+
+Energy of second ionisation
+
+1622 kJ.mol -1
+
+Standard potential
+
+-0.402 V
+
+Discovered
+
+Fredrich Stromeyer in 1817
+
+Cadmium (Cd)
+
+Cadmium
+Cadmium is a lustrous, silver-white, ductile, very malleable metal. Its surface has a bluish tinge and the metal is soft enough to be cut with a knife, but it tarnishes in air. It is soluble in acids but not in alkalis. It is similar in many respects to zinc but it forms more complex compounds.
+
+Applications
+
+About three-fourths of cadmium is used in Ni-Cd batteries, most of the remaining one-fourth is used mainly for pigments, coatings and plating, and as stabilizers for plastics. Cadium has been used particularly to electroplate steel where a film of cadmium only 0.05 mm thick will provide complete protection against the sea. Cadmium has the ability to absorb neutrons, so it is used as a barrier to control nuclear fission.
+
+Cadmium in the environment
+
+Cadmium can mainly be found in the earth's crust. It always occurs in combination with zinc. Cadmium also consists in the industries as an inevitable by-product of zinc, lead and copper extraction. After being applied it enters the environment mainly through the ground, because it is found in manures and pesticides.
+
+Naturally a very large amount of cadmium is released into the environment, about 25,000 tons a year. About half of this cadmium is released into rivers through weathering of rocks and some cadmium is released into air through forest fires and volcanoes. The rest of the cadmium is released through human activities, such as manufacturing.
+
+No cadmium ore is mined for the metal, because more than enough is produced as a byproduct of the smelting of zinc from its ore, sphelerite (ZnS), in which CdS is a significant impurity, making up as much as 3%. Consequently, the main mining areas are those associated with zinc. World production is around 14.000 tonnes per year, the main producing country is Canada, with the USA, Australia, Mexico, JApan and Peru also being the major suppliers.
+
+Health effects of cadmium
+Human uptake of cadmium takes place mainly through food. Foodstuffs that are rich in cadmium can greatly increase the cadmium concentration in human bodies. Examples are liver, mushrooms, shellfish, mussels, cocoa powder and dried seaweed.
+
+An exposure to significantly higher cadmium levels occurs when people smoke. Tobacco smoke transports cadmium into the lungs. Blood will transport it through the rest of the body where it can increase effects by potentiating cadmium that is already present from cadmium-rich food.
+
+Other high exposures can occur with people who live near hazardous waste sites or factories that release cadmium into the air and people that work in the metal refinery industry. When people breathe in cadmium it can severely damage the lungs. This may even cause death.
+
+Cadmium is first transported to the liver through the blood. There, it is bond to proteins to form complexes that are transported to the kidneys. Cadmium accumulates in kidneys, where it damages filtering mechanisms. This causes the excretion of essential proteins and sugars from the body and further kidney damage. It takes a very long time before cadmium that has accumulated in kidneys is excreted from a human body.
+
+Other health effects that can be caused by cadmium are:
+
+- Diarrhoea, stomach pains and severe vomiting
+- Bone fracture
+- Reproductive failure and possibly even infertility
+- Damage to the central nervous system
+- Damage to the immune system
+- Psychological disorders
+- Possibly DNA damage or cancer development
+
+Environmental effects of cadmium
+Cadmium waste streams from the industries mainly end up in soils. The causes of these waste streams are for instance zinc production, phosphate ore implication and bio industrial manure. Cadmium waste streams may also enter the air through (household) waste combustion and burning of fossil fuels. Because of regulations only little cadmium now enters the water through disposal of wastewater from households or industries.
+
+Another important source of cadmium emission is the production of artificial phosphate fertilizers. Part of the cadmium ends up in the soil after the fertilizer is applied on farmland and the rest of the cadmium ends up in surface waters when waste from fertilizer productions is dumped by production companies.
+
+Cadmium can be transported over great distances when it is absorbed by sludge. This cadmium-rich sludge can pollute surface waters as well as soils.
+
+Cadmium strongly adsorbs to organic matter in soils. When cadmium is present in soils it can be extremely dangerous, as the uptake through food will increase. Soils that are acidified enhance the cadmium uptake by plants. This is a potential danger to the animals that are dependent upon the plants for survival. Cadmium can accumulate in their bodies, especially when they eat multiple plants. Cows may have large amounts of cadmium in their kidneys due to this.
+
+Earthworms and other essential soil organisms are extremely susceptive to cadmium poisoning. They can die at very low concentrations and this has consequences for the soil structure. When cadmium concentrations in soils are high they can influence soil processes of microrganisms and threat the whole soil ecosystem.
+
+In aquatic ecosystems cadmium can bio accumulate in mussels, oysters, shrimps, lobsters and fish. The susceptibility to cadmium can vary greatly between aquatic organisms. Salt-water organisms are known to be more resistant to cadmium poisoning than freshwater organisms.
+
+Animals eating or drinking cadmium sometimes get high blood-pressures, liver disease and nerve or brain damage.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/cd.htm#ixzz64kpxz2Y1

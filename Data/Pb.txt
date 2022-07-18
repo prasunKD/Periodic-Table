@@ -1,0 +1,120 @@
+Lead - Pb
+Chemical properties of lead - Health effects of lead - Environmental effects of lead
+Atomic number
+
+82
+
+Atomic mass
+
+207.2 g.mol -1
+
+Electronegativity according to Pauling
+
+1.8
+
+Density
+
+11.34 g.cm-3 at 20°C
+
+Melting point
+
+327 °C
+
+Boiling point
+
+1755 °C
+
+Vanderwaals radius
+
+0.154 nm
+
+Ionic radius
+
+0.132 nm (+2) ; 0.084 nm (+4)
+
+Isotopes
+
+13
+
+Electronic shell
+
+[ Xe ] 4f14 5d10 6s2 6p2
+
+Energy of first ionisation
+
+715.4 kJ.mol -1
+
+Energy of second ionisation
+
+1450.0 kJ.mol -1
+
+Energy of third ionisation
+
+3080.7 kJ.mol -1
+
+Energy of fourth ionisation
+
+4082.3 kJ.mol -1
+
+Energy of fifth ionisation
+
+6608 kJ.mol -1
+
+Discovered by
+
+The ancients
+
+Lead - Pb
+
+Lead
+Lead is a bluish-white lustrous metal. It is very soft, highly malleable, ductile, and a relatively poor conductor of electricity. It is very resistant to corrosion but tarnishes upon exposure to air. Lead isotopes are the end products of each of the three series of naturally occurring radioactive elements.
+
+Applications
+
+Lead pipes bearing the insignia of Roman emperors, used as drains from the baths, are still in service. Alloys include pewter and solder. Tetraethyl lead (PbEt4) is still used in some grades of petrol (gasoline) but is being phased out on environmental grounds.
+Lead is a major constituent of the lead-acid battery used extensively in car batteries. It is used as a coloring element in ceramic glazes, as projectiles, in some candles to threat the wick. It is the traditional base metal for organ pipes, and it is used as electrodes in the process of electrolysis. One if its major uses is in the glass of computer and television screens, where it shields the viewer from radiation. Other uses are in sheeting, cables, solders, lead crystal glassware, ammunitions, bearings and as weight in sport equipment.
+
+Lead in the environment
+
+Native lead is rare in nature. Currently lead is usually found in ore with zinc, silver and copper and it is extracted together with these metals. The main lead mineral in Galena (PbS) and there are also deposits of cerrussite and anglesite which are mined. Galena is mined in Australia, which produces 19% of the world's new lead, followed by the USA, China, Peru' and Canada. Some is also mined in Mexico and West Germany. World production of new lead is 6 million tonnes a year, and workable reserves total are estimated 85 million tonnes, which is less than 15 year's supply.
+
+Lead occurs naturally in the environment. However, most lead concentrations that are found in the environment are a result of human activities. Due to the application of lead in gasoline an unnatural lead-cycle has consisted. In car engines lead is burned, so that lead salts (chlorines, bromines, oxides) will originate.
+These lead salts enter the environment through the exhausts of cars. The larger particles will drop to the ground immediately and pollute soils or surface waters, the smaller particles will travel long distances through air and remain in the atmosphere. Part of this lead will fall back on earth when it is raining. This lead-cycle caused by human production is much more extended than the natural lead-cycle. It has caused lead pollution to be a worldwide issue.
+
+Health effects of lead
+Lead is a soft metal that has known many applications over the years. It has been used widely since 5000 BC for application in metal products, cables and pipelines, but also in paints and pesticides. Lead is one out of four metals that have the most damaging effects on human health. It can enter the human body through uptake of food (65%), water (20%) and air (15%).
+
+Foods such as fruit, vegetables, meats, grains, seafood, soft drinks and wine may contain significant amounts of lead. Cigarette smoke also contains small amounts of lead.
+
+Lead can enter (drinking) water through corrosion of pipes. This is more likely to happen when the water is slightly acidic. That is why public water treatment systems are now required to carry out pH-adjustments in water that will serve drinking purposes.
+
+For as far as we know, lead fulfils no essential function in the human body, it can merely do harm after uptake from food, air or water.
+
+Lead can cause several unwanted effects, such as:
+- Disruption of the biosynthesis of haemoglobin and anaemia
+- A rise in blood pressure
+- Kidney damage
+- Miscarriages and subtle abortions
+- Disruption of nervous systems
+- Brain damage
+- Declined fertility of men through sperm damage
+- Diminished learning abilities of children
+- Behavioural disruptions of children, such as aggression, impulsive behavior and hyperactivity
+
+Lead can enter a foetus through the placenta of the mother. Because of this it can cause serious damage to the nervous system and the brains of unborn children.
+
+Environmental effects of lead
+
+Not only leaded gasoline causes lead concentrations in the environment to rise. Other human activities, such as fuel combustion, industrial processes and solid waste combustion, also contribute.
+
+Lead can end up in water and soils through corrosion of leaded pipelines in a water transporting system and through corrosion of leaded paints. It cannot be broken down; it can only converted to other forms.
+
+Lead accumulates in the bodies of water organisms and soil organisms. These will experience health effects from lead poisoning. Health effects on shellfish can take place even when only very small concentrations of lead are present. Body functions of phytoplankton can be disturbed when lead interferes. Phytoplankton is an important source of oxygen production in seas and many larger sea-animals eat it. That is why we now begin to wonder whether lead pollution can influence global balances.
+
+Soil functions are disturbed by lead intervention, especially near highways and farmlands, where extreme concentrations may be present. Soil organisms than suffer from lead poisoning, too.
+
+Lead is a particularly dangerous chemical, as it can accumulate in individual organisms, but also in entire food chains.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/pb.htm#ixzz64kreOoqp

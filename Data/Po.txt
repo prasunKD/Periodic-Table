@@ -1,0 +1,79 @@
+Polonium - Po
+Chemical properties of polonium - Health effects of polonium - Environmental effects of polonium
+Atomic number
+
+84
+
+Atomic mass
+
+(210) g.mol -1
+
+Electronegativity according to Pauling
+
+2.0
+
+Density
+
+9.51 g.cm-3 at 20°C
+
+Melting point
+
+254 °C
+
+Boiling point
+
+962 °C
+
+Vanderwaals radius
+
+0.164 nm
+
+Ionic radius
+
+0.102 nm (+4)
+
+Isotopes
+
+12
+
+Electronic shell
+
+[ Xe ] 4f14 5d10 6s2 6p4
+
+Energy of first ionisation
+
+813.0 kJ.mol -1
+
+Discovered by
+
+Pierre and Marie Curie in 1898
+
+Polonium - Po
+
+Polonium
+Polonium is a radioactive, extremely rare semi-metal. It is reactive, silvery-gray, it dissolves in dilute acids, but it is only slightly soluble in alkalis. it is fairly volatile: about half of a sample of it will evaporate within 3 days (unless it is kept in a sealed container).
+
+Applications
+
+Polonium was once used in textile mills (to eliminate static charges) and by the manufacturers of photographic plates (in brushes to remove the accumulated dust). It is used as a source of alfa-radiation for research and, alloyed with beryllium it can act as a portable source of neutrons, which normally only access to a nuclear reactor can provide.
+
+Polonium in the environment
+
+Polonium is a very rare element in nature. it is found in uranium ores, but none extract it form these ores. Polonium is produced in about 100 g/year by bombarding bismuth with neutrons in a nuclear reactor.
+
+Health effects of polonium
+Polonium is studied in a few nuclear research laboratories where its high radioactivity as an alpha-emitter requires special handling techniques and precautions.
+
+Polonium -210 is the only component of cigarette smoke that has produced cancer by itself in laboratory animals by inhalation - tumors appeared already at a polonium level five times lower than those of a normal heavy smoker.
+
+Lung cancer rates among men kept climbing from a rarity in 1930 (4/100,000 per year) to the No. 1 cancer killer in 1980 (72/100,000) in spite of an almost 20 percent reduction in smoking. But during the same period, the level of polonium -210 in American tobacco had tripled. This coincided with the increase in the use of phosphate fertilizers by tobacco growers - calcium phosphate ore accumulates uranium and slowly releases radon gas.
+
+As radon decays, its electrically charged daughter products attach themselves to dust particles, which adhere to the sticky hairs on the underside of tobacco leaves. This leaves a deposit of radioactive polonium and lead on the leaves. Then, the intense localized heat in the burning tip of a cigarette volatilizes the radioactive metals. While cigarette filters can trap chemical carcinogens, they are ineffective against radioactive vapors.
+
+The lungs of a chronic smoker end up with a radioactive lining in a concentration much higher than from residential radon. These particles emit radiation. Smoking two packs of cigarettes a day imparts a radiation dose by alpha particles of about 1,300 millirem per year. For comparison, the annual radiation dose to the average American from inhaled radon is 200 mrem. However, the radiation dose at the radon "action level" of 4 pCi/L is roughly equivalent to smoking 10 cigarettes a day.
+In addition, polunium-210 is soluble and is circulated through the body to every tissue and cell in levels much higher than from residential radon. The proof is that it can be found in the blood and urine of smokers. The circulating polonium -210 causes genetic damage and early death from diseases reminiscent of early radiological pioneers: liver and bladder cancer, stomach ulcer, leukemia, cirrhosis of liver, and cardiovascular diseases.
+The Surgeon General C. Everett Koop stated that radioactivity, rather than tar, accounts for at least 90% of all smoking-related lung cancers. The Center for Disease Control concluded "Americans are exposed to far more radiation from tobacco smoke than from any other source."
+Cigarette smoking accounts for 30% of all cancer deaths. Only poor diet rivals tobacco smoke as a cause of cancer in the U.S., causing a comparable number of fatalities each year. However, the National Cancer Institute, with an annual budget of $500 million, has no active funding for research of radiation from smoking or residential radon as a cause of lung cancer, presumably, to protect the public from undue fears of radiation.
+
+Environmental effects of polonium
+The environmental and biochemical forces which may tend to reconcentrate these toxic materials in living cells are not well known. Although polonium occurs naturally, it has become much more available for entering into water, food, living cells and tissue since the mining boom which began shortly after the Second World War.

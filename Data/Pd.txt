@@ -1,0 +1,97 @@
+Palladium - Pd
+Chemical properties of palladium - Health effects of palladium - Environmental effects of palladium
+Atomic number
+
+46
+
+Atomic mass
+
+106.42 g.mol -1
+
+Electronegativity according to Pauling
+
+2.2
+
+Density
+
+11.9 g.cm-3 at 20°C
+
+Melting point
+
+1560 °C
+
+Boiling point
+
+2927 °C
+
+Isotopes
+
+9
+
+Vanderwaals radius
+
+0.065 nm (+2)
+
+Ionic radius
+
+0.137 nm
+
+Electronic shell
+
+[ Kr ] 4d10 5s0
+
+Energy of first ionisation
+
+703 kJ.mol -1
+
+Energy of second ionisation	1870 kJ.mol -1
+Energy of third ionisation	3177 kJ.mol -1
+Standard potential
+
++ 0.85 V (Pd2+/ Pd )
+
+Discovered by
+
+William Wollaston in 1803
+
+Palladium - Pd
+
+
+Palladium
+Palladium, together with rhodium, ruthenium, osmium, iridium, and platinum form a group of elements referred to as the platinum group metals (PGM). Palladium is a lustrous silver-white metal. It has a face-centered cubic crystalline structure, at ordinary temperatures it is strongly resistant to corrosion in air and to the action of acids. It is attacked by hot acids, and it dissolves in aqua regia. It forms many compounds and several complex salts. Palladium has a great ability to absorb hydrogen (up to 900 times its own volume).
+
+Applications
+
+Because of its corrosion resistance, a major use of palladium is in alloys used in low voltage electrical contacts. When it is finely divided, palladium forms a good catalyst and is used to speed up hydrogenation and dehydrogenation reactions.
+
+Palladium is used extensively in jewelry-making in certain alloys called “white gold.” It may be alloyed with platinum or substituted for it. It is used in watch bearings, springs, and balance wheels and also for mirrors in scientific instruments.
+
+In 1990, most catalytic converters relied on platinum to reduce emissions from car exhausts but, while this metal is still important, palladium is now the main ingredient because this is even more efficient at removing unburnt and partially burnt hydrcarbons from the fuel.
+
+Palladium is nowadays more and more used in electrical appliances such as wide screen televisions, computers and mobile phones, in the form of tiny multi-layer ceramic capacitors, of which more than 400 billion are made each year.
+
+For use in dentistry it is alloyed with silver, gold, and copper. Palladium salts are used in electroplating.
+
+Palladium in the environment
+
+Specimen of uncombined palladium are found in Brazil, and there are some minerals rich in palladium, but most of it is extracted as a by-product form nickel refining.
+
+Palladium is found as the free metal associated with platinum and other platinum group metals in Australia, Brazil, Russia, Ethiopia, and North and South America, as well as with nickel and copper deposits (from which it is recovered commercially) in Canada and South Africa.
+
+
+
+Health effects of palladium
+
+Palladium is regarded as of low toxicity, being poorly adsorbed by the body when ingested.
+It may cause skin, eye or respiratory tract irritation, may cause skin sensitisation.
+Liquid may cause burns to skin and eyes. If swallowed, do not induce vomiting, if conscious give water, milk... In case of contact, flush eyes or skin with plenty of water.
+Palladium compounds are encountered relatively rarely by most people. All palladium compounds should be regarded as highly toxic and as carcinogenic. Palladium chloride is toxic, harmful if swallowed, inhaled or absorbed through the skin. It causes bone marrow, liver and kidney damage in laboratory animals. Irritant.
+
+However palladium chloride was formerly prescribed as a treatment for tuberculosis at the rate of 0.065 g per day (approximately 1 mg kg-1) without too many bad side effects.
+
+Environmental effects of palladium
+Do not allow material to be released to the environment without proper environmental permits. Palladium has little environmental impact. It is present at low levels in some soils, and the leaves of trees have been found to containg 0.4 ppm. Some plants, such as the water hyacinth, are killed by low levels of palladium salts but most plants tolerate it, although tests indicate that their growth is affected at levels above 3 ppm.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/pd.htm#ixzz64korgVgX

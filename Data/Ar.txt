@@ -1,0 +1,102 @@
+Home Periodic table Elements Argon
+Argon - Ar
+Chemical properties of argon - Health effects of argon - Environmental effects of argon
+Atomic number
+
+18
+
+Atomic mass
+
+39.948 g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+1.78.10 -3 g.cm -3 at 0 °C
+
+Melting point
+
+-189 °C
+
+Boiling point
+
+-185.7 °C
+
+Vanderwaals radius
+
+0.192 nm
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+6
+
+Electronis shell
+
+[Ne] 3s23p6
+
+Energy of first ionisation
+
+1520 kJ.mol -1
+
+Energy of second ionisation	2665.8 kJ.mol -1
+Energy of third ionisation	3931 kJ.mol -1
+Discovered by
+
+Sir Ramsay in 1894
+
+Argon - Ar
+
+
+Argon
+Argon was suspected to be present in air by Henry Cavendish in 1785 but wasn't discovered until 1894 by Lord Rayleigh and Sir William Ramsay.
+
+Argon is the third noble gas, in period 8, and it makes up about 1% of the Earth's atmosphere.
+
+Argon has approximately the same solubility as oxygen and it is 2.5 times as soluble in water as nitrogen . This chemically inert element is colorless and odorless in both its liquid and gaseous forms. It is not found in any compounds.
+
+This gas is isolated through liquid air fractionation since the atmosphere contains only 0.94% argon. The Martian atmosphere in contrast contains 1.6% of Ar-40 and 5 ppm Ar-36. World production exceeds 750.000 tonnes per year, the supply is virtually inexhaustible.
+
+Applications
+
+Argon does not react with the filament in a lightbulb even under high temperatures, so is used in lighting and in other cases where diatomic nitrogen is an unsuitable (semi-)inert gas.
+Argon is perticularly important for the metal industry, being used as an inert gas shield in arc welding and cutting. Other uses incude non-reactive blanket in the manufacture of titanium and other reactive elements and as a protective atmosphere for growing silicon and germanium crystals. Argon-39 has been used for a number of applications, primarily ice coring. It has also been used for ground water dating. Argon is also used in technical SCUBA diving to inflate the drysuit, due to its nonreactive, heat isolating effect.
+Argon as the gap between the panes of glass provides better insulation because it is a poorer conductor of heat than ordinary air. The most exotic use of argon is in the tyre of luxury cars.
+
+Argon in the environment
+
+In earth's atmosphere, Ar-39 is made by cosmic ray activity, primarily with Ar-40. In the subsurface environment, it is also produced through neutron-capture by K-39 or alpha emission by calcium. Argon-37 is produced from the decay of calcium-40, the result of subsurface nuclear explosions. It has a half-life of 35 days.
+
+Argon is present in some potassium minerals because of radiactive decay of the isotope potassium-40
+
+Health effects of argon
+Routes of exposure: The substance can be absorbed into the body by inhalation.
+
+Inhalation risk: On loss of containment this liquid evaporates very quickly causing supersaturation of the air with serious risk of suffocation when in confined areas.
+
+Effects of exposure: Inhalation: Dizziness. Dullness. Headache. Suffocation. Skin: On contact with liquid: frostbite. Eyes: On contact with liquid: frostbite.
+
+Inhalation: This gas is inert and is classified as a simple asphyxiant. Inhalation in excessive concentrations can result in dizziness, nausea, vomiting, loss of consciousness, and death. Death may result from errors in judgment, confusion, or loss of consciousness which prevent self-rescue. At low oxygen concentrations, unconsciousness and death may occur in seconds without warning.
+
+The effect of simple asphyxiant gases is proportional to the extent to which they diminish the amount (partial pressure) of oxygen in the air that is breathed. The oxygen may be diminished to 75% of it's normal percentage in air before appreciable symptoms develop. This in turn requires the presence of a simple asphyxiant in a concentration of 33% in the mixture of air and gas. When the simple asphyxiant reaches a concentration of 50%, marked symptoms can be produced. A concentration of 75% is fatal in a matter of minutes.
+
+Symptoms: The first symptoms produced by a simple asphyxiant are rapid respirations and air hunger. Mental alertness is diminished and muscular coordination is impaired. Later judgment becomes faulty and all sensations are depressed. Emotional instability often results and fatigue occurs rapidly. As the asphyxia progresses, there may be nausea and vomiting, prostration and loss of consciousness, and finally convulsions, deep coma and death.
+
+Environmental effects of argon
+No known ecological damage caused by argon.
+
+No adverse environmental consequences are expected. Argon gas occurs naturally in the environment. The gas will dissipate rapidly in well ventilated areas.
+
+The effects of argon on plants or animals is not currently known. It is not expected to harm aquatic life.
+
+Argon does not contain any ozone depleting chemicals and is not listed as a marine pollutant by DOT (Department of Transportation, USA).
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ar.htm#ixzz64iXS13Md

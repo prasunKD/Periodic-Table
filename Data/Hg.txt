@@ -1,0 +1,112 @@
+Home Periodic table Elements Mercury
+Mercury - Hg
+Chemical properties of mercury - Health effects of mercury - Environmental effects of mercury
+Atomic number
+
+80
+
+Atomic mass
+
+200.59 g.mol -1
+
+Electronegativity according to Pauling
+
+1.9
+
+Density
+
+13.6 g.cm-3 at 20°C
+
+Melting point
+
+- 38.9 °C
+
+Boiling point
+
+356.6 °C
+
+Vanderwaals radius
+
+0.157 nm
+
+Ionic radius
+
+0.11 nm (+2)
+
+Isotopes
+
+12
+
+Electronic shell
+
+[ Xe ] 4f14 5d10 6s2
+
+Energy of first ionisation
+
+1004.6 kJ.mol -1
+
+Energy of second ionisation
+
+1796 kJ.mol -1
+
+Energy of third ionisation
+
+3294 kJ.mol -1
+
+Standard potential
+
++ 0.854 V ( Hg2+/ Hg )
+
+Discovered by
+
+The ancients
+
+Mercury - Hg
+
+Mercury
+Mercury is the only common metal which is liquid at ordinary temperatures. Mercury is sometimes called quicksilver. It is a heavy, silvery-white liquid metal. It is a rather poor conductor of heat if compared with other metals but it is a fair conductor of electricity. It alloys easily with many metals, such as gold, silver, and tin. These alloys are called amalgams.
+
+The most important mercury salts are mercuric chloride HgCl2 (corrosive sublimate - a violent poison), mercuric chloride Hg2Cl2 (calomel, still used in medicine occasionally), mercury fulminate (Hg(ONC)2, a detonator used in explosives) and mercuric sulphide (HgS, vermillion, a high-grade paint pigment).
+
+Applications
+
+Mercury metal has many uses. Because of its high density it is used in barometers and manometers. It is extensively used in thermometers, thanks to its high rate of thermal expansion that is fairly constant over a wide temperature range. Its Its ease in amalgamating with gold is used in the recovery of gold from its ores.
+
+Industry uses mercury metal as a liquid electrode in the manufacture of chlorine and sodium hydroxide by electrolysis of brine. Mercury is still used in some electrical gear, such as switches and rectifiers, which need to be reliable, and for industrial catalysis. Much less mercury is now used in consumer batteries and fluorescent lighting, but it has not been entirely eliminated.
+
+Mercury compounds have many uses. Calomel (mercurous chloride, Hg2Cl2) is used as a standard in electrochemical measurements and in medicine as a purgative. Mercuric chloride (corrosive sublimate, HgCl2) is used as an insecticide, in rat poison, and as a disinfectant. Mercuric oxide is used in skin ointments. Mercuric sulphate is used as a catalyst in organic chemistry. Vermilion, a red pigment, is mercuric sulphide; another crystalline form of the sulphide (also used as a pigment) is black. Mercury fulminate, Hg(CNO)2, is used as a detonator.
+
+Mercury in the environment
+
+Mercury occurs uncombined in nature to a limited extent. It rarely occurs free in nature and is found mainly in cinnabar ore (HgS) in Spain, Russia, Italy, China and Slovenia. World production of mercury is around 8.000 tonnes per year. Mineable reserves are around 600.000 tonnes.
+
+Mercury is a compound that can be found naturally in the environment. It can be found in metal form, as mercury salts or as organic mercury compounds.
+
+Mercury enters the environment as a result of normal breakdown of minerals in rocks and soil through exposure to wind and water. Release of mercury from natural sources has remained fairly the same over the years. Still mercury concentrations in the environment are increasing; this is ascribed to human activity.
+Most of the mercury released from human activities is released into air, through fossil fuel combustion, mining, smelting and solid waste combustion. Some forms of human activity release mercury directly into soil or water, for instance the application of agricultural fertilizers and industrial wastewater disposal. All mercury that is released in the environment will eventually end up in soils or surface waters.
+
+Mercury is not naturally found in foodstuffs, but it may turn up in food as it can be spread within food chains by smaller organisms that are consumed by humans, for instance through fish. Mercury concentrations in fish usually greatly exceed the concentrations in the water they live in. Cattle breeding products can also contain eminent quantities of mercury. Mercury is not commonly found in plant products, but it can enter human bodies through vegetables and other crops, when sprays that contain mercury are applied in agriculture.
+
+Health effects of mercury
+
+Metallic mercury is used in a variety of household products, such as barometers, thermometers and fluorescent light bulbs. The mercury in these devices is trapped and usually does not cause any health problems. However, when a thermometer will break a significantly high exposure to mercury through breathing will occur for a short period of time while it vaporizes. This can cause harmful effects, such as nerve, brain and kidney damage, lung irritation, eye irritation, skin rashes, vomiting and diarrhoea.
+
+Mercury has a number of effects on humans, that can all of them be simplified into the following main effects:
+- Disruption of the nervous system
+- Damage to brain functions
+- DNA damage and chromosomal damage
+- Allergic reactions, resulting in skin rashes, tiredness and headaches
+- Negative reproductive effects, such as sperm damage, birth defects and miscarriages
+
+Damaged brain functions can cause degradation of learning abilities, personality changes, tremors, vision changes, deafness, muscle incoordination and memory loss. Chromosomal damage is known to cause mongolism.
+
+Environmental effects of mercury
+
+Mercury from soils can accumulate in mushrooms.
+Acidic surface waters can contain significant amounts of mercury. When the pH values are between five and seven, the mercury concentrations in the water will increase due to mobilisation of mercury in the ground.
+Once mercury has reached surface waters or soils microrganisms can convert it to methyl mercury, a substance that can be absorbed quickly by most organisms and is known to cause nerve damage. Fish are organisms that absorb great amounts of methyl mercury from surface waters every day. As a consequence, methyl mercury can accumulate in fish and in the food chains that they are part of.
+The effects that mercury has on animals are kidneys damage, stomach disruption, damage to intestines, reproductive failure and DNA alteration.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/hg.htm#ixzz64kq8ceAk

@@ -1,0 +1,76 @@
+Helium - He
+Chemical properties of helium - Health effects of helium
+Atomic number
+
+2
+
+Atomic mass
+
+4.00260 g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+0.178*10 -3 g.cm -3 at 20 °C
+
+Melting point
+
+- 272.2 (26 atm) °C
+
+Boiling point
+
+- 268.9 °C
+
+Vanderwaals radius
+
+0.118 nm
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+2
+
+Electronic shell
+
+1s 2
+
+Energy of first ionisation
+
+2372 kJ.mol -1
+
+Discovered by
+
+Sir Ramsey in 1895
+
+Helium - He
+
+Helium
+
+Properties
+
+Gaseous chemical element, symbol: He, atomic number: 2 and atomic weight 4,0026 g/mol. Helium is one of the noble gases of group O in the periodic table. It’s the second lightest element. The main helium source in the world is a series of fields of natural gas in the United States.
+
+Helium is a colourless, odourless, insipid and non-toxic gas. It’s less soluble in water than any other gas. It’s the less reactive element and doesn’t essentially form chemical compounds. The density and viscosity of helium vapour are very low. The thermic conductivity and the caloric content are exceptionally high. Helium can be liquefied, but its condensation temperature is the lowest among all the known substances.
+
+Applications
+
+Helium has many unique properties: low boiling point, low density, low solubility, high thermal conductivity and inertness, so it is use for any application which can explioit these properties. Helium was the first gas used for filling balloons and dirigibles. This application goes on in altitude research and for meteorological balloons. The main use of helium is as an inert protection gas in autogenous welding. Its biggest potential is found in applications at very low temperatures. Helium is the only cooler which is capable of reaching temperatures lower than 15 K (-434ºF). The main application of ultralow temperature is in the development of the superconductivity state, in which the resistance to the electricity flux is almost zero. Other applications are its use as pressurizing gas in liquid propellants for rockets, in helium-oxygen mixtures for divers, as working fluid in nuclear reactors cooled down by gas and as gas carrier in chemical analysis by gas chromatography.
+
+Helium in the environment
+
+Helium is the second most abundant element in the known universe, after hydrogen. Helium constitutes the 23% of all elemental matter measured by mass. Helium is formed in The Earth by natural radioactive decay of heavier elements. Most of this helium migrates to the surface and enters the atmosphere. It could be logical to think that the helium concentration in the atmosphere was higher than it is (5,25 parts per million at sea level). Nevertheless, its low molecular weight allows it to escape to space at the same rate of its formation. There is an about 1000 km layer in the heterosphere at 600 miles where helium is the dominant gas (although the total pressure is very low). Natural gases contain higher helium concentrations than the atmosphere.
+Helium is the 71st most abundant element in the Earth's crust where it is found in 8 parts per billion (109).
+
+Health effects of helium
+Effects of exposure: The substance can be absorbed into the body by inhalation. Inhalation: High voice. Dizziness. Dullness. Headache. Suffocation. Skin: on contact with liquid: frostbite. Eyes: on contact with liquid: frostbite. Inhalation risk: On loss of containment this gas can cause suffocation by lowering the oxygen content of the air in confined areas. Check oxygen content before entering area.
+Neutral helium at standard conditions is non-toxic, plays no biological role and is found in trace amounts in human blood.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/he.htm#ixzz64iTklEUX

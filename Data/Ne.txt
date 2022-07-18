@@ -1,0 +1,98 @@
+Neon - Ne
+Chemical properties of neon - Health effects of neon - Environmental effects of neon
+Atomic number
+
+10
+
+Atomic mass
+
+20.179 g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+0.9*10 -3 g.cm-3 at 20°C
+
+Melting point
+
+-249 °C
+
+Boiling point
+
+-246 °C
+
+Vanderwaals radius
+
+0.16 nm
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+3
+
+Electronic shell
+
+[ He ] 2s22p6
+
+Energy of first ionisation
+
+2080 kJ.mol -1
+
+Energy o second ionisation
+
+3952 kJ.mol -1
+
+Standard potential
+
+6122 kJ.mol -1
+
+Discovered by
+
+Sir Ramsay in 1898
+
+Neon - Ne
+
+Neon
+Neon was discovered by William Ramsay and Morris Travers in 1898.
+Neon is the second-lightest noble gas, its colour is reddish-orange in a vacuum discharge tube and in neon lamps. The the refrigerating capacity of helium is over 40 times the one of liquid helium and three times that of liquid hydrogen (on a per unit volume basis). It is a less expensive refrigerant than helium in most applications.
+
+Even though neon is for most practical purposes an inert element, it can form an exotic compound with fluorine in the laboratory. It is not known for certain if this or any neon compound exists naturally but some evidence suggests that this may be true. The ions, Ne+, (NeAr)+, (NeH)+, and (HeNe+) are have also been observed from optical and mass spectrometric research. In addition, neon forms an unstable hydrate.
+
+Applications
+The reddish-orange color emitted in neon lights is widely used to make advertising signs. Neon is also used generically for these types of lights when in reality many other gases are used to produce different colors of light. Other uses of neon include high-voltage indicators, lightning arrestors, wave meter tubes and television tubes. Neon and helium are used to make a type of gas laser.
+
+Liquefied neon is commercially used as an economical cryogenic refrigerant.
+
+Neon in the environment
+
+Although neon is the forth most abundant element in the universe, only 0.0018% in volume of the earth's atmosphere is neon.
+Neon is usually found in the form of a gas with molecules consisting of a single Neon atom. Neon is a rare gas that is found in the Earth's atmosphere at 1 part in 65,000.
+
+Health effects of neon
+
+Routes of exposure: The substance can be absorbed into the body by inhalation.
+
+Inhalation risk: On loss of containment this liquid evaporates very quickly causing supersaturation of the air with serious risk of suffocation when in confined areas.
+
+Effects of exposure: Inhalation: Simple asphyxiant. Skin: On contact with liquid: frostbite. Eyes: On contact with liquid: frostbite.
+
+Inhalation: This gas is inert and is classified as a simple asphyxiant. Inhalation in excessive concentrations can result in dizziness, nausea, vomiting, loss of consciousness, and death. Death may result from errors in judgment, confusion, or loss of consciousness which prevent self-rescue. At low oxygen concentrations, unconsciousness and death may occur in seconds without warning.
+
+The effect of simple asphyxiant gases is proportional to the extent to which they diminish the amount (partial pressure) of oxygen in the air that is breathed. The oxygen may be diminished to 75% of it's normal percentage in air before appreciable symptoms develop. This in turn requires the presence of a simple asphyxiant in a concentration of 33% in the mixture of air and gas. When the simple asphyxiant reaches a concentration of 50%, marked symptoms can be produced. A concentration of 75% is fatal in a matter of minutes.
+
+Symptoms: The first symptoms produced by a simple asphyxiant are rapid respirations and air hunger. Mental alertness is diminished and muscular coordination is impaired. Later judgment becomes faulty and all sensations are depressed. Emotional instability often results and fatigue occurs rapidly. As the asphyxia progresses, there may be nausea and vomiting, prostration and loss of consciousness, and finally convulsions, deep coma and death.
+
+Environmental effects of neon
+Neon is a rare atmospheric gas and as such is non-toxic and chemically inert. Neon poses no threat to the environment, and can have no impact at all because it's chemically unreactive and forms no compounds.
+
+No known ecological damage caused by this element.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ne.htm#ixzz64iVjQLpY

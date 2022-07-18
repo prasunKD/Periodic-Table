@@ -1,0 +1,103 @@
+Bismuth - Bi
+Chemical properties of bismuth - Health effects of bismuth - Environmental effects of Bismuth
+Atomic number
+
+83
+
+Atomic mass
+
+208.9804 g.mol -1
+
+Electronegativity according to Pauling
+
+1.9
+
+Density
+
+9.80 g.cm-3 at 20°C
+
+Melting point
+
+271 °C
+
+Boiling point
+
+1420 °C
+
+Vanderwaals radius
+
+0.152 nm
+
+Ionic radius
+
+0.074 nm (+5) ; 0,120 nm (+3)
+
+Isotopes
+
+14
+
+Electronic shell
+
+[ Xe ] 4f14 5d10 6s2 6p3
+
+Energy of first ionisation
+
+703 kJ.mol -1
+
+Energy of second ionisation
+
+1610 kJ.mol -1
+
+Energy of third ionisation
+
+2466 kJ.mol -1
+
+Energy of fourth ionisation
+
+4362,3 kJ.mol -1
+
+Energy of fifth ionisation
+
+5394 kJ.mol -1
+
+Standard potential
+
+0.32 V ( Bi3+/ Bi )
+
+Discovered by
+
+The ancients
+
+Bismuth (Bi)
+Bismuth
+Bismuth is a white, crystalline, brittle metal with a pinkish tinge. Bismuth is the most diamagnetic of all metals, and the thermal conductivity is lower than any metal except mercury. It has a high electrical resistance, and has the highest Hall effect of any metal (that is, the greatest increase in electrical resistance when placed in a magnetic field). Bismuth is stable to oxygen and water but dissolves in concentrated nitric air. All bismuth salts form insoluble compounds when put into water.
+
+Applications
+
+Bismuth metal is used in the manufacture of low melting solders and fusible alloys as well as low toxicity bird shot and fishing sinkers. Certain bismuth compounds are also manufactured and used as pharmaceuticals. Industry makes use of bismuth compounds as catalysts in manifacturing acrylonitrile, the starting material for synthetic fibers and rubbers. Bismuth is sometimes used in the production of shot and shotguns.
+
+Bismuth in the environment
+
+The most important ores of bismuth are bismuthimite and bismite. Bismuth occurs naturally as the metal itself and is found as crystals in the sulphides ores of nickel, cobalt, silver and tin. Bismuth is mainly produced as a by-product from lead and copper smelting, especially in USA. The chief areas where it is mined are Bolivia, Peru', Japan, Mexico and Canada, but only to the extent of 3.000 tonnes per year. There is no reliable estimate of how much bismuth is available to be mined, but it seems unlikely than there will ever be a shortage of this metal.
+
+Health effects of bismuth
+Bismuth and its salts can cause kidney damage, although the degree of such damage is usually mild. Large doses can be fatal. Industrially it is considered one of the less toxic of the heavy metals. Serious and sometimes fatal poisoning may occur from the injection of large doses into closed cavities and from extensive application to burns (in form of soluble bismuth compounds). It is stated that the administration of bismuth should be stopped when gingivitis appears, for otherwise serious ulceration stomatitis is likely to result. Other toxic results may develop, such as vague feeling of bodily discomfort, presence of albumin or other protein substance in the urine, diarrhea, skin reactions and sometimes serious exodermatitis.
+
+Routes of entry: Inhalation, skin and ingestion.
+
+Acute effects: Inhalation: POISON. May be a nuisance dust causing respiratory irritation. May cause foul breath, metallic taste and gingivitis. Ingestion: POISON. May cause nausea, loss of appetite and weight, malaise, albuminuria, diarrhea, skin reactions, stomatitis, headache, fever, sleeplessness, depression, rheumatic pain and a black line may form on gums in the mouth due to deposition of bismuth sulphide. Skin: May cause irritation. Eyes: May cause irritation.
+
+Chronic effects: Inhalation: May affect the function of the liver and the kidneys.
+
+Ingestion: May affect the function of the liver and the kidneys. May cause anemia, black line may form on gums and ulcerative stomatitis. Skin: May cause dermatitis. Eyes: No chronic health effects recorded.
+
+Medical conditions generally aggravated by the exposure: Pre-existing skin and respiratory disorders.
+
+Bismuth is not considered a human carcinogen.
+
+Environmental effects of Bismuth
+Bismuth metal is not considered toxic and poses minimum threat to the environment. Bismuth compounds generally have very low solubility but they should be handled with care, as there is only limited information on their effects and fate in the environment.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/bi.htm#ixzz64ksEzQBY

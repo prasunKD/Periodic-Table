@@ -1,0 +1,89 @@
+Oxygen - O
+Chemical properties of oxygen - Health effects of oxygen - Environmental effects of oxygen
+Atomic number
+
+8
+
+Atomic mass
+
+15.999 g.mol -1
+
+Electronegativity according to Pauling
+
+3.5
+
+Density
+
+1.429 kg/m3 at 20°C
+
+Melting point
+
+-219 °C
+
+Boiling point
+
+-183 °C
+
+Vanderwaals radius
+
+0.074 nm
+
+Ionic radius
+
+0.14 nm (-2)
+
+Isotopes
+
+4
+
+Electronic shell
+
+[ He ] 2s 2 2p 4
+
+Energy of first ionisation
+
+1314 kJ.mol -1
+
+Energy of second ionisation
+
+3388 kJ.mol -1
+
+Energy of third ionisation
+
+5300 kJ.mol -1
+
+Discovered by
+
+Joseph Priestly in 1774
+
+Oxygen - O
+
+Oxygen
+Gaseous chemical element, symbol: O, atomic number: 8 and atomic weight 15,9994. It’s of great interest because it’s the essential element in the respiratory processes of most of the living cells and in combustion processes. It’s the most abundant element in The Earth’s crust. Nearly one fifth (in volume) of the air is oxygen. Non-combined gaseous oxygen normally exists in form of diatomic molecules, O2, but it also exists in triatomic form, O3, named ozone.
+
+In normal conditions oxygen is a colourless, odourless and insipid gas; it condensates in a light blue liquid. Oxygen is part of a small group of gasses literally paramagnetic, and it’s the most paramagnetic of all. Liquid oxygen is also slightly paramagnetic.
+
+Oxygen is reactive and will form oxides with all other elements except helium, neon, argon and krypton. It is moderately soluble in water (30 cm3 per 1 liter of water dissolve) at 20 Celsius.
+
+Applications
+
+Oxygen can be separated from air by fractionated liquefaction and distillation. The main applications of oxygen in order of importance are: 1) melting, refining and manufacture of steel and other metals; 2) manufacture of chemicals by controlled oxidation; 3) rocket propulsion; 4) medical and biological life support; 5) mining, production and manufacture of stone and glass products.
+An emergency supply of oxygen automatically becomes available for the passenger in an aircraft when the pressure drop suddently. This oxygen is stored not as an oxygen gas but as the chemical sodium chlorate.
+
+Oxygen in the environment
+
+The crust of earth is composed mainly of silicon-oxygen minerals, and many other elements are there as their oxides.
+Oxygen gas makes up a fifth of the atmosphere, amounting to more than a million billion tonnes. The oxygen in the Earth's atmosphere comes from the photosyntesis of plants, and has built up in a long time as they utilised the abundant supply of carbon dioxide in the early atmosphere and released oxygen.
+Oxygen is fairly soluble in water, which makes life in rivers, lakes and oceans possible. The water in rivers and lakes needs to have a regular supply of oxygen, for when this gets depleted the water will no longer support fish and other aquatic species.
+
+Nearly every chemical, apart from the inert gasses, bind with oxygen to form compounds. Water, H2O, and silica, SiO2, main component of the sand, are among the more abundant binary oxygen compounds. Among the compounds which contain more than two elements, the most abundant are the silicates, that form most of the rocks and soils. Other compounds which are abundant in nature are calcium carbonate (limestone and marble), calcium sulphate (gypsum), aluminum oxide (bauxite) and various iron oxides, that are used as source of the metal.
+
+Health effects of oxygen
+Oxygen is essential for all forms of life since it is a constituent of DNA and almost all other biologically important compounds. Is it even more drammatically essential, in that animals must have minute by minute supply of the gas in order to survive. Oxygen in the lungs is picked up by the iron atom at the center of hemoglobin in the blood and thereby transported to where it is needed.
+
+Every human being needs oxygen to breathe, but as in so many cases too much is not good. If one is exposed to large amounts of oxygen for a long time, lung damage can occur. Breathing 50-100% oxygen at normal pressure over a prolonged period causes lung damage. Those people who work with frequent or potentially high exposures to pure oxygen, should take lung function tests before beginning employment and after that. Oxygen is usually stored under very low temperatures and therefore one should wear special clothes to prevent the freezing of body tissues.
+
+
+Environmental effects of oxygen
+Highly concentrated sources of oxygen promote rapid combustion and therefore are fire and explosion hazards in the presence of fuels.
+The fire that killed the Apollo 1 crew on a test launchpad spread so rapidly because the pure oxygen atmosphere was at normal atmospheric pressure instead of the one third pressure that would be used during an actual launch.

@@ -1,0 +1,98 @@
+Magnesium - Mg
+Chemical properties of magnesium - Health effects of magnesium - Environmental effects of magnesium
+Atomic number
+
+12
+
+Atomic mass
+
+24.305 g.mol -1
+
+Electronegativity according to Pauling
+
+1.2
+
+Density
+
+1.74 g.cm -3 at 20 °C
+
+Melting point
+
+650 °C
+
+Boiling point
+
+1107 °C
+
+Vanderwaals radius
+
+0.16 nm
+
+Ionic radius
+
+0.065 nm
+
+Isotopes
+
+5
+
+Electronic shell
+
+[Ne] 3s2
+
+Energy of first ionisation
+
+737.5 kJ.mol -1
+
+Energy of second ionisation
+
+1450 kJ.mol -1
+
+Standard potential
+
+- 2.34 V
+
+Discovered by
+
+Sir Humphrey Davy in 1808
+
+Magnesium - Mg
+
+Magnesium
+Chemical element, metallic, symbol Mg, situated in group IIa in the periodic table, atomic number: 12, atomic weight: 24,312. Magnesium is silvery white and very light. Its relative density is 1,74 and it’s density 1740 kg/m3 (0.063 lb/in3 or 108.6 lb/ft3). Magnesium is known for a long time as the lighter structural metal in the industry, due to it’s low weight and to it’s capability of forming mechanically resistant alloys.
+
+Magnesium is very chemically active, it takes the place of hydrogen in boiling water and a great number of metals can be produced by thermic reduction of its salts and oxidized forms with magnesium. It joins together with most non-metals and almost every acid. Magnesium reacts only slightly or not at all with most of the alkalis and many organic substances, like hydrocarbons, aldehides, alcohols, phenols, amines, esters and most of the oils. Used as a catalyst, magnesium promotes organic reactions of condensation, reduction, addition and dehalogenization. It was used for a long time for synthesizing special and complex organic components by the well-known Grignard reaction. The main ingredients of the alloys are: aluminum, manganese, zircon, zinc, rare-earth metals and thorium.
+
+Applications
+
+Magnesium compounds are used as refractory material in furnace linings for producing metals (iron and steel, nonferrous metals), glass, and cement.
+With a density of only two thirds of the aluminum’s, it has countless applications in cases where weight reducing is important, i.e. in aeroplane and missile construction. It also has many useful chemical and metallurgic properties, which make it appropriate for many other non-structural applications.
+Magnesium components are widely used in industry and agriculture.
+Other uses include: removal of sulphur form iron and steel, photoengraved plates in the printing industry; reducing agent for the production of pure uranium and other metals from their salts; flashlight photography, flares, and pyrotechnics.
+
+Magnesium in the environment
+
+Magnesium is the eighth most abundant element and constitutes about 2% af the Earth's crust by weight, and it is the third most plentiful element dissolved in seawater.
+It’s very abundant in nature, and it’s found in important quantities in many rocky minerals, like dolomite, magnetite, olivine and serpentine. It’s also found in seawater, underground brines and salty layers. It’s the third most abundant structural metal in the earth’s crust, only exceeded by aluminum and iron.
+The United States has traditionally been the major world supplier of this metal, supplying 45% of world production even as recently as 1995. Dolomite and magnesite are mined to the extent of 10 million tonnes per year, in countries such as China, Turkey, North Korea, Slovakia, Austria, Russia and Greece.
+
+Health effects of magnesium
+
+Humans take in between 250 and 350 mg/day of magnesium and need at least 200 mg, but the body deals very effectively with this element, taking it form food when it can, and recycling what we already have when it cannot.
+
+There is no evidence that magnesium produces systemic poisoning although persistent over-indulgence in taking magnesium supplements and medicines can lead to muscule weakness, lethargy and confusion.
+
+Effects of exposure to magnesium powder: low toxicity & not considered to be hazardous to health. Inhalation: dust may irritate mucous membranes or upper respiratory tract. Eyes: mechanical injury or particle may embed in eye. Viewing of burning magnesium powder without fire glasses may result in "Welder's flash", due to intense white flame. Skin: embedding of particle in skin. Ingestion: unlikely; however, ingestion of large amounts of magnesium powder could cause injury.
+
+Magnesium has not been tested, but it’s not suspected of being carcinogenic, mutagenic or teratogenic. Exposure to magnesium oxide fume subsequent to burning, welding or molten metal work can result in metal fume fever with the following temporary symptoms: fever, chills, nausea, vomiting & muscle pain. These usually occur 4-12 hours after exposure & last up to 48 hours. Magnesium oxide fume is a by-product of burning magnesium.
+Physical dangers: Dust explosion possible if in powder or granular form, mixed with air. If dry, it can be charged electrostatically by swirling, pneumatic transport, pouring, etc.
+
+Chemical dangers: The substance may spontaneously ignite on contact with air or moisture producing irritating or toxic fumes. Reacts violently with strong oxidants. Reacts violently with many substances causing fire and explosion hazard. Reacts with acids and water forming flammable hydrogen gas (see ICSC0001), causing fire and explosion hazard.
+First Aid: Inhalation: remove to fresh air. Eyes: flush eyes with water thoroughly. Consult a physician. Skin: wash with soap & water thoroughly to remove particles. Ingestion: if large amounts of magnesium powder are ingested, induce vomiting & consult a physician.
+Note to physician: no specific treatment or antidote. Supportive care recommended. Treatment should be based on reactions of the patient.
+
+
+Environmental effects of magnesium
+There is very little information available on the environmental effects of magnesium oxide fume. If other mammals inhale magnesium oxide fume, they may suffer similar effects as do humans.
+On an environmental spectrum of 0 - 3 Magnesium oxide fume registers 0.8. A score of 3 represents a very high hazard to the environment and 0 a negligible hazard. Factors that are taken into account to obtain this ranking include the extent of the material's toxic or poisonous nature and/or its lack of toxicity, and the measure of its ability to remain active in the environment and whether it accumulates in living organisms. It does not take into exposure to the substance.
+Magnesium powder is not suspected of being highly harmful to the environment. As magnesium oxide an aquatic toxicity rating of tlm 1000 ppm has been established. "Water Quality Characteristics of Hazardous Materials", Hann & Jensen, Enviro. End. Div., Texas A&M, vol. 3 (1974).

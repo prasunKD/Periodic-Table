@@ -1,0 +1,86 @@
+Cesium - Cs
+Chemical properties of cesium - Health effects of cesium - Environmental effects of cesium
+Atomic number
+
+55
+
+Atomic mass
+
+132.9054 g.mol -1
+
+Electronegativity according to Pauling
+
+0.7
+
+Density
+
+1.9 g.cm-3 at 20°C
+
+Melting point
+
+28.4 °C
+
+Boiling point
+
+669 °C
+
+Vanderwaals radius
+
+0.267 nm
+
+Ionic radius
+
+0.167
+
+Isotopes
+
+12
+
+Electronic shell
+
+[ Xe ] 6s1
+
+Energy of first ionisation
+
+375.6 kJ.mol -1
+
+Discovered by
+
+Fustov Kirchhoff in 1860
+
+Cesium (Cs)
+
+
+Cesium
+
+The metal is characterised by a spectrum containing two bright lines in the blue (accounting for its name). It is silvery gold, soft, and ductile. It is the most electropositive and most alkaline element. Cesium, gallium, and mercury are the only three metals that are liquid at or around room temperature. Cesium reacts explosively with cold water, and reacts with ice at temperatures above -116°C. Cesium hydroxide is a strong base and attacks glass. Cesium reacts with the halogens to form a fluoride, chloride, bromide, and iodide. Cesium metal oxidized rapidly when exposed to the air and can form the dangerous superoxide on its surface.
+
+Applications
+
+Cesium is used in industry as a catalyst promoter, boosting the performance of other metal oxides in the capacity and for the hydrogenation of organic compounds. Cesium nitrate is used to make optical glasses. Cesium is sometimes used to remove traces of oxygen from the vacuum tubes and from light bulbs. Cesium salts are used to strenght various types of glass. The chloride is used in photoelectric cells, in optical instruments, and in increasing the sensitivity of electron tubes. Cesium is used in atomic clocks and more recently in ion propulsion systems.
+
+Cesium in the environment
+
+Although cesium is much less abundant than the other alkali metals, it is still more common than elements like arsenic, iodine and uranium. Few cesium mineral are know, pollucite is the main: they are silicate magmas cooled from granites.
+World production of cesium compounds is just 20 tonnes per year, coming mainly from the Bernic lake (Canada) with a little from Zimbabwe and South-West Africa.
+
+Health effects of cesium
+Humans may be exposed to cesium by breathing, drinking or eating. In air the levels of cesium are generally low, but radioactive cesium has been detected at some level in surface water and in many types of foods.
+
+The amount of cesium in foods and drinks depends upon the emission of radioactive cesium through nuclear power plants, mainly through accidents. These accidents have not occurred since the Chernobyl disaster in 1986. People that work in the nuclear power industry may be exposed to higher levels of cesium, but many precautionary measurements can be taken to prevent this.
+
+It is not very likely that people experience health effects that can be related to cesium itself. When contact with radioactive cesium occurs, which is highly unlikely, a person can experience cell damage due to radiation of the cesium particles. Due to this, effects such as nausea, vomiting, diarrhoea and bleeding may occur. When the exposure lasts a long time people may even lose consciousness. Coma or even death may than follow. How serious the effects are depends upon the resistance of individual persons and the duration of exposure and the concentration a person is exposed to.
+
+Environmental effects of cesium
+Cesium occurs naturally in the environment mainly from erosion and weathering of rocks and minerals. It is also released into the air, water and soil through mining and milling of ores.
+Radioactive isotopes of cesium may be released into the air by nuclear power plants and during nuclear accidents and nuclear weapons testing.
+
+The radioactive isotopes can only be decreased in concentration through radioactive decay. Non-radioactive cesium can either be destroyed when it enters the environment or react with other compounds into very specific molecules. Both radioactive and stable cesium act the same way within the bodies of humans and animals chemically.
+
+Cesium in air can travel long distances before settling on earth. In water and soils most cesium compounds are very water-soluble. In soils, however, cesium does not rinse out into the groundwater. It remains within the top layers of soils as it strongly bonds to soil particles and as a result it is not readily available for uptake through plant roots. Radioactive cesium does have a chance of entering plants by falling on leaves.
+
+Animals that are exposed to very high doses of cesium show changes in behaviour, such as increased or decreased activity.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/cs.htm#ixzz64icDC5br

@@ -1,0 +1,88 @@
+Radon - Rn
+Chemical properties of radon - Health effects of radon - Environmental effects of radon
+Atomic number
+
+86
+
+Atomic mass
+
+(222) g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+9.96*10-3g.cm3 at 20°C
+
+Melting point
+
+- 71 °C
+
+Boiling point
+
+- 62 °C
+
+Vanderwaals radius
+
+unknown
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+7
+
+Electronic shell
+
+[ Xe ] 4f14 5d10 6s2 6p6
+
+Energy of first ionisation
+
+1037 kJ.mol -1
+
+Discovered
+
+Fredrich Ernst Dorn in 1898
+
+Radon - Rn
+
+Radon
+Radon is colorless at standard temperature and pressure and it is the most dense gas known. At temperature below it's freezing point is has a brilliant yellow phosphorescence. It is chemically unreactive, it is highly radioactive and has a short half life.
+
+Applications
+
+Radon was sometimes used in hospitals to treat cancer and was produced as needed and delivered in sealed gold needles. Radon is used in hydrologic research, because of it's rapid loss to air. It is also used in geologic research and to track air masses.
+
+Radon in the environment
+
+Radon can be found in some spring water and hot springs. There is anyway a detectable amount of radon in the atmosphere. Radon collects over samples of radium 226 at the rate of around 0.001 cm3/day per g of radium.
+
+Health effects of radon
+Radon occurs in the environment mainly in the gaseous phase. Consequently, people are mainly exposed to radon through breathing air.
+
+Background levels of radon in outside air are generally quite low, but in indoor locations radon levels in air may be higher. In homes, schools and buildings radon levels are increased because radon enters the buildings through cracks in the foundations and basements.
+
+Some of the deep wells that supply us with drinking water may also contain radon. As a result a number of people may be exposed to radon through drinking water, as well as through breathing air.
+
+Radon levels in groundwater are fairly high, but usually radon is quickly released into air as soon as the groundwater enters surface waters.
+
+Exposure to high levels of radon through breathing air is known to cause lung diseases. When long-term exposure occurs radon increases the chances of developing lung cancer. Radon can only cause cancer after several years of exposure.
+
+Radon may be radioactive, but it gives off little actual gamma radiation. As a result, harmful effects from exposure to radon radiation without actual contact with radon compounds are not likely to occur.
+
+It is not known whether radon can cause health effects in other organs besides the lungs. The effects of radon, which is found in food or drinking water, are unknown.
+
+Environmental effects of radon
+Radon is a radioactive compound, which rarely occurs naturally in the environment. Most of the radon compounds found in the environment derive from human activities. Radon enters the environment through the soil, through uranium and phosphate mines, and through coal combustion.
+
+Some of the radon that is located in the soil will move to the surface and enter the air through vaporization. In the air, radon compounds will attach to dust and other particles. Radon can also move downwards in the soil and enter the groundwater. However, most of the radon will remain in the soil.
+
+Radon has a radioactive half-life of about four days; this means that one-half of a given amount of radon will decay to other compounds, usually less harmful compounds, every four days.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/rn.htm#ixzz64lnImRqR

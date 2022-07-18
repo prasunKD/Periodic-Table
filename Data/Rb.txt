@@ -1,0 +1,83 @@
+Rubidium - Rb
+Chemical properties of rubidium - Health effects of rubidium - Environmental effects of rubidium
+Atomic number
+
+37
+
+Atomic mass
+
+85.4678 g.mol -1
+
+Electronegativity according to Pauling
+
+0.8
+
+Density
+
+1.53 g.cm-3 at 20°C
+
+Melting point
+
+39 °C
+
+Boiling point
+
+696 °C
+
+Vanderwaals radius
+
+0.243 nm
+
+Ionic radius
+
+0.149 nm (+1)
+
+Isotopes
+
+11
+
+Electronic shell
+
+[ Kr ] 5s1
+
+Energy of first ionisation
+
+402.9 kJ.mol -1
+
+Energy of second ionisation	2633 kJ.mol -1
+Energy of third ionisation	3860 kJ.mol -1
+Standard potential
+
+- 2.99 V
+
+Discovered by	Robert Wilhem Bunsen and Gustav Robert Kirchhoff in 1861
+Rubidium - Rb
+
+Rubidium
+Rubidium is a soft, silvery-white metallic element of the alkali metals group (Group 1). It is one of the most electropositive and alkaline elements. Rubidium can be liquid at ambient temperature, but only on a hot day given that its melting point is about 40°C. It ignites spontaneously in air and reacts violently with water and even with ice at -100 C, setting fire to the liberated hydrogen. As so with all the other alkali metals, it forms amalgams with mercury. It alloys with gold, cesium, sodium, and potassium. Its flame is yellowish-violet.
+
+Applications
+
+Rubidium and its salts have few commercial uses. The metal is used in the manufacture of photocells and in the removal of residual gases from vacuum tubes. Rubidium salts are used in glasses and ceramics and in fireworks to give them a purple colour. Potential uses are in ion engines for space vehicles, as working fluid in vapor turbines, and as getter in vacuum tubes.
+
+Rubidium in the environment
+
+Rubidium is considered to be the 16th most abundant element in the earth's crust. The relative abundance of rubidium has been reassessed in recent years and it is now suspected of being more plentiful than previously calculated. It is very like potassium and there are no environments where it is seen as a threat.
+No minerals of rubidium are known, but rubidium is present in significant amounts in other minerals such as lepodite (1.5%), pollucite and carnallite. It is also present in traces in trace amounts in other minerals such as zinnwaldite and leucite.
+The amount of rubidium produced every year is small, and what demand there is can be met from a stock of a mixed carbonate by-product that is collected during the extractium of litium from lepodite.
+The little rubidium that is produced is used for research purposes only, these is no incentive to seek commercial outlets for the material.
+
+Health effects of rubidium
+Effects of exposure: water reactive. Moderately toxic by ingestion. If rubidium ignites, it will cause thermal burns. Rubidium readily reacts with skin moisture to form rubidium hydroxide, which causes chemical burns of eyes and skin. Signs and symptoms of overexposure: skin and eye burns. Failure to gain weight, ataxia, hyper irritation, skin ulcers, and extreme nervousness. Medical condition aggravated by exposure: heart patients, potassium imbalance.
+
+First aid: Eye: immediately flush with running water for 15 minutes while holding eyelid. Obtain medical attention immediately. Skin: remove material and flush with soap and water. Remove contaminated clothing. Get medical attention promptly. Inhalation: move to fresh air immediately. If irritation persists, get medical attention. Ingestion: do not induce vomiting. Get medical attention immediately.
+
+
+Environmental effects of rubidium
+Rubidium has no known biological role but has a slight slimulatory effect on metabolis, probably because it is like potassium. The two elements are found together in minerals and soils, although potassium is much more abundant than rubidium. Plant will adsorb rubidium quite quickly. When stresses by deficiency of potassium some plants, such as sugar beet, will respond to the addition of rubidium. In this way rubidium enters the food chain and so contributes to a daily intake of between 1 and 5 mg.
+
+No negative environmental effects have been reported.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/rb.htm#ixzz64ibaIk6a

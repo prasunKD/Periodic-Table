@@ -1,0 +1,82 @@
+Californium - Cf
+Chemical properties of californium - Health effects of californium - Environmental effects of californium
+Atomic number
+
+98
+
+Atomic mass
+
+(251) g.mol -1
+
+Electronegativity accordin to Pauling
+
+unknown
+
+Density
+
+unknown
+
+Melting point
+
+unknown
+
+Boiling point
+
+unknown
+
+Vanderwaals radius
+
+unknown
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+10
+
+Electronic shell
+
+[ Rn ] 5f9 6d1 7s2
+
+Discovered by
+
+G.T. Seaborg in 1950
+
+Californium (Cf)
+
+Californium
+Californium is a radioactive metal which is a memeber of the actinide group of the periodi table. A sample of the metal itself has not been produced yet because its compounds resist reduction. It is expected to be readily attacked by air, steam and acids and not by alkalis.
+
+Californium, the sixth transuranium element to be discovered, was produced by Thompson, Street, Ghioirso, and Seaborg in 1950 by bombarding microgram quantities of 242Cm with 35 MeV helium ions in the Berkeley 60-inch cyclotron.
+
+Californium (III) is the only ion stable in aqueous solutions, all attempts to reduce or oxidize californium (III) having failed. The isotope 249Cf results from the beta decay of 249Bk while the heavier isotopes are produced by intense neutron irradiation by the reactions. The existence of the isotopes 249Cf, 250Cf, 251Cf, and 252Cf makes it feasible to isolate californium in weighable amounts so that its properties can be investigated with macroscopic quantities.
+
+Californium-252 is a very strong neutron emitter. One microgram releases 170 million neutrons per minute, which presents biological hazards. Proper safeguards should be used in handling californium.
+
+Applications
+
+Because californium is a very efficient source of neutrons, many new uses are expected for it. It has already found use in neutron moisture gages and in well logging (the determination of water and oil-bearing layers). It is also being used as a portable neutron source for discovery of metals such as gold or silver by on-the-spot activation analysis. 252-Cf is now being offered for sale by the O.R.N.L. at a cost of $10/mg. As of May 1975, more than 63 mg have been produced and sold. It has been suggested that californium may be produced in certain stellar explosions, called supernovae, for the radioactive decay of 254Cf (55-day half-life) agrees with the characteristics of the light curves of such explosions observed through telescopes. This suggestion, however, is questioned. Californium is also used in cancer therapy.
+
+Californium in the environment
+
+Californium does not occur naturally on Earth. All that there now is has been synthesized, but this element was produced in the past when several nuclear reactors were in operation 2 billion years ago in Africa. Californium can be encountered outside nuclear facilities and research laboratories because it is used in mineral prospetting and for medical diagnosis and treatment.
+
+Health effects of californium
+Californium-252 is a very strong neutron emitter. It is known for being extremely radioactive. These are some of the health hazards of radioactivity that should be taken into account:
+
+The development of nuclear technology has been accompanied by gross as well as minute releases of radioactivity into the atmosphere, the soil, the oceans, seas, and water table, showing up worldwide in animal, vegetable, and inert matter. Radiation crosses species and concentrates through the food chain, subjecting other animals and humans to its damaging effects.
+
+The greatest threat of radioactivity to life as we know it is damage to the gene pool, the genetic make-up of all living species. Genetic damage from radiation exposure is cumulative over lifetimes and generations.
+
+Even low-dose exposures are carcinogenic after extended exposure. The current generation, the one in utero, and all that follow may suffer cancers, immune system damage, leukemias, miscarriages, stillbirths, deformities, and fertility problems. While many of these health problems are on the rise, individuals cannot prove either increase in "background" radiation or specific exposure as the cause. Only epidemiological evidence is scientifically acceptable to impute cause. Perhaps the most extreme outcome over time would be simply the wholesale cessation of the ability to reproduce. Radiation is a known cause of sterility.
+
+Environmental effects of californium
+Californium-252 is a very strong neutron emitter. It is known for being extremely radioactive.
+
+Radioactivity damages the gene pool not only of humans, but of all living creatures, causing cancers, immune system damage, leukemias, miscarriages, stillbirths, deformities, and fertility problems. Furthermore, genetic damage from radiation exposure is cumulative over lifetimes and generations.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/cf.htm#ixzz64lrLBkMn

@@ -1,0 +1,107 @@
+Arsenic - As
+Chemical properties of arsenic - Health effects of arsenic - Environmental effects of arsenic
+Atomic number
+
+33
+
+Atomic mass
+
+74.9216 g.mol -1
+
+Electronegativity according to Pauling
+
+2.0
+
+Density
+
+5.7 g.cm-3 at 14°C
+
+Melting point
+
+814 °C (36 atm)
+
+Boiling point
+
+615 °C (sublimation)
+
+Vanderwaals radius
+
+0.139 nm
+
+Ionic radius
+
+0.222 nm (-2) 0,047 nm (+5) 0,058 (+3)
+
+Isotopes
+
+8
+
+Electronic shell
+
+[ Ar ] 3d10 4s2 4p3
+
+Energy of first ionisation
+
+947 kJ.mol -1
+
+Energy of second ionisation
+
+1798 kJ.mol -1
+
+Energy of third ionisation
+
+2736 kJ.mol -1
+
+Standard potential
+
+- 0.3 V (As3+/ As )
+
+Discovered by
+
+The ancients
+
+Arsenic - As
+
+
+Arsenic
+Arsenic appears in three allotropic forms: yellow, black and grey; the stable form is a silver-gray, brittle crystalline solid. It tarnishes rapidly in air, and at high temperatures burns forming a white cloud of arsenic trioxide. Arsenic is a member of group Va of the periodic table, which combines readily with many elements.
+The metallic form is brittle, tharnishes and when heated it rapidly oxidizes to arsenic trioxide, which has a garlic odor. The non metallic form is less reactive but will dissolve when heated with strong oxidizing acids and alkalis.
+
+Applications
+
+Arsenic compounds are used in making special types of glass, as a wood preservative and, lately, in the semiconductor gallium arsenade, which has the ability to convert electric current to laser light. Arsine gas AsH3, has become an important dopant gas in the microchip industry, although it requires strict guidelines regarding its use because it is extremely toxic.
+During the 18th, 19th, and 20th centuries, a number of arsenic compounds have been used as medicines; copper acetoarsenite was used as a green pigment known under many different names.
+
+Arsenic in the environment
+
+Arsenic can be found naturally on earth in small concentrations. It occurs in soil and minerals and it may enter air, water and land through wind-blown dust and water run-off. Arsenic in the atmosphere comes from various sources: vulcanoes release about 3000 tonnes per year and microorganisms release volatile methylarsines to the extent of 20.000 tonnes per year, but human activity is responsible for much more: 80.000 tonnes of arsenic per year are released by the burning of fossil fuels.
+
+Despite its notoriety as a deadly poison, arsenic is an essential trace element for some animals, and maybe even for humans, although the necessary intake may be as low as 0.01 mg/day.
+
+Arsenic is a component that is extremely hard to convert to water-soluble or volatile products. The fact that arsenic is naturally a fairly a mobile component, basically means that large concentrations are not likely to appear on one specific site. This is a good thing, but the negative site to it is that arsenic pollution becomes a wider issue because it easily spreads. Arsenic cannot be mobilized easily when it is immobile. Due to human activities, mainly through mining and melting, naturally immobile arsenics have also mobilized and can now be found on many more places than where they existed naturally.
+
+A little uncombined arsenic occurs naturally as microcrystalline masses, found in Siberia, Germany, France, Italy, Romania and in the USA. Most arsenic is found in conjuction with sulfur in minerals such as arsenopyrite (AsFeS), realgar, orpiment and enargite. Non is mined as such because it is produced as a by-product of refining the ores of other metals, such as copper and lead. World production of arsenic, in the form of its oxide, is around 50.000 tonnes per year, far in excess of that required by industry. China is the chief exporting country, followed by Chile and Mexico. World resources of arsenic in copper and lead ores exceed 10 million tonnes.
+
+Health effects of arsenic
+Arsenic is one of the most toxic elements that can be found. Despite their toxic effect, inorganic arsenic bonds occur on earth naturally in small amounts. Humans may be exposed to arsenic through food, water and air. Exposure may also occur through skin contact with soil or water that contains arsenic.
+Levels of arsenic in food are fairly low, as it is not added due to its toxicity. But levels of arsenic in fish and seafood may be high, because fish absorb arsenic from the water they live in. Luckily this is mainly the fairly harmless organic form of arsenic, but fish that contain significant amounts of inorganic arsenic may be a danger to human health.
+
+Arsenic exposure may be higher for people that work with arsenic, for people that live in houses that contain conserved wood of any kind and for those who live on farmlands where arsenic-containing pesticides have been applied in the past.
+
+Exposure to inorganic arsenic can cause various health effects, such as irritation of the stomach and intestines, decreased production of red and white blood cells, skin changes and lung irritation. It is suggested that the uptake of significant amounts of inorganic arsenic can intensify the chances of cancer development, especially the chances of development of skin cancer, lung cancer, liver cancer and lymphatic cancer.
+
+A very high exposure to inorganic arsenic can cause infertility and miscarriages with women, and it can cause skin disturbances, declined resistance to infections, heart disruptions and brain damage with both men and women.
+Finally, inorganic arsenic can damage DNA.
+
+A lethal dose of arsenic oxide is generally regarded as 100 mg.
+
+Organic arsenic can cause neither cancer, nor DNA damage. But exposure to high doses may cause certain effects to human health, such as nerve injury and stomachaches.
+
+Environmental effects of arsenic
+The arsenic cycle has broadened as a consequence of human interference and due to this, large amounts of arsenic end up in the environment and in living organisms. Arsenic is mainly emitted by the copper producing industries, but also during lead and zinc production and in agriculture. It cannot be destroyed once it has entered the environment, so that the amounts that we add can spread and cause health effects to humans and animals on many locations on earth.
+
+Plants absorb arsenic fairly easily, so that high-ranking concentrations may be present in food. The concentrations of the dangerous inorganic arsenics that are currently present in surface waters enhance the chances of alteration of genetic materials of fish. This is mainly caused by accumulation of arsenic in the bodies of plant-eating freshwater organisms. Birds eat the fish that already contain eminent amounts of arsenic and will die as a result of arsenic poisoning as the fish is decomposed in their bodies
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/as.htm#ixzz64iacwHbP

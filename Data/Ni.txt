@@ -1,0 +1,116 @@
+Nickel - Ni
+Chemical properties of nickel - Health effects of nickel - Environmental effects of nickel
+Atomic number
+
+28
+
+Atomic mass
+
+58.71 g.mol -1
+
+Electronegativity according to Pauling
+
+1.8
+
+Density
+
+8.9 g.cm-3 at 20°C
+
+Melting point
+
+1453 °C
+
+Boiling point
+
+2913 °C
+
+Vanderwaals radius
+
+0.124 nm
+
+Ionic radius
+
+0.069 nm (+2) ; 0.06 nm (+3)
+
+Isotopes
+
+10
+
+Electronic shell
+
+[ Ar ] 3d8 4s2
+
+Energy of first ionisation
+
+735 kJ.mol -1
+
+Energy of second ionisation
+
+1753 kJ.mol -1
+
+Energy of third ionisation
+
+3387 kJ.mol -1
+
+Standard potential
+
+- 0.25 V
+
+Discovered by
+
+Alex Constedt 1751
+
+Nickel - Ni
+
+
+
+Nickel
+Nickel is silvery-white. hard, malleable, and ductile metal. It is of the iron group and it takes on a high polish. It is a fairly good conductor of heat and electricity. In its familiar compounds nickel is bivalent, although it assumes other valences. It also forms a number of complex compounds. Most nickel compounds are blue or green. Nickel dissolves slowly in dilute acids but, like iron, becomes passive when treated with nitric acid. Finely divided nickel adsorbs hydrogen.
+
+Applications
+
+The major use of nickel is in the preparation of alloys. Nickel alloys are characterized by strength, ductility, and resistance to corrosion and heat. About 65 % of the nickel consumed in the Western World is used to make stainless steel, whose composition can vary but is typically iron with around 18% chromium and 8% nickel. 12 % of all the nickel consumed goes into super alloys. The remaining 23% of consumption is divided between alloy steels, rechargeable batteries, catalysts and other chemicals, coinage, foundry products, and plating.
+Nickel is easy to work and can be drawn into wire. It resist corrosion even at high temperatures and for this reason it is used in gas turbines and rocket engines. Monel is an alloy of nickel and copper (e.g. 70% nickel, 30% copper with traces of iron, manganese and silicon), which is not only hard but can resist corrosion by sea water, so that it is ideal for propeller shaft in boats and desalination plants.
+
+Nickel in the environment
+
+Most nickel on Earth is inaccessible because it is locked away in the planet's iron-nickel molten core, which is 10 % nickel. The total amount of nickel dissolved in the sea has been calculated to be around 8 billion tons. Organic matter has a strong ability to absorb the metal which is why coal and oil contain considerable amounts. The nickel content in soil can be as low as 0.2 ppm or as high as 450 ppm in some clay and loamy soils. The average is around 20 ppm. Nickel occurs in some beans where it is an essential component of some enzymes. Another relatively rich source of nickel is tea which has 7.6 mg/kg of dried leaves.
+Nickel occurs combined with sulphur in millerite, with arsenic in the mineral niccolite, and with arsenic and sulphur in nickel glance. Most ores from which nickel is extracted are iron-nickel sulphides, such as pentlandite. The metal is mined in Russia, Australia, New Caledonia, Cuba, Canada and South Africa. Annual production exceeds 500.000 tons and easily workable reserves will last at least 150 years.
+
+Health effects of nickel
+Nickel is a compound that occurs in the environment only at very low levels. Humans use nickel for many different applications. The most common application of nickel is the use as an ingredient of steal and other metal products. It can be found in common metal products such as jewelry.
+
+ 
+
+Foodstuffs naturally contain small amounts of nickel. Chocolate and fats are known to contain severely high quantities. Nickel uptake will boost when people eat large quantities of vegetables from polluted soils. Plants are known to accumulate nickel and as a result the nickel uptake from vegetables will be eminent. Smokers have a higher nickel uptake through their lungs. Finally, nickel can be found in detergents.
+
+Humans may be exposed to nickel by breathing air, drinking water, eating food or smoking cigarettes. Skin contact with nickel-contaminated soil or water may also result in nickel exposure. In small quantities nickel is essential, but when the uptake is too high it can be a danger to human health.
+
+An uptake of too large quantities of nickel has the following consequences:
+- Higher chances of development of lung cancer, nose cancer, larynx cancer and prostate cancer
+- Sickness and dizziness after exposure to nickel gas
+- Lung embolism
+- Respiratory failure
+- Birth defects
+- Asthma and chronic bronchitis
+- Allergic reactions such as skin rashes, mainly from jewelry
+- Heart disorders
+
+Nickel fumes are respiratory irritants and may cause pneumonitis. Exposure to nickel and its compounds may result in the development of a dermatitis known as “nickel itch” in sensitized individuals. The first symptom is usually itching, which occurs up to 7 days before skin eruption occurs. The primary skin eruption is erythematous, or follicular, which may be followed by skin ulceration. Nickel sensitivity, once acquired, appears to persist indefinitely.
+
+Carcinogenicity- Nickel and certain nickel compounds have been listed by the National Toxicology Program (NTP) as being reasonably anticipated to be carcinogens. The International Agency for Research on Cancer (IARC) has listed nickel compounds within group 1 (there is sufficient evidence for carcinogenicity in humans) and nickel within group 2B (agents which are possibly carcinogenic to humans). OSHA does not regulate nickel as a carcinogen. Nickel is on the ACGIH Notice of Intended Changes as a Category A1, confirmed human carcinogen.
+
+Effects of nickel on the environment
+Nickel is released into the air by power plants and trash incinerators. It will than settle to the ground or fall down after reactions with raindrops. It usually takes a long time for nickel to be removed from air. Nickel can also end up in surface water when it is a part of wastewater streams.
+
+The larger part of all nickel compounds that are released to the environment will adsorb to sediment or soil particles and become immobile as a result. In acidic ground however, nickel is bound to become more mobile and it will often rinse out to the groundwater.
+
+There is not much information available on the effects of nickel upon organisms other than humans. We do know that high nickel concentrations on sandy soils can clearly damage plants and high nickel concentrations in surface waters can diminish the growth rates of algae. Micro organisms can also suffer from growth decline due to the presence of nickel, but they usually develop resistance to nickel after a while.
+
+For animals nickel is an essential foodstuff in small amounts. But nickel is not only favorable as an essential element; it can also be dangerous when the maximum tolerable amounts are exceeded. This can cause various kinds of cancer on different sites within the bodies of animals, mainly of those that live near refineries.
+
+Nickel is not known to accumulate in plants or animals. As a result nickel will not bio magnify up the food chain
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ni.htm#ixzz64iZltWN6

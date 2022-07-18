@@ -1,0 +1,113 @@
+Selenium - Se
+Chemical properties of selenium - Health effects of selenium - Environmental effects of selenium
+Atomic number
+
+34
+
+Atomic mass
+
+78.96 g.mol -1
+
+Electronegativity according to Pauling
+
+2.4
+
+Density
+
+4.79 g.cm-3 at 20°C
+
+Melting point
+
+217 °C
+
+Boiling point
+
+688 °C
+
+Vanderwaals radius
+
+0.14 nm
+
+Ionic radius
+
+0.198 nm (-2) ; 0.042 nm (+6)
+
+Isotopes
+
+9
+
+Electronic shell
+
+[ Ar ] 3d10 4s2 4p4
+
+Energy of first ionisation
+
+940,7 kJ.mol -1
+
+Energy of second ionisation	2045 kJ.mol -1
+Energy of third ionisation	2973.7 kJ.mol -1
+Standard potential
+
+- 0.77 V
+
+Discovered by
+
+Jons Berzelius 1817
+
+Selenium - Se
+
+
+Selenium
+Selenium is a non metallic chemical element, member of the group XVI of the periodic table. In chemical activity and physical properties it resembles sulfur and tellurium. Selenium appearsin a number of allotropic forms: the most popular are a red amorphous powder, a red crystalline material, and a gray crystalline metallike form called metallic selenium. This last form conducts electricity better in the light than in the dark and is used in photocells. Selenium burns in air and is uneffected by water, but dissolves in concentrated nitric acid and alkalis.
+
+Applications
+
+Selenium has good photovoltaic and photoconductive properties, and it is used extensively in electronics, such as photocells, light meters and solar cells. The second largest use of selenium is in the glass industry: selenium is used to remove colour from glass, to give a red colour to glasses and enamels. The third min use, taking about 15% is sodium selenite for animal feeds and food supplements. Selenium can also find applications in photocopying, in the toning of photographs. Its artistic use is to intensify and extend the tonal range of black and white photographic images. Other uses of selenium are in metal alloys such as the lead plates used in storage batteries and in rectifiers to convert AC current in DC current. Selenium is used to improve the abrasion resistance in vulcanized rubbers. Some selenium compounds are added to anti-dandruff shampoos.
+
+Selenium in the environment
+
+Selenium is among the rarer elements on the surface of this planet, and is rarer than silver. Selenium is present in the atmosphere as metyl derivatives. Uncombined selenium is occasionally found and there are around 40 known selenium-conaining minerals, some of which can have as much as 30% selenium - but all are rare and generally they occur together with sulfides of metals such as copper, zinc and lead. The main producing countries are Canada, USA, Bolivia and Russia. Global industrial production of selenium is around 1500 tonnes a year and about 150 tonnes of selenium are recycled from industrial waste an reclaimed from old photocopiers.
+
+Selenium occurs naturally in the environment. It is released through both natural processes and human activities. Well fertilized agricultural soil generally has about 400 mg/ton since the element is naturally present in phosphate fertilizers ans is often added as a trace nutrient. In its natural form as an element selenium cannot be created or destroyed, but selenium does have the ability to change form.
+
+Selenium levels in soils and waters increase, because selenium settles from air and selenium from waste also tends to end up in the soils of disposal sites. When selenium in soils does not react with oxygen it remains fairly immobile. Selenium that is immobile and will not dissolve in water is less of a risk for organisms. The oxygen levels in the soil and the acidity of the soil will increase mobile forms of selenium. Higher oxygen levels and increased acidity of soils is usually cause by human activities, such as industrial and agricultural processes.
+
+When selenium is more mobile, the chances of exposure to its compounds will be greatly enhanced. Soil temperatures, moisture, concentrations of water-soluble selenium, the season of the year, organic matter content and microbial activity determine how fast selenium will move through soil. In other words, these factors determine its mobility.
+
+Agriculture cannot only increase the selenium content in soil; it can also increase selenium concentrations in surface water, as selenium is brought along in irrigation drainage water.
+
+Health effects of selenium
+Humans may be exposed to selenium in several different ways. Selenium exposure takes place either through food or water, or when we come in contact with soil or air that contains high concentrations of selenium. This is not very surprising, because selenium occurs naturally in the environment extensively and it is very widespread.
+The exposure to selenium mainly takes place through food, because selenium is naturally present in grains, cereals and meat. Humans need to absorb certain amounts of selenium daily, in order to maintain good health. Food usually contains enough selenium to prevent disease caused by shortages.
+
+Selenium uptake through food may be higher than usual in many cases, because in the past many selenium-rich fertilizers have been applied on farmland.
+
+People that live near hazardous waste-sites will experience a higher exposure through soil and air. Selenium from hazardous waste-sites and from farmland will end up in groundwater or surface water through irrigation. This phenomenon causes selenium to end up in local drinking water, so that exposure to selenium through water will be temporarily increased.
+
+People that work in metal industries, selenium-recovery industries and paint industries also tend to experience a higher selenium exposure, mainly through breathing. Selenium is released to air through coal and oil combustion.
+People that eat a lot of grains that grow near industrial sites may experience a higher exposure to selenium through food. Exposure to selenium through drinking water may be increased when selenium from hazardous waste disposals ends up in water wells.
+
+Exposure to selenium through air only comes about in the workplace usually. It can cause dizziness, fatigue and irritations of the mucous membranes. When the exposure is extremely high, collection of fluid in the lungs and bronchitis may occur.
+
+Selenium uptake through food is usually high enough to meet human needs; shortages rarely occur. When shortages occur people may experience heart and muscle problems.
+
+When selenium uptake is too high health effects will be likely to come about. The seriousness of these effects depends upon the concentrations of selenium in the food and how often this food is eaten.
+The health effects of various forms of selenium can vary from brittle hair and deformed nails, to rashes, heat, swelling of the skin and severe pains. When selenium ends up in the eyes people experience burning, irritation and tearing.
+
+Selenium poisoning may become so severe in some cases that it can even cause death.
+
+Overexposure of selenium fumes may produce accumulation of fluid in the lungs, garlic breath, bronchitis, pneumonitis, bronchial asthma, nausea, chills, fever, headache, sore throat, shortness of breath, conjunctivitis, vomiting, abdominal pain, diarrhea and enlarged liver. Selenium is an eye and upper respiratory irritant and a sensitizer. Overexposure may result in red staining of the nails, teeth and hair. Selenium dioxide reacts with moisture to form selenious acid, which is corrosive to the skin and eyes. Carcinogenicity- The International Agency for Research on Cancer (IARC) has listed selenium within Group 3 (The agent is not classifiable as to its carcinogenicity to humans.)
+
+Effects of selenium on the environment
+Low levels of selenium can end up in soils or water through weathering of rocks. It will than be taken up by plants or end up in air when it is adsorbed on fine dust particles. Selenium is most likely to enter the air through coal and oil combustion, as selenium dioxide. This substance will be converted into selenium acid in water or sweat.
+Selenium substances in air are usually broken down to selenium and water fairly quickly, so that they are not dangerous to the health of organisms.
+
+The behaviour of selenium in the environment strongly depends upon its interactions with other compounds and the environmental conditions at a certain location at a certain time.
+
+There is evidence selenium can accumulate in the body tissues of organisms and can than be passed up through the food chain. Usually this bio magnification of selenium starts when animals eat a lot of plants that have been absorbing large amounts of selenium, prior to digestion. Due to irrigation run-off concentrations of selenium tend to be very high in aquatic organisms in many areas.
+
+When animals absorb or accumulate extremely high concentrations of selenium it can cause reproductive failure and birth defects.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/se.htm#ixzz64iayJf8n

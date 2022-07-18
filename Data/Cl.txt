@@ -1,0 +1,107 @@
+Chlorine - Cl
+Chemical properties of chlorine - Health effects of chlorine - Environmental effects of chlorine
+Atomic number
+
+17
+
+Atomic mass
+
+35.453 g.mol -1
+
+Electronegativity according to Pauling
+
+3.0
+
+Density
+
+3.21*10 -3 g.cm -3 at 20 °C
+
+Melting point
+
+-101 °C
+
+Boiling point
+
+-34.6 °C
+
+Vanderwaals radius
+
+0.127 nm
+
+Ionic radius
+
+0.184 (-2) nm ; 0.029 nm (+6)
+
+Isotopes
+
+4
+
+Electronic shell
+
+[Ne] 3s23p5
+
+Energy of first ionisation
+
+1255.7 kJ.mol -1
+
+Energy of second ionisation	2298 kJ.mol -1
+Energy of third ionisation	3822 kJ.mol -1
+Standard potential
+
+- 1.36 V
+
+Discovered by
+
+Carl Wilhelm Scheele in 1774
+
+Chlorine (Cl)
+Chlorine
+Discovered in 1774 by Carl Wilhelm Scheele, who mistakenly thought it contained oxygen. Chlorine was given its name in 1810 by Humphry Davy, who insisted that it was in fact an element.
+
+The pure chemical element has the physical form of a diatomic green gas. The name chlorine is derived from chloros, meaning green, referring to the color of the gas. Chlorine gas is two and one half times as heavy as air, has an intensely disagreeable suffocating odor, and is exceedingly poisonous. In its liquid and solid form it is a powerful oxidizing, bleaching, and disinfecting agent.
+
+This element is a part of the halogen series forming salts. It is extracted from chlorides through oxidation and electrolysis. Chlorine gas is greenish-yellow and combines readily with nearly all other elements.
+
+Applications
+
+Chlorine is an important chemical in water purification, in disinfectants, in bleach and in mustard gas.
+
+Chlorine is also used widely in the manufacture of many products and items directly or indirectly, i.e. in paper product production, antiseptic, dyestuffs, food, insecticides, paints, petroleum products, plastics, medicines, textiles, solvents, and many other consumer products.
+It is used to kill bacteria and other microbes from drinking water supplies.
+
+Chlorine is involved in beaching wood pulp for paper making, bleach is also used industrially to remove ink from recycle paper.
+
+Chlorine often imparts many desired properties in an organic compound when it is substituted for hydrogen (synthetic rubber), so it is widely use in organic chemistry, in the production of chlorates, chloroform, carbon tetrachloride, and in the bromine extraction.
+
+Chlorine in the environment
+
+In nature it is only found combined with other elements chiefly sodium in the form of common salt (NaCl), but also in carnallite, and sylvite. Chlorides make up much of the salt dissolved in the earth's oceans: about 1.9 % of the mass of seawater is chloride ions.
+
+The amount of chloride in soils varies according to the distance from the sea. The average in top soils is about 10 ppm. Plants contain various amount of chlorine; it is an essential microutrient for higher plants where is concentrates in the chloroplasts. Growth suffers if the amount of chloride in the soil fall below 2 ppm, but it rarely happens. The upper limit of tolerance varies according to the crop.
+
+Health effects of chlorine
+Chlorine is a highly reactive gas. It is a naturally occurring element. The largest users of chlorine are companies that make ethylene dichloride and other chlorinated solvents, polyvinyl chloride (PVC) resins, chlorofluorocarbons, and propylene oxide. Paper companies use chlorine to bleach paper. Water and wastewater treatment plants use chlorine to reduce water levels of microrganisms that can spread disease to humans (disinfection).
+
+Exposure to chlorine can occur in the workplace or in the environment following releases to air, water, or land. People who use laundry bleach and swimming pool chemicals containing chlorine products are usually not exposed to chlorine itself. Chlorine is generally found only in industrial settings.
+
+Chlorine enters the body breathed in with contaminated air or when consumed with contaminated food or water. It does not remain in the body, due to its reactivity.
+
+Effects of chlorine on human health depend on how the amount of chlorine that is present, and the length and frequency of exposure. Effects also depend on the health of a person or condition of the environment when exposure occurs.
+
+Breathing small amounts of chlorine for short periods of time adversely affects the human respiratory system. Effects differ from coughing and chest pain, to water retention in the lungs. Chlorine irritates the skin, the eyes, and the respiratory system. These effects are not likely to occur at levels of chlorine that are normally found in the environment.
+
+Human health effects associated with breathing or otherwise consuming small amounts of chlorine over long periods of time are not known. Some studies show that workers develop adverse effects from repeat inhalation exposure to chlorine, but others will not.
+Environmental effects of chlorine
+Chlorine dissolves when mixed with water. It can also escape from water and enter air under certain conditions. Most direct releases of chlorine to the environment are to air and to surface water.
+
+Once in air or in water, chlorine reacts with other chemicals. It combines with inorganic material in water to form chloride salts, and with organic material in water to form chlorinated organic chemicals.
+
+Because of its reactivity chlorine is not likely to move through the ground and enter groundwater.
+
+Plants and animals are not likely to store chlorine. However, laboratory studies show that repeat exposure to chlorine in air can affect the immune system, the blood, the heart, and the respiratory system of animals.
+
+Chlorine causes environmental harm at low levels. Chlorine is especially harmful to organisms living in water and in soil.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/cl.htm#ixzz64iXGx79Y

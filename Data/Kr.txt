@@ -1,0 +1,75 @@
+Krypton - Kr
+Chemical properties of krypton - Health effects of krypton - Environmental effects of krypton
+Atomic number
+
+36
+
+Atomic mass
+
+83.80 g.mol -1
+
+Density
+
+3.73 10-3 g.cm-3 at 20°C
+
+Melting point
+
+- 157 °C
+
+Boiling point
+
+- 153° C
+
+Vanderwaals radius
+
+0.197 nm
+
+Isotopes
+
+15
+
+Electronic shell
+
+[ Ar ] 3d10 4s2 4p6
+
+Energy of first ionisation
+
+1351 kJ.mol -1
+
+Energy of second ionisation	2350.4 kJ.mol -1
+Energy of third ionisation	3565 kJ.mol -1
+Discovered by
+
+Sir Ramsay in 1898
+
+Krypton - Kr
+Krypton
+Krypton is present in the air at about 1 ppm. The atmosphere of Mars contains a little (about 0.3 ppm) of krypton. It is characterised by its brilliant green and orange spectral lines. The spectral lines of krypton are easily produced and some are very sharp. In 1960 it was internationally agreed that the fundamental unit of length, the metre, should be defined as 1 m = 1,650,763.73 wavelengths (in vacuo) of the orange-red line of Kr-33.
+
+Under normal conditions krypton is colourless, odourless, fairly expensive gas. Solid krypton is a white crystalline substance with a face-centered cubic structure which is common to all the "rare gases". Krypton difluoride, KrF2, has been prepared in gram quantities and can be made by several methods. Other compounds are unstable, unless isolated in a matrix at very low temperatures.
+
+Applications
+
+Krypton is used to fill electric lamp bulbs which are filled with a mixture of krypton and argon, and for various electronic devices. Krypton is also used in photographic projection lamps, in very high-powered electric arc lights used at airports and in some strobo-lamps, because it has an extremely fast respons to an electric current.
+
+A mixture of stable and unstable isotopes of krypton is produced by slow neutron fission of uranium in nuclear reactors as Kripron-85, its most stable isotope. It is used to detect leaks in sealed containers, to excite phosphors in light sources with no external source of energy, and in medicine to detect abnormal heart openings.
+
+Krypton in the environment
+
+Krypton might be one of the rarest gases in the atmosphere, but in total there are more than 15 billion tonnes of this metal circulating in the planet, of which only about 8 tonnes a year are extracted, via liquid air.
+
+Health effects of krypton
+Inhalation: This gas is inert and is classified as a simple asphyxiant. Inhalation in excessive concentrations can result in dizziness, nausea, vomiting, loss of consciousness, and death. Death may result from errors in judgment, confusion, or loss of consciousness which prevent self-rescue. At low oxygen concentrations, unconsciousness and death may occur in seconds without warning.
+
+The effect of simple asphyxiant gases is proportional to the extent to which they diminish the amount (partial pressure) of oxygen in the air that is breathed. The oxygen may be diminished to 75% of it's normal percentage in air before appreciable symptoms develop. This in turn requires the presence of a simple asphyxiant in a concentration of 33% in the mixture of air and gas. When the simple asphyxiant reaches a concentration of 50%, marked symptoms can be produced. A concentration of 75% is fatal in a matter of minutes.
+
+Symptoms: The first symptoms produced by a simple asphyxiant are rapid respirations and air hunger. Mental alertness is diminished and muscular coordination is impaired. Later judgment becomes faulty and all sensations are depressed. Emotional instability often results and fatigue occurs rapidly. As the asphyxia progresses, there may be nausea and vomiting, prostration and loss of consciousness, and finally convulsions, deep coma and death.
+
+Environmental effects of krypton
+Krypton is a rare atmospheric gas and as such is non-toxic and chemically inert. The extreme cold temperature (-244oC) will freeze organisms on contact, but no long term ecological effects are anticipated.
+
+Disposal considerations: When disposal becomes necessary, vent gas slowly to a well-ventilated out door location remote from personnel work areas and building air intakes. Do not dispose of any residual gas in compressed gas cylinders. Return cylinders to the supplier with residual pressure, the cylinder valve tightly closed. Please be advised that state and local requirements for waste disposal may be more restrictive or otherwise different from federal regulations. Consult state and local regulations regarding the proper disposal of this material.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/kr.htm#ixzz64ibMA7gf

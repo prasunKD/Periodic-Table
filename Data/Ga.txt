@@ -1,0 +1,87 @@
+Gallium - Ga
+Chemical properties of gallium - Health effects of gallium - Environmental effects of gallium
+Atomic number
+
+31
+
+Atomic mass
+
+69.72 g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+5.1 g.cm-3 at 20°C
+
+Melting point
+
+29.8 °C
+
+Boiling point
+
+2204 °C
+
+Vanderwaals radius
+
+0.161 nm
+
+Ionic radius
+
+0.083 nm (+3)
+
+Isotopes
+
+6
+
+Electronic shell
+
+[ Ar ] 3d10 4s24p1
+
+Energy of first ionisation
+
+578.6 kJ.mol -1
+
+Energy of second ionisation
+
+1978.8 kJ.mol -1
+
+Energy of third ionisation
+
+2389 kJ.mol -1
+
+Energy of fourth ionisation
+
+2962.3 kJ.mol -1
+
+Standard potential
+
+- 0.52 V
+
+Gallium - Ga
+
+Gallium
+Solid gallium is a blue-gray metal with orthorhombic crystalline structure; very pure gallium has a stunning silvery color. Gallium is solid at normal room temperatures, but as well as mercury, cesium, and rubidium it becomes liquid when heated slightly. Solid gallium is soft enough to be cut with a knife. It is stable in air and water; but it reacts with and dissolves in acids and alkalis.
+
+Applications
+
+Liquid gallium wets porcelain and glass surfaces; it forms a bright, highly reflective surface when coated on glass. It can be used to create brilliant mirrors. Gallium easily alloys with most metals, so it is used to form low-melting alloys. The plutonium pits of nuclear weapons employ an alloy with gallium to stabilize the allotropes of plutonium.
+Analog integrated circuits are the most common application for gallium, with optoelectronic devices (mostly laser diodes and light-emitting diodes) as the second largest end use. Gallium has semiconductor properties, especially as gallium arsendite (GaAs). This can convert electricity to light and is used in light emitting diodes (LEDs) for electronic display and watches.
+Gallium is used in some high temperature thermometers.
+
+Gallium in the environment
+
+Gallium does not exist in pure form in nature, and gallium compounds are not a primary source of extraction. Gallium is more abundant than lead but much less accessible bacause it has not been selectively concentrated into minerals by any geological process, so it tends to be widely dispersed. Several ores, such as the aluminum ore bauxite, contain small amount of gallium, and coal may have a relatively high gallium content.
+
+Health effects of gallium
+Gallium is an element found in the body, but it occurs in a very small amount. For example, in a person with a mass of seventy kilograms, there are 0.7 milligrams of gallium in the body. If this amount of gallium was condensed into a cube, the cube would only be 0.49 millimeters long on one side. It has no proven benefit towards the function of the body, and it most likely is only present due to small traces in the natural environment, in water, and in residue on vegetables and fruits. Several vitamins and commercially distributed waters have been known to contain trace amounts of gallium with less than one part per million. Pure gallium is not a harmful substance for humans to touch. It has been handled many times only for the simple pleasure of watching it melt by the heat emitted from a human hand. However, it is known to leave a stain on hands. Even the gallium radioactive compound, gallium [67Ga] citrate, can be injected into the body and used for gallium scanning without harmful effects. Although it is not harmful in small amounts, gallium should not be purposefully consumed in large doses. Some gallium compounds can actually be very dangerous, however. For example, acute exposure to gallium(III) chloride can cause throat irritation, difficulty breathing, chest pain, and its fumes can cause even very serious conditions such as pulmonary edema and partial paralysis.
+
+
+Environmental effects of gallium
+One controversy with gallium involves nuclear weapons and pollution. Gallium is used to hold some nuclear bomb pits together. However, when the pits are cut and plutonium oxide powder is formed, the gallium remains in the plutonium. The plutonium then becomes unusable in fuel because the gallium is corrosive to several other elements. If the gallium is removed, however, the plutonium becomes useful again. The problem is that the process to remove the gallium contributes to a huge amount of pollution of water with radioactive substances. Gallium is an ideal element to use in the bomb pits, but pollution is destructive to the earth and to the health of its inhabitants. Even if efforts were taken to remove the pollution from the water, it would significantly increase the costs of the procedure of turning plutonium into a fuel by about 200 million dollars. Scientists are working on another method to clean the plutonium, but it could take years to be completed.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ga.htm#ixzz64ia8wfCF

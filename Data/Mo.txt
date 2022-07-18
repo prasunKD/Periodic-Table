@@ -1,0 +1,82 @@
+Molybdenum - Mo
+Chemical properties of molibdenum - Health effects of molybdenum - Environmental effects of molybdenum
+Atomic number
+
+42
+
+Atomic mass
+
+95.94 g.mol -1
+
+Electronegativity according to Pauling
+
+1.8
+
+Density
+
+10.2 g.cm-3 at 20°C
+
+Melting point
+
+2610 °C
+
+Boiling point
+
+4825 °C
+
+Vanderwaals radius
+
+0.139 nm
+
+Ionic radius
+
+0.068 nm (+4) ; 0.06 nm (+6)
+
+Isotopes
+
+11
+
+Electronic shell
+
+[ Kr ] 4d5 5s1
+
+Energy of first ionisation
+
+651 kJ.mol -1
+
+Standard potential
+
+- 0.2 V
+
+Discovered by
+
+Carl Wilhelm Scheele in 1778
+
+Molybdenum - Mo
+
+Molybdenum
+The metal is silvery white, very hard transition metal, but is softer and more ductile than tungsten. Scheele discovered it in 1778. It was often confused with graphite and lead ore. It has a high elastic modulus, and only tungsten and tantalum, of the more readily available metals, have higher melting points. Molybdenum has one of the highest melting points of all pure elements. Molybdenum is attacked slowly by acids.
+
+Applications
+
+Molybdenum is a valuable alloying agent, as it contributes to the hardenability and toughness of quenched and tempered steels. It also improves the strength of steel at high temperatures. Molybdenum is used in alloys, electrodes and catalysts. The Second World War German artillery piece called "Big Bertha" contains molybdenum as an essential component of its steel.
+
+It is used in certain nickel-based alloys, such as the "Hastelloys(R)" which are heat-resistant and corrosion-resistant to chemical solutions. Molybdenum oxidizes at elevated temperatures. The metal has found recent application as electrodes for electrically heated glass furnaces and foreheaths. The metal is also used in nuclear energy applications and for missile and aircraft parts. Molybdenum is valuable as a catalyst in the refining of petroleum. It has found applications as a filament material in electronic and electrical applications. Molybdenum is an essential trace element in plant nutrition. Some lands are barren for lack of this element in the soil. Molybdenum sulfide is useful as a lubricant, especially at high temperatures where oils would decompose. Almost all ultra-high strength steels with minimum yield points up to 300,000 psi(lb/in.2) contain molybdenum in amounts from 0.25 to 8%.
+
+Molybdenum powders are used in circuit inks for circuit boards, and in microwaves devices and heat sinks for solid-state devices.
+
+Molybdenum in the environment
+
+Molybdenum differs from the other micronutrients in soils in that it is less soluble in acid soils and more soluble in alkaline soils, the result being that its availability to plants is sensitive to pH and drainage conditions. Some plants can have up to 500 ppm of the metal when they grow on alkaline soils.
+
+Molybdenite is the chief mineral ore, with wulfenite being less important. Some molybdenite is obtained as a by-product of tungsen and copper production. The main mining areas are the USA, Chile, Canada and Russia, with world production being around 90.000 tonnes per year, and reserves amounting to 12 million tonnes of which 5 million tonnes are in the USA.
+Health effects of molybdenum
+Based on animal experiments, molybdenum and its compounds are highly toxic. Some evidence of liver dysfunction with hyperbilirubinemia has been reported in workmen chronically exposed in a Soviet Mo-Cu plant. In addition, signs of gout have been found in factory workers and among inhabitants of Mo-rich areas of Armenia. The main features were joint pains in the knees, hands, feet, articular deformities, erythema, and edema of the joint areas
+
+
+Environmental effects of molybdenum
+Molybdenum is essential to all species. As with other trace metals, though, what is essential in tiny amounts can be highly toxic at larger doses. Animal experiment have shown that too much molybdenum causes fetal deformities. Fodder with more than 10 ppm of molybdenum would put most livestok at risk.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/mo.htm#ixzz64ieMZi00

@@ -1,0 +1,108 @@
+Carbon - C
+Chemical properties of carbon - Health effects of carbon - Environmental effects of carbon
+Atomic number
+
+6
+
+Atomic mass
+
+12.011 g.mol -1
+
+Electronegativity according to Pauling
+
+2.5
+
+Density
+
+2.2 g.cm-3 at 20°C
+
+Melting point
+
+3652 °C
+
+Boiling point
+
+4827 °C
+
+Vanderwaals radius
+
+0.091 nm
+
+Ionic radius
+
+0.26 nm (-4) ; 0.015 nm (+4)
+
+Isotopes
+
+3
+
+Electronic shell
+
+[ He ] 2s22p2
+
+Energy of first ionisation
+
+1086.1 kJ.mol -1
+
+Energy of second ionisation
+
+2351.9 kJ.mol -1
+
+Energy of third ionisation
+
+4618.8 kJ.mol -1
+
+Discovered by
+
+The ancients
+
+Carbon (C)
+
+ 
+
+
+
+Carbon
+Carbon is unique in its chemical properties because it forms a number of components superior than the total addition of all the other elements in combination with each other.
+
+The biggest group of all these components is the one formed by carbon and hydrogen. We know a minimum of about 1 million organic components and this number increases rapidly every year. Although the classification is not strict, carbon forms another series of compounds considered as inorganic, in a much lower number than that of the organic compounds.
+
+Elemental carbon exists in two well-defined allotropic crystalline forms: diamond and graphite. Other forms with little crystallinity are vegetal carbon and black fume. Chemically pure carbon can be prepared by termic decomposition of sugar (sucrose) in absence of air. The physical and chemical properties of carbon depend on the crystalline structure of the element.
+
+
+ 
+
+Its density fluctuates from 2.25 g/cm³ (1.30 ounces/in³) for graphite and 3.51 g/cm³ (2.03 ounces/in³) for diamond. The melting point of graphite is 3500ºC (6332ºF) and the extrapolated boiling point is 4830ºC (8726ºF). Elemental carbon is an inert substance, insoluble in water, diluted acids and bases, as well as organic solvents. At high temperatures it binds with oxygen to form carbon monoxide or dioxide. With hot oxidizing agents, like nitric acid and potassium nitrate, metilic acid C6(CO2H)6 is obtained. Among the halogens only fluorine reacts with elemental carbon. A high number of metals combine with the element at high temperatures to form carbides.
+
+It forms three gaseous components with the oxygen: carbon monoxide, CO, carbon dioxide, CO2, and carbon suboxide, C3O2. The two first ones are the most important from the industrial point of view. Carbon forms compounds with the halogens with CX4 as general formula, where X is fluorine, chlorine, bromine or iodine. At ambient temperature carbon tetrafluoride is gas, tetrachloride is liquid and the other two compounds are solids. We also know mixed carbon tetrahalides. The most important of all may be the dichlorodifluoromethane, CCl2F2, called freon.
+
+Carbon in the environment
+
+Carbon and its components are widely distributed in nature. The estimation is that carbon forms 0,032% of The Earth’s crust. Free carbon is found in big reservoirs like hard coal, amorphous form of the element with other complex compounds of carbon-hydrogen-nitrogen. Pure crystalline carbon is found in the form of graphite and diamond.
+The Earth's atmosphere contains an ever-increasing concentration of carbon dioxide and carbon monoxide, form fossil fuel burning, and of methane (CH4), form paddy fields and cows.
+
+No element is more essential to life than carbon, because only carbon forms strong single bonds to itself that are stable enough to resist chemical attack under ambient conditions. This give carbon the ability to form long chains and rings of atoms, which are the structural basis for many compounds that comprise the living cell, of which the most important is DNA.
+
+Big quantities of carbon are found in the form of compounds. Carbon is present in the atmosphere as carbon dioxide in 0,03% in volume. Several minerals, like limestone, dolomite, gypsum and marble, contain carbonates. All the plants and live animals are formed by complex organic compounds where carbon is combined with hydrogen, oxygen, nitrogen and other elements. The remains of live plants and animals form deposits: of petroleum, asphalt and bitumen. The natural gas deposits contain compounds formed by carbon and hydrogen.
+
+Application
+
+The free element has a lot of uses, including decoration purposes of diamonds in jewelry or black fume pigment in automobile’s rims and printer’s ink. Another carbon form, the graphite, is used for high temperature crucibles, dry cell and light arch electrodes, for pencil tips and as a lubricant. Vegetal carbon, an amorphous form of carbon, is used as gas absorbent and bleaching agent.
+
+Carbon compounds have plenty of uses. Carbon dioxide is used in drinks carbonatation, in fire extinguishers and, in solid state, as a cooler (dry ice). Carbon monoxide is used as reduction agent in many metallurgic processes. Carbon tetrachloride and carbon disulphide are important industrial solvents. Freon is used in cooling systems. Calcium carbide is used to prepare acetylene; it’s used for welding and cutting metals, as well as for preparation of other organic compounds. Other metallic carbides have important uses as heat-resistants and metal cutters.
+
+Health effects of carbon
+Elemental carbon is of very low toxicity. Health hazard data presented here is based on exposures to carbon black, not elemental carbon. Chronic inhalation exposure to carbon black may result in temporary or permanent damage to lungs and heart.
+
+Pneumoconiosis has been found in workers engaged in the production of carbon black. Skin conditions such as inflammation of the hair follicles, and oral mucosal lesions have also been reported from skin exposure.
+
+Carcinogenicity- Carbon black has been listed by the International Agency for Research on Cancer (IARC) within Group 3 (The agent is not classifiable as to its carcinogenicity to humans).
+
+Some simple carbon compound can be very toxic, such as carbon monoxide (CO) or cyanide (CN-).
+
+Carbon 14 is one of the radionuclides involved in atmospheric testing of nuclear weapons, which began in 1945, with a US test, and ended in 1980 with a Chinese test. It is among the long-lived radionuclides that have produced and will continue to produce increased cancers risk for decades and centuries to come. It also can cross the placenta, become organically bound in developing cells and hence endanger fetuses.
+
+Most we eat is made up of compounds of carbon, giving a total carbon intake og 300 g/day. Digestion consist of breaking these compounds down into molecules than can be adsorbed to the wall of the stomach or intestine. There they are trasported by the blood to sites where they are utilized or oxidised to release the energy they contain.
+
+Environmental effects of carbon
+No negative environmental effects have been reported.

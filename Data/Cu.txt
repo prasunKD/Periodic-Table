@@ -1,0 +1,114 @@
+Copper - Cu
+Chemical properties of copper - Health effects of copper - Environmental effects of copper
+Atomic number
+
+29
+
+Atomic mass
+
+63.546 g.mol -1
+
+Electronegativity according to Pauling
+
+1.9
+
+Density
+
+8.9 g.cm-3 at 20°C
+
+Melting point
+
+1083 °C
+
+Boiling point
+
+2595 °C
+
+Vanderwaals radius
+
+0.128 nm
+
+Ionic radius
+
+0.096 nm (+1) ; 0.069 nm (+3)
+
+Isotopes
+
+6
+
+Electronic shell
+
+[ Ar ] 3d10 4s1
+
+Energy of first ionisation
+
+743.5 kJ.mol -1
+
+Energy of second ionisation
+
+1946 kJ.mol -1
+
+Standard potential
+
++ 0.522 V ( Cu+/ Cu ) ; + 0.345 V (Cu2+/ Cu )
+
+Discovered by
+
+The ancients
+
+Copper (Cu)
+
+Copper
+Copper is a reddish metal with a face-centered cubic crystalline structure. It reflects red and orange light and absorbs other frequencies in the visible spectrum, due to its band structure, so it as a nice reddish color. It is malleable, ductile, and an extremely good conductor of both heat and electricity. It is softer than zinc and can be polished to a bright finish. It is found in group Ib of the periodic table, together with silver and gold. Copper has low chemical reactivity. In moist air it slowly forms a greenish surface film called patina; this coating protects the metal from further attack.
+
+Applications
+
+Most copper is used for electrical equipment (60%); construction, such as roofing and plumbing (20%); industrial machinery, such as heat exchangers (15%) and alloys (5%). The main long established copper alloys are bronze, brass (a copper-zinc alloy), copper-tin-zinc, which was strong enough to make guns and cannons, and was known as gun metal, copper and nickel, known as cupronickel, which was the preferred metal for low-denomination coins.
+Copper is ideal for electrical wiring because it is easily worked, can be drawn into fine wire and has a high electrical conductivity.
+
+Copper in the environment
+
+Copper is a very common substance that occurs naturally in the environment and spreads through the environment through natural phenomena. Humans widely use copper. For instance it is applied in the industries and in agriculture. The production of copper has lifted over the last decades.  Due to this, copper quantities in the environment have increased.
+
+The world's copper production is still rising. This basically means that more and more copper ends up in the environment. Rivers are depositing sludge on their banks that is contaminated with copper, due to the disposal of copper-containing wastewater. Copper enters the air, mainly through release during the combustion of fossil fuels. Copper in air will remain there for an eminent period of time, before it settles when it starts to rain. It will then end up mainly in soils. As a result soils may also contain large quantities of copper after copper from the air has settled.
+
+Copper can be released into the environment by both natural sources and human activities. Examples of natural sources are wind-blown dust, decaying vegetation, forest fires and sea spray. A few examples of human activities that contribute to copper release have already been named. Other examples are mining, metal production, wood production and phosphate fertilizer production.
+Because copper is released both naturally and through human activity it is very widespread in the environment. Copper is often found near mines, industrial settings, landfills and waste disposals.
+
+Most copper compounds will settle and be bound to either water sediment or soil particles. Soluble copper compounds form the largest threat to human health. Usually water-soluble copper compounds occur in the environment after release through application in agriculture.
+
+World production of copper amounts to 12 million tons a year and exploitable reserves are around 300 million tons, which are expected to last for only another 25 years. About 2 million tons a year are reclaimed by recycling. Today copper is mined as major deposits in Chile, Indonesia, USA, Australia and Canada, which together account for around 80% of the world's copper. The main ore is a yellow copper-iron sulfide called chalcopyrite (CuFeS2).
+
+Health effects of copper
+Routes of exposition
+
+Copper can be found in many kinds of food, in drinking water and in air. Because of that we absorb eminent quantities of copper each day by eating, drinking and breathing. The absorption of copper is necessary, because copper is a trace element that is essential for human health. Although humans can handle proportionally large concentrations of copper, too much copper can still cause eminent health problems.
+
+Copper concentrations in air are usually quite low, so that exposure to copper through breathing is negligible. But people that live near smelters that process copper ore into metal, do experience this kind of exposure.
+
+People that live in houses that still have copper plumbing are exposed to higher levels of copper than most people, because copper is released into their drinking water through corrosion of pipes.
+
+Occupational exposure to copper often occurs. In the working environment, copper contagion can lead to a flu-like condition known as metal fever. This condition will pass after two days and is caused by over sensitivity.
+
+Effects
+
+Long-term exposure to copper can cause irritation of the nose, mouth and eyes and it causes headaches, stomachaches, dizziness, vomiting and diarrhea. Intentionally high uptakes of copper may cause liver and kidney damage and even death. Whether copper is carcinogenic has not been determined yet.
+
+There are scientific articles that indicate a link between long-term exposure to high concentrations of copper and a decline in intelligence with young adolescents. Whether this should be of concern is a topic for further investigation.
+
+Industrial exposure to copper fumes, dusts, or mists may result in metal fume fever with atrophic changes in nasal mucous membranes. Chronic copper poisoning results in Wilson’s Disease, characterized by a hepatic cirrhosis, brain damage, demyelization, renal disease, and copper deposition in the cornea.
+
+
+Environmental effects of copper
+
+When copper ends up in soil it strongly attaches to organic matter and minerals. As a result it does not travel very far after release and it hardly ever enters groundwater. In surface water copper can travel great distances, either suspended on sludge particles or as free ions.
+
+Copper does not break down in the environment and because of that it can accumulate in plants and animals when it is found in soils. On copper-rich soils only a limited number of plants has a chance of survival. That is why there is not much plant diversity near copper-disposing factories. Due to the effects upon plants copper is a serious threat to the productions of farmlands. Copper can seriously influence the proceedings of certain farmlands, depending upon the acidity of the soil and the presence of organic matter. Despite of this, copper-containing manures are still applied.
+
+Copper can interrupt the activity in soils, as it negatively influences the activity of microorganisms and earthworms. The decomposition of organic matter may seriously slow down because of this.
+
+When the soils of farmland are polluted with copper, animals will absorb concentrations that are damaging to their health. Mainly sheep suffer a great deal from copper poisoning, because the effects of copper are manifesting at fairly low concentrations.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/cu.htm#ixzz64iZsbG6Q

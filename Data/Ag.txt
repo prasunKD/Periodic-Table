@@ -1,0 +1,119 @@
+Silver - Ag
+Chemical properties of silver - Health effects of silver - Environmental effects of silver
+Atomic number
+
+47
+
+Atomic mass
+
+107.87 g.mol -1
+
+Electronegativity according to Pauling
+
+1.9
+
+Density
+
+10.5 g.cm-3 at 20°C
+
+Melting point
+
+962 °C
+
+Boiling point
+
+2212 °C
+
+Vanderwaals radius
+
+0.144 nm
+
+Ionic radius
+
+0.126 nm
+
+Isotopes
+
+11
+
+Electronic shell
+
+[ Kr ] 4d10 5s1
+
+Energy of first ionization
+
+758 kJ.mol -1
+
+Energy of second ionization
+
+2061 kJ.mol -1
+
+Discovered by
+
+The ancients
+
+Silver - Ag
+
+ 
+
+Silver
+Pure silver is nearly white, lustrous, soft, very ductile, malleable, it is an excellent conductor of heat and electricity. It is not a chemically active metal, but it is attacked by nitric acid (forming the nitrate) and by hot concentrated sulfuric acid. It has the highest electrical conductivity of all metals, but its greater cost has prevented it from being widely used for electrical purposes.
+
+Silver is almost always monovalent in its compounds, but an oxide, a fluoride, and a sulfide of divalent silver are known. It does not oxidize in air but reacts with the hydrogen sulfide present in the air, forming silver sulfide (tarnish). This is why silver objects need regular cleaning. Silver is stable in water.
+
+Applications
+
+The principal use of silver is as a precious metal and its halide salts, especially silver nitrate, are also widely used in photography. The major outlets are photography, the electrical and electronic industries and for domestic uses as cutlery, jewellery and mirrors.
+Both colour and black and white images have relied on silver since the early days of photography: siver bromide and silver iodide are sensitive to light. When light strikes a film coated with one of these compounds, some of the silver ions revert to the metal in tiny nuclei and the film is developed with a reducing agent which causes more silver to deposit on these nuclei. When the negative has the desired intensity, the uneffected silver bromide or iodide is removed by dissoving in a fixing agent, leaving the image behind.
+Silver is also employed in the electrical industry: printed circuits are made using silver paints, and computer keyboards use silver electrical contacts.
+Silver's catalytic properties make it ideal for use as a catalyst in oxidation reactions. Other applications are in dentistry and in high-capacity zinc long-life batteries.
+
+Silver in the environment
+
+Silver levels in soil are not usually high except in mineral-rich areas when they can sometimes be as much as 44 ppm. Plants can absorb silver and measured levels come in the range 0.03-0.5 ppm.
+
+Metallic silver occurs naturally as crystals, but more generally as a compact mass; there are small deposits in Norway, Germany and Mexico. The chief silver ores are acanthite mined in Mexico, Bolivia and Honduras, and stephanite, mined in Canada. However silver is mostly obtained as a byproduct in the refining of other metals.
+World production of newly mined silver is around 17.000 tonnes per year, of which only about a quarter comes from silver mines. The rest is a byproduct of refining other metals.
+
+
+Health effects of silver
+
+Soluble silver salts, specially AgNO3, are lethal in concentrations of up to 2g (0.070 oz). Silver compounds can be slowly absorbed by body tissues, with the consequent bluish or blackish skin pigmentation (argiria).
+
+Eye contact: may cause severe corneal injury if liquid comes in contact with the eyes. Skin contact: may cause skin irritation. Repeated and prolonged contact with skin may cause allergic dermatitis. Inhalation hazards: exposure to high concentrations of vapors may cause dizziness, breathing difficulty, headaches or respiratory irritation. Extremely high concentrations may cause drowsiness, staggering, confusion, unconsciousness, coma or death.
+
+
+ 
+
+Liquid or vapor may be irritating to skin, eyes, throat, or lungs. Intentional misuse by deliberately concentrating and inhaling the contents of this product can be harmful or fatal.
+
+Ingestion hazards: moderately toxic. May cause stomach discomfort, nausea, vomiting, diarrhea, and narcosis. Aspiration of material into lungs if swallowed or if vomiting occurs can cause chemical pneumonitis which can be fatal.
+
+Target organ: chronic overexposure to a component or components in this material has been found to cause the following effects in laboratory animals:
+
+- Kidney damage
+- Eye damage
+- Lung damage
+- Liver damage
+- Anemia
+- Brain damage
+
+Chronic overexposure to a component or components in this product has been suggested as a cause of the following effects in humans:
+
+- Cardiac abnormalities
+- Reports have associated repeated and prolonged overexposure to solvents with permanent brain and nervous system damage.
+- Repeated breathing or skin contact of methyl ethyl ketone may increase the potency of neurotoxins such as hexane if exposures occur at the same time.
+
+
+Environmental effects of silver
+For information on:
+
+- Environmental levels
+- Effects of organisms in the laboratory and field
+- Aquatic environment: Toxicity of silver compounds to aquatic species
+- Terrestrial environment
+- Effects evaluation
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ag.htm#ixzz64kpNXCxS

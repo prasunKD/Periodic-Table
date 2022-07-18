@@ -1,0 +1,80 @@
+Fermium - Fm
+Chemical properties of fermium- Health effects of fermium- Environmental effects of fermium
+
+Atomic number
+
+100
+
+Atomic mass
+
+(257) g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+unknown
+
+Melting point
+
+unknown
+
+Boiling point
+
+unknown
+
+Vanderwaals radius
+
+unknown
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+1
+
+Electronic shell
+
+[ Rn ] 5f11 6d1 7s2
+
+Discovered by
+
+Ghiorso in 1952
+
+Fermium - Fm
+
+Fermium
+Fermium is a radioactive element and a member of the actinide group of the periodic table of elements. So far not enough fermium has been made to analyse its chemical properties, but predictions are that it would be a silvery metal susceptible to attack by air, steam and acids.
+
+The eighth discovered transuranium element of the actinide series, Fermium was identified by Albert Ghiorso and co-workers in 1952 in the debris from a thermonuclear explosion in the Pacific during work involving the University of California Radiation Laboratory, Argonne National Laboratory, and Los Alamos Scientific Laboratory.
+
+The isotope produced was the 20-hour 255Fm. During 1953 and early 1954, while discovery of elements 99 and 100 was withheld from publication for security reasons, a group from the Nobel Institute of Physics in Stockholm bombarded 238U with 16O ions, and isolated a 30-min alpha-emitter, which they ascribed to 250-100, without claiming discovery of the element. This isotope has since been identified positively, and the 30-min half-life confirmed.
+
+The chemical properties of fermium have been studied solely with tracer amounts. In normal aqueous media, only the (III) oxidation state appears to exist.
+
+254Fm and heavier isotopes can be produced by intense neutron irradiation of lower elements, such as plutonium, using a process of successive neutron capture interspersed with beta decays until these mass numbers and atomic numbers are reached.
+
+Sixteen isotopes of fermium are known to exist. 257Fm, with a half-life of about 100.5 days, is the longest lived. 250Fm, with a half-life of 30 minutes, has been shown to be a decay product of element 254-102. Chemical identification of 250Fm confirmed the production of element 102 (nobelium).
+
+Applications
+
+There are no commercial reasons for fermium to be produced, but it might one day have some use in medicine.
+
+Fermium in the environment
+
+Fermium does not exist naturally on Earth today but it has occurred in the past, produced in natural reactor deposits. Annual world production of fermium probably totals less than a milllonth of a gram.
+
+Health effects of fermium
+
+Fermium doesn’t occur naturally, and has not been found in the earth’s crust, so there is no reason to consider its health hazards.
+
+Environmental effects of fermium
+Fermium doesn’t occur naturally, and has not been found in the earth’s crust, so there is no reason to consider its environmental effects.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/fm.htm#ixzz64lrv4FYF

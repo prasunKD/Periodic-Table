@@ -1,0 +1,114 @@
+Chromium - Cr
+Chemical properties of chromium - Health effects of chromium - Environmental effects of chromium
+Atomic number
+
+24
+
+Atomic mass
+
+51.996 g.mol -1
+
+Electronegativity
+
+1.6
+
+Density
+
+7.19 g.cm-3 at 20°C
+
+Melting point
+
+1907 °C
+
+Boiling point
+
+2672 °C
+
+Vanderwaals radius
+
+0.127 nm
+
+Ionic radius
+
+0.061 nm (+3) ; 0.044 nm (+6)
+
+Isotopes
+
+6
+
+Electronic shell
+
+[ Ar ] 3d5 4s1
+
+Energy of first ionisation
+
+651.1 kJ.mol -1
+
+Energy of second ionisation
+
+1590.1 kJ.mol -1
+
+Energy of first ionisation
+
+2987 kJ.mol -1
+
+Standard potential
+
+- 0.71 V (Cr3+ / Cr )
+
+Discovered by
+
+Vaughlin in 1797
+
+Chromium - Cr
+
+Chromium
+Chromium is a lustrous, brittle, hard metal. Its colour is silver-gray and it can be highly polished. It does not tarnish in air, when heated it borns and forms the green chromic oxide. Chromium is unstable in oxygen, it immediately produces a thin oxide layer that is impermeable to oxygen and protects the metal below.
+
+Applications
+Chromium main uses are in alloys such as stainless steel, in chrome plating and in metal ceramics. Chromium plating was once widely used to give steel a polished silvery mirror coating. Chromium is used in metallurgy to impart corrosion resistance and a shiny finish; as dyes and paints, its salts colour glass an emerald green and it is used to produce synthetic rubies; as a catalyst in dyeing and in the tanning of leather; to make molds for the firing of bricks. Chromium (IV) oxide (CrO2) is used to manufacture magnetic tape.
+
+Chromium in the environment
+
+Chromium is mined as chromite (FeCr2O4) ore. Chromium ores are mined today in South Africa, Zimbabwe, Finland, India, Kazakihstan and the Philippines. A total of 14 million tonnes of chromite ore is extracted. Reserves are hestimated to be of the order of 1 billion tonnes with unexploited deposits in Greenland, Canada e USA.
+
+Health effects of chromium
+People can be exposed to chromium through breathing, eating or drinking and through skin contact with chromium or chromium compounds. The level of chromium in air and water is generally low. In drinking water the level of chromium is usually low as well, but contaminated well water may contain the dangerous chromium(IV); hexavalent chromium. For most people eating food that contains chromium(III) is the main route of chromium uptake, as chromium(III) occurs naturally in many vegetables, fruits, meats, yeasts and grains. Various ways of food preparation and storage may alter the chromium contents of food. When food in stores in steel tanks or cans chromium concentrations may rise.
+
+Chromium(III) is an essential nutrient for humans and shortages may cause heart conditions, disruptions of metabolisms and diabetes. But the uptake of too much chromium(III) can cause health effects as well, for instance skin rashes.
+
+Chromium(VI) is a danger to human health, mainly for people who work in the steel and textile industry. People who smoke tobacco also have a higher chance of exposure to chromium.
+
+Chromium(VI) is known to cause various health effects. When it is a compound in leather products, it can cause allergic reactions, such as skin rash. After breathing it in chromium(VI) can cause nose irritations and nosebleeds.
+Other health problems that are caused by chromium(VI) are:
+
+- Skin rashes
+- Upset stomachs and ulcers
+- Respiratory problems
+- Weakened immune systems
+- Kidney and liver damage
+- Alteration of genetic material
+- Lung cancer
+- Death
+
+The health hazards associated with exposure to chromium are dependent on its oxidation state. The metal form (chromium as it exists in this product) is of low toxicity. The hexavalent form is toxic. Adverse effects of the hexavalent form on the skin may include ulcerations, dermatitis, and allergic skin reactions. Inhalation of hexavalent chromium compounds can result in ulceration and perforation of the mucous membranes of the nasal septum, irritation of the pharynx and larynx, asthmatic bronchitis, bronchospasms and edema. Respiratory symptoms may include coughing and wheezing, shortness of breath, and nasal itch.
+
+Carcinogenicity- Chromium and most trivalent chromium compounds have been listed by the National Toxicology Program (NTP) as having inadequate evidence for carcinogenicity in experimental animals. According to NTP, there is sufficient evidence for carcinogenicity in experimental animals for the following hexavalent chromium compounds; calcium chromate, chromium trioxide, lead chromate, strontium chromate,and zinc chromate. International Agency for Research on Cancer (IARC) has listed chromium metal and its trivalent compounds within Group 3 (The agent is not classifiable as to its carcinogenicity to humans.) Chromium is not regulated as a carcinogen by OSHA (29 CFR 1910 Subpart Z). ACGIH has classified chromium metal and trivalent chromium compounds as A4,not classifiable as a human carcinogen.
+
+
+Environmental effects of chromium
+There are several different kinds of chromium that differ in their effects upon organisms. Chromium enters the air, water and soil in the chromium(III) and chromium(VI) form through natural processes and human activities.
+
+The main human activities that increase the concentrations of chromium (III) are steal, leather and textile manufacturing. The main human activities that increase chromium(VI) concentrations are chemical, leather and textile manufacturing, electro painting and other chromium(VI) applications in the industry. These applications will mainly increase concentrations of chromium in water. Through coal combustion chromium will also end up in air and through waste disposal chromium will end up in soils.
+
+Most of the chromium in air will eventually settle and end up in waters or soils. Chromium in soils strongly attaches to soil particles and as a result it will not move towards groundwater. In water chromium will absorb on sediment and become immobile. Only a small part of the chromium that ends up in water will eventually dissolve.
+Chromium(III) is an essential element for organisms that can disrupt the sugar metabolism and cause heart conditions, when the daily dose is too low. Chromium(VI) is mainly toxic to organisms. It can alter genetic materials and cause cancer.
+
+Crops contain systems that arrange the chromium-uptake to be low enough not to cause any harm. But when the amount of chromium in the soil rises, this can still lead to higher concentrations in crops. Acidification of soil can also influence chromium uptake by crops. Plants usually absorb only chromium(III). This may be the essential kind of chromium, but when concentrations exceed a certain value, negative effects can still occur.
+
+Chromium is not known to accumulate in the bodies of fish, but high concentrations of chromium, due to the disposal of metal products in surface waters, can damage the gills of fish that swim near the point of disposal.
+In animals chromium can cause respiratory problems, a lower ability to fight disease, birth defects, infertility and tumor formation.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/cr.htm#ixzz64iYv8Zma

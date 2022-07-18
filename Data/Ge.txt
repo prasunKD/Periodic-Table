@@ -1,0 +1,92 @@
+Germanium - Ge
+Chemical properties of germanium - Health effects of Germanium - Environmental effects of germanium
+Atomic number
+
+32
+
+Atomic mass
+
+72.59 g.mol -1
+
+Electronegativity according to Pauling
+
+1.8
+
+Density
+
+5.3 g.cm-3 at 20°C
+
+Melting point
+
+937 °C
+
+Boiling point
+
+2830 °C
+
+Vanderwaals radius
+
+0.137 nm
+
+Ionic radius
+
+0.093 nm (+2) ; 0.054 nm (+4)
+
+Isotopes
+
+9
+
+Electronic shell
+
+[ Ar ] 3d10 4s2 4p2
+
+Energy of first ionisation
+
+761.2 kJ.mol -1
+
+Energy of second ionisation
+
+1537.0 kJ.mol -1
+
+Energy of third ionisation
+
+3301.2 kJ.mol -1
+
+Energy of fourth ionisation
+
+4409.4 kJ.mol -1
+
+Discovered by
+
+Clemens Winkler in 1886
+
+Germanium - Ge
+
+
+Germanium
+Pure germanium is a hard, lustrous, gray-white, brittle metalloid. It has a diamondlike crystalline structure and it is similar in chemical and physical properties to silicon. Germanium is stable in air and water, and is unaffected by alkalis and acids, except nitric acid.
+
+Applications
+
+Germanium is an important semiconductor, mainly used in transistors and integrated circuits. They are often made from germanium to which small amounts of arsenic, gallium, or other metals. Germanium forms many compounds. Germanium oxide is added to glass to increase the index of refraction; such glass is used in wide-angle lenses and in infrared devices. Numerous alloys containing germanium have been prepared. High purity germanium single crystal detectors can precisely identify radiation sources (e.g. for airport security).
+
+Germanium in the environment
+Germanium is less abundant than either tin or lead, which are the heavier component metals of group 14, and it is less easily accessed because geological processes have contracted only small amounts of it into minerals, so that it tends to be widely dispersed. Germanium ores are rare. The least rare, germanite, is a copper-iron-germanium sulfide with 8% of the element, but even this is not mined. Germanium is widely distributed in ores of other metals, such as zinc, and that which is required for manufacturing purposes is recovered as a by-product from the flue-dusts of zinc smelters. World production is about 80 tonnes per year.
+
+Health effects of Germanium
+The estimated daily intake is around 1 mg, and there have been claims that germanium could be beneficial to health, athough this has never been proved scientifically. A high intake of germanium was supposed to improve the immune system, bost the body's oxygen supply, make a person feel more alive and destroy damaging free radicals. In addition was said to protect the user against radiation. In 1989 in the UK the Governement's Department of Health warned against germanium supplements, noting that they had no nutritional or medical value and that taking them consituted a risk to health, rather than a benefit.
+
+Germanium hydride and germanium tetrahydride are extremely flammable and even explosive when mixed with air. Inhalation: Abdominal cramps. Burning sensation. Cough. Skin: Redness. Pain. Eyes: Redness. Pain.
+
+Routes of exposure: The substance can be absorbed into the body by inhalation.
+
+Inhalation risk: A harmful concentration of this gas in the air will be reached very quickly on loss of containment.
+
+Effects of short-term exposure: The substance irritates the eyes, the skin and the respiratory tract. The substance may cause effects on the blood, resulting in lesions of blood cells. Exposure may result in death.
+Environmental effects of Germanium
+Physical dangers: The gas is heavier than air and may travel along the ground; distant ignition possible.
+As a heavy metal it is considered to have some negative impact in aquatic ecosystems.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/ge.htm#ixzz64iaJgjD6

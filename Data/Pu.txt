@@ -1,0 +1,95 @@
+Plutonium - Pu
+Chemical properties of plutonium - Health effects of plutonium - Environmental effects of plutonium
+Atomic number
+
+94
+
+Atomic mass
+
+(244) g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+19.84 g.cm-3 at 20°C
+
+Melting point
+
+641 °C
+
+Boiling point
+
+3232 °C
+
+Vanderwaals radius
+
+unknown
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+11
+
+Electronic shell
+
+[ Rn ] 5f6 7s2
+
+Energy of first ionisation
+
+558.6 kJ.mol -1
+
+Discovered by
+
+G.T. Seaborg in 1940
+
+Plutonium - Pu
+
+Plutonium
+Plutonium was discovered in 1941 by Dr. Glenn T. Seaborg and Edwin McMillan, Kennedy, and Wahl by deuteron bombardment of uranium in the 60-inch cyclotron of the Berkeley Radiation Laboratory at the University of California, Berkeley, but the discovery was kept secret. It was named after the planet Pluto, having been discovered directly after Neptunium. (Pluto is the next planet out after Neptune).
+
+The metal has a silvery appearance and takes on a yellow tarnish when slightly oxidized. It is chemically reactive. A relatively large piece of plutonium is warm to the touch because of the energy given off in alpha decay. Larger pieces will produce enough heat to boil water. The metal readily dissolves in concentrated hydrochloric acid, hydroiodic acid, or perchloric acid. The metal exhibits six allotropic modifications having various crystalline structures. The densities of these vary from 16.00 to 19.86 g/cm3.
+
+The most important isotope of plutonium is 239Pu, with a half-life of 24,200 years. Because of its short half-life, there are only extremely tiny trace amounts of plutonium naturally in uranium ores.
+It is produced in extensive quantities in nuclear reactors from natural uranium: 238U(n, gamma) --> 239U--(beta) --> 239Np--(beta) --> 239Pu. Fifteen isotopes of plutonium are known.
+
+Applications
+
+Plutonium is a key fissile component in modern nuclear weapons; care must be taken to avoid accumulation of amounts of plutonium which approach critical mass, the amount of plutonium which will self-generate a nuclear reaction. Despite not being confined by external pressure as is required for a nuclear weapon, it will nevertheless heat itself and break whatever confining environment it is in. Shape is relevant; compact shapes such as spheres are to be avoided.
+
+Plutonium could also be used to manufacture radiological weapons. The plutonium isotope 238Pu is an alpha emitter with a half life of 87 years. These characteristics make it well suited for electrical power generation for devices which must function without direct maintenance for timescales approximating a human life time. It is therefore used in RTGs such as those powering the Galileo and Cassini space probes. Plutonium-238 was used on the Apollo-14 lunar flight in 1971 to power seismic devices and other equipment left on the Moon, and it was also the power supply of the two Voyager supercraft launched in 1977.
+
+Plutonium-239 can also be used as a fuel in a new generation of fast-breeder nuclear weapons, which burn a mixed oxide (MOX) fuel consisting of uranium and plutonium.
+
+Plutonium in the environment
+
+Trace amounts of plutonium are found naturally in uranium-rich ores. Humans produce most of the existing plutonium, in special nuclear reactors. Besides being naturally present in very small amounts, plutonium may also enter the environment from releases of nuclear reactors, weapons production plants, and research facilities. A major source of plutonium release is nuclear weapons testing.
+Annual world production of plutonium is probably in excess of 50 tonnes and there may be more than 1.000 tonnes of metal in storage, either as bombs or as metal rods.
+
+Health effects of plutonium
+Plutonium is sometimes described in media reports as the most toxic substance known to man, although there is general agreement among experts in the field that this is incorrect. As of 2003, there has yet to be a single human death officially attributed to plutonium exposure. Naturally-occurring radium is about 200 times more radiotoxic than plutonium, and some organic toxins like Botulism toxin are billions of times more toxic than plutonium.
+
+The alpha radiation it emits does not penetrate the skin, but can irradiate internal organs when plutonium is inhaled or ingested. Extremely small particles of plutonium on the order of micrograms can cause lung cancer if inhaled into the lungs. Considerably larger amounts may cause acute radiation poisoning and death if ingested or inhaled; however, so far, no human is known to have died because of inhaling or ingesting plutonium and many people have measurable amounts of plutonium in their bodies. Plutonium is a dangerous substance that has been used in explosives for a long time. It is released into the atmosphere primarily by atmospheric testing of nuclear weapons and by accidents at weapon production sites. When plutonium is released into the atmosphere it will fall back onto earth eventually and end up in soils.
+
+Exposure of humans to plutonium is not likely, but sometimes it takes place as a result of accidental releases during use, transport or disposal.
+
+Because plutonium has no gamma radiation, health effects are not likely to occur while working with plutonium, unless it is breathed in or swallowed somehow.
+
+When people breathe it in, plutonium may remain in the lungs or move to the bones or organs. Generally it stays in the body for a long time and continually exposes body tissues to radiation. After a few years this could result in the development of cancer.
+
+Furthermore, plutonium may affect the ability to resist disease and the radioactivity from plutonium may cause reproductive failure.
+
+Environmental effects of plutonium
+
+Plutonium may enter surface water from accidental releases and disposal of radioactive wastes. Soil can become contaminated with plutonium through fallout during nuclear weapons testing. Plutonium moves slowly downwards in the soil, into the groundwater.
+
+Plants absorb low levels of plutonium, but these levels are not high enough to cause bio magnification of plutonium up the food chain, or accumulation in the bodies of animals.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/pu.htm#ixzz64lq4u6Ku

@@ -1,0 +1,82 @@
+Lutetium - Lu
+Chemical properties of lutetium - Health effects of lutetium - Environmental effects of lutetium
+
+Atomic number
+
+71
+
+Atomic mass
+
+174.97 g.mol -1
+
+Electronegativity according to Pauling
+
+1.2
+
+Density
+
+9.7 g.cm-3 at 20°C
+
+Melting point
+
+1663 °C
+
+Boiling point
+
+3395 °C
+
+Vanderwaals radius
+
+unknown
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+9
+
+Electronic shell
+
+[ Xe ] 4f14 5d1 6s2
+
+Energy of first ionisation
+
+522.7 kJ.mol -1
+
+Energy of second ionisation
+
+1339 kJ.mol -1
+
+Standard potential
+
+- 2.25 V
+
+Discovered by
+
+George Urbain in 1907
+
+Lutetium - Lu
+
+Lutetium
+Pure metal lutetium has been isolated only in recent years and is one of the more difficult to prepare. It can be prepared by the reduction of anhydrous LuCl3 or LuF3 by an alkali or alkaline earth metal. The metal is silvery white and relatively stable in air. It is the hardest and the densest of the lanthanides.
+
+Applications
+
+Lutetium is very expensive to obtain on useful quantities and therefore it has very few commercial uses. One commercial application has been as a pure beta emitter, using lutetium which has been exposed to neutron activation. A tiny amount of lutetium is added as a dopant to gadolinium gallim garnet (GGG), which is used in magnetic bubble memory devices.
+
+Lutetium in the environment
+
+It is a rare earth metal and perhaps the most expensive of all rare elements. It is found in small amounts with all rare earth metals, and is very difficult to separate from other rare elements. This is largely because of the way it is found in nature. The lanthanides are found in nature in a number of minerals. The most important are xenotime, monazite, and bastnaesite. The first two are orthophosphate minerals LnPO4 (Ln denotes a mixture of all the lanthanides except promethium which is very rare) and the third is a fluoride carbonate LnCO3F. The most common lanthanides in these minerals are, in order, cerium, lanthanum, neodymium, and praseodymium. Monazite also contains thorium and yttrium, which makes handling difficult since thorium, and its decomposition products are radioactive.
+The main mining areas are China, US, Brazil, India, Sri Lanka and Australia. Total world reserves are estimated to be around 200.000 tonnes. World production on lutetium is around 10 tonnes per year, as lutetium oxide.
+
+Health effects of lutetium
+Lutetium is mildly toxic by ingestion, but its insoluble salts are non-toxic. Like other rare-earth metals lutetium is regarded as having a low toxicity rating but it and its compounds should be handled with care.
+
+Environmental effects of lutetium
+Metal dust of lutetium is a fire and explosion hazard. Lutetium poses no environmental threat to plants and animals.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/lu.htm#ixzz64lsbAYMY

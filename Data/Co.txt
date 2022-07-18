@@ -1,0 +1,116 @@
+Cobalt - Co
+Chemical properties of cobalt - Health effects of cobalt - Environmental effects of cobalt
+Atomic number
+
+27
+
+Atomic mass
+
+58.9332 g.mol -1
+
+Electronegativity according to Pauling
+
+1.8
+
+Density
+
+8.9 g.cm-3 at 20°C
+
+Melting point
+
+1495 °C
+
+Boiling point
+
+2927 °C
+
+Vanderwaals radius
+
+0.125 nm
+
+Ionic radius
+
+0.078 nm (+2) ; 0.063 nm (+3)
+
+Isotopes
+
+8
+
+Electronic shell
+
+[ Ar ] 3d7 4s2
+
+Energy of first ionisation
+
+757 kJ.mol -1
+
+Energy of second ionisation
+
+1666.3 kJ.mol -1
+
+Energy of third ionisation
+
+3226 kJ.mol -1
+
+Standard potential
+
+- 0.28 V ( Co2+/ Co ) ; +1.84 V ( Co3+/ Co2+ )
+
+Discovered by
+
+George Brandt in 1737
+
+Cobalt - Co
+
+
+Cobalt
+Cobalt is a hard ferromagnetic, silver-white, hard, lustrous, brittle element. It is a member of group VIII of the periodic table. Like iron, it can be magnetized. It is similar to iron and nickel in its physical properties. The element is active chemically, forming many compounds. Cobalt is stable in air and unaffected by water, but is slowly attacked by dilute acids.
+
+Applications
+
+Cobalt is used in many alloys (superalloys for parts in gas turbine aircrafr engines, corrosion resistant alloys, high-speed steels, cemented carbides), in magents and magnetic recording media, as catalysts for the petroleum and chemical industries, as drying agents for paints and inks. Cobalt blue is an important part of artists' palette and is used bu craft workers in porcelain, pottery, stained glass, tiles and enamel jewellery. The radioactive isotopes, cobalt-60, is used in medical treatment and also to irradiate food, in order to preserve the food and protect the consumer.
+
+Cobalt in the enviroment
+
+Most of the Earth's cobalt is in its core. Cobalt is of relatively low abundance in the Earth's crust and in natural waters, from which it is precipitated as the highly insoluble cobalt sulfine CoS.
+Although the average level of cobalt in soils is 8 ppm, there are soils with as little as 0.1 ppm and others with as much as 70 ppm. In the marine environment cobalt is needed by blue-green algae (cyanobacteria) and other nitrogen fixing organisms. Cobalt is not found as a free metal and is generally found in the form of ores. Cobalt is usually not mined alone, and tends to be produced as a by-product of nickel and copper mining activities. The main ores of cobalt are cobaltite, erythrite, glaucodot, and skutterudite. The world's major producers of cobalt are the Democratic Republic of the Congo, mainland China, Zambia, Russia and Australia. It is also found in Finland, Azerbaijan, and Kazakhstan.
+World production is 17.000 tonnes per year.
+
+Health effects of cobalt
+As cobalt is widely dispersed in the environment humans may be exposed to it by breathing air, drinking water and eating food that contains cobalt. Skin contact with soil or water that contains cobalt may also enhance exposure.
+Cobalt is not often freely available in the environment, but when cobalt particles are not bound to soil or sediment particles the uptake by plants and animals is higher and accumulation in plants and animals may occur.
+
+Cobalt is beneficial for humans because it is a part of vitamin B12, which is essential for human health. Cobalt is used to treat anaemia with pregnant women, because it stimulates the production of red blood cells. The total daily intake of cobalt is variable and may be as much as 1 mg, but almost all will pass through the body unadsorbed, except that in vitamine B12.
+
+However, too high concentrations of cobalt may damage human health. When we breathe in too high concentrations of cobalt through air we experience lung effects, such as asthma and pneumonia. This mainly occurs with people that work with cobalt.
+
+When plants grow on contaminated soils they will accumulate very small particles of cobalt, especially in the parts of the plant we eat, such as fruits and seeds. Soils near mining and melting facilities may contain very high amounts of cobalt, so that the uptake by humans through eating plants can cause health effects.
+Health effects that are a result of the uptake of high concentrations of cobalt are:
+
+- Vomiting and nausea
+- Vision problems
+- Heart problems
+- Thyroid damage
+
+Health effects may also be caused by radiation of radioactive cobalt isotopes. This can cause sterility, hair loss, vomiting, bleeding, diarrhoea, coma and even death. This radiation is sometimes used with cancer-patients to destroy tumors. These patients also suffer from hair loss, diarrhea and vomiting.
+
+Cobalt dust may cause an asthma-like disease with symptoms ranging from cough, shortness of breath and dyspnea to decreased pulmonary function, nodular fibrosis, permanent disability, and death. Exposure to cobalt may cause weight loss, dermatitis, and respiratory hypersensitivity. LD 50 (oral, rat)- 6171 mg/kg. (LD50 = Lethal dose 50 = Single dose of a substance that causes the death of 50% of an animal population from exposure to the substance by any route other than inhalation. LD50 is usually expressed as milligrams or grams of material per kilogram of animal weight (mg/kg or g/kg).)
+
+Carcinogenicity- International Agency for Research on Cancer (IARC) haslisted cobalt and cobalt compounds within group 2B (agents which are possibly carcinogenic to humans). ACGIH has placed cobalt and inorganic compounds in category A3 (Experimental animal carcinogen- the agent is carcinogenic in experimental animals at a relatively high dose, by route(s), histologic type(s), or by mechanism(s) that are not considered relevant to worker exposure.) Cobalt has been classified to be carcinogenic to experimental animals by the Federal Republic of Germany.
+
+
+Environmental effects of cobalt
+Cobalt is an element that occurs naturally in the environment in air, water, soil, rocks, plants and animals. It may also enter air and water and settle on land through wind-blown dust and enter surface water through run-off when rainwater runs through soil and rock containing cobalt.
+
+Humans add cobalt by releasing small amounts into the atmosphere from coal combustion and mining, processing of cobalt-containing ores and the production and use of cobalt chemicals.
+The radioactive isotopes of cobalt are not present in the environment naturally, but they are released through nuclear power plant operations and nuclear accidents. Because they have relatively short half-lives they are not particularly dangerous.
+
+Cobalt cannot be destroyed once it has entered the environment. It may react with other particles or adsorb on soil particles or water sediments. Cobalt will only mobilize under acidic conditions, but ultimately most cobalt will end up in soils and sediments.
+
+Soils that contain very low amounts of cobalt may grow plants that have a deficiency of cobalt. When animals graze on these grounds they suffer from lack of cobalt, which is essential for them.
+
+On the other hand, soils near mining and melting facilities may contain very high amounts of cobalt, so that the uptake by animals through eating plants can cause health effects. Cobalt will accumulate in plants and in the bodies of animals that eat these plants, but cobalt is not known to bio magnify up the food chain. Because of this fruits, vegetables, fish and other animals we eat will usually not contain very high amounts of cobalt.
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/co.htm#ixzz64iZR1qk5

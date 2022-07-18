@@ -1,0 +1,88 @@
+Lithium - Li
+Chemical properties of lithium - Health effects of Lithium - Environmental effects of Lithium
+Atomic number
+
+3
+
+Atomic mass
+
+6.941 g.mol -1
+
+Electronegativity according to Pauling
+
+1.0
+
+Density
+
+0.53 g.cm -3 at 20 °C
+
+Melting point
+
+180.5 °C
+
+Boiling point
+
+1342 °C
+
+Vanderwaals radius
+
+0.145 nm
+
+Ionic radius
+
+0.06 nm
+
+Isotopes
+
+2
+
+Electronic shell
+
+1s22s1 or [He] 2s1
+
+Energy of first ionisation
+
+520.1 kJ.mol -1
+
+Standard potential
+
+- 3.02 V
+
+Discovered by
+
+Johann Arfvedson in 1817
+
+Lithium - Li
+Lithium
+Lithium is the first of the alkalis in the periodic table. In nature it’s found like a mixture of the isotopes Li6 and Li7. It’s the lightest solid metal, it’s soft, silvery-white, with a low melting point and reactive. Many of its physical and chemical properties are more similar to those of the alkaline earth metals than to those of its own group.
+
+Between the most significant properties of lithium we find its high specific heat (calorific capacity), the huge temperature interval in the liquid state, high termic conductivity, low viscosity and very low density. Metallic lithium is soluble in short chain aliphatic amines, like etilamine. It’s insoluble in hydrocarbons.
+
+Lithium takes part in a huge number of reactions, with organic reactants as well as with inorganic reactants. It reacts with oxygen to form monoxide and peroxide. It’s the only alkaline metal that reacts with nitrogen at ambient temperature to produce a black nitrure. It reacts easily with hydrogen at almost 500ºC (930ºF) to form lithium hydride. Metallic lithium’s reaction with water is extremely vigorous. Lithium reacts directly with the carbon to produce the carbure. It binds easily with halogens and forms halogenures with light emission. Although it doesn’t react with parafinic hydrocarbons, it experiments addition reactions with alquenes substituted by arile and diene groups. It also reacts with acetylenic compounds, forming lithium acetylures, which are important in vitamin A synthesis.
+
+Applications
+
+The main lithium compound is the lithium hydroxide. It’s a white powder; the manufactured material is monohydrate lithium hydroxide. The carbonate can be used in the pottery industry and in medicine as an antidepressant. The bromine and the lithium chloride both form concentrated brine, which have the property of absorbing the humidity in a wide interval of temperature; these brines are used in the manufactured air conditioning systems.
+The main industrial use of lithium is in lithium stearatum form, as lubricant grease’s thickener. Other important applications of lithium compounds are in pottery, specifically in porcelain glaze; as an additive to extend the life and performance of alkaline storage batteries and in autogenous welding and brass welding.
+Alloys of the metal with aluminium, cadmium, copper, and manganese are used to make high performance aircraft parts.
+
+Lithium in the environment
+
+Like all alkali metals, lithium reacts easily in water and does not occur freely in nature due to its activity, Lithium is a moderately abundant element and its present in The Earth’s crust in 65 ppm (parts per million). This situates lithium below nickel, copper, and tungsten and over cerium and tin, referring to abundance.
+In the United States lithium is recovered from brine pools in Nevada. Today, most commercial lithium is recovered from brine sources in Chile. World production of lithium ores and brone salts in around 40.000 tonnes per yearand reserves are estimated to be around 7 million tonnes.
+Lithium is easily adsorbed by plants. The amount of lithium in plants varies widely, in some cases reaching 30 ppm.
+
+Health effects of Lithium
+Effects of exposure to Lithium: Fire: Flammable. Many reactions may cause fire or explosion. Gives off irritating or toxic fumes (or gases) in a fire. Explosion: Risk of fire and explosion on contact with combustible substances and water. Inhalation: Burning sensation. Cough. Laboured breathing. Shortness of breath. Sore throat. Symptoms may be delayed. Skin: Redness. Skin burns. Pain. Blisters. Eyes: Redness. Pain. Severe deep burns. Ingestion: Abdominal cramps. Abdominal pain. Burning sensation. Nausea. Shock or collapse. Vomiting. Weakness.
+
+Effects of short-term exposure: The substance is corrosive to the eyes, the skin and the respiratory tract. Corrosive on ingestion. Inhalation of the substance may cause lung oedema. The symptoms of lung oedema often do not become manifest until a few hours have passed and they are aggravated by physical effort. Rest and medical observation is therefore essential. Immediate administration of an appropriate spray, by a doctor or a person authorized by him/her, should be considered.
+
+Routes of exposure: The substance can be absorbed into the body by inhalation of its aerosol and by ingestion. Inhalation risk: Evaporation at 20°C is negligible; a harmful concentration of airborne particles can, however, be reached quickly when dispersed.
+
+Chemical dangers: Heating may cause violent combustion or explosion. The substance may spontaneously ignite on contact with air when finely dispersed. Upon heating, toxic fumes are formed. Reacts violently with strong oxidants, acids and many compounds (hydrocarbons, halogens, halons, concrete, sand and asbestos) causing fire and explosion hazard. Reacts violently with water, forming highly flammable hydrogen gas and corrosive fumes of lithium hydroxide.
+
+Environmental effects of Lithium
+Metallic lithium will react with nitrogen, oxygen, and water vapor in air. Consequently, the lithium surface becomes coated with a mixture of lithium hydroxide (LiOH), lithium carbonate (Li2CO3), and lithium nitride (Li3N). Lithium hydroxide represents a potentially significant hazard because it is extremely corrosive. Special attention should be given to water organisms.
+
+
+Read more: https://www.lenntech.com/periodic/elements/li.htm#ixzz64iTyoBcU

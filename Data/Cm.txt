@@ -1,0 +1,78 @@
+Curium - Cm
+Chemical properties of curium - Health effects of curium - Environmental effects of curium
+Atomic number
+
+96
+
+Atomic mass
+
+(247) g.mol -1
+
+Electronegativity according to Pauling
+
+unknown
+
+Density
+
+13.51 g.cm-3 at 20°C
+
+Melting point
+
+1340 °C
+
+Boiling point
+
+unknown
+
+Vanderwaals radius
+
+unknown
+
+Ionic radius
+
+unknown
+
+Isotopes
+
+10
+
+Electronic shell
+
+[ Rn ] 5f7 6d1 7s2
+
+Discovered by
+
+G.T. Seaborg in 1944
+
+Curium (Cm)
+
+Curium
+Named after Pierre and Marie Curie. Curium is a hard, brittle, silvery metal that tarnishes slowly in dry air at room temperature. Curium does not occur naturally; it is typically produced artificially in nuclear reactors through successive neutron captures by plutonium and americium isotopes.
+Curium is very radioactive, more electropositive than Aluminum, chenically reactive. A few compounds of curium are known, as the fluorides.
+
+Although curium follows americium in the periodic system, it was actually known before americium and was the third transuranium element to be discovered. It was identified by Glenn Seaborg, James, and Albert Ghiorso in 1944 at the wartime Metallurgical Laboratory in Chicago as a result of helium-ion bombardment of 239Pu in the Berkeley Radiation Laboratory's 60-inch cyclotron. Visible amounts (30Mg) of 242Cm, in the form of the hydroxide, were first isolated by Werner and Perlman of the University of California, Berkeley in 1947. In 1950, Crane, Wallmann, and Cunningham found that the magnetic susceptibility of microgram samples of CmF3 was of the same magnitude as that of GdF3. This provided direct experimental evidence for assigning an electronic configuration to Cm+3. In 1951, the same workers prepared curium in its elemental form for the first time.
+
+Applications
+
+Curium-242 and curium-244 are used in the space program as a heat source for compact thermionic and thermoelectric power generation. Being a alfa-emitter, its radiation can be easily shielded againts.
+
+Curium in the environment
+
+Curium probably does occur naturally on Earth, but in incredibly small amounts. Concentrated uranium deposits may produce some atoms of it, by the same processes which produce atoms of neptunium and plutonium.
+
+Health effects of curium
+Curium can be taken into the body by eating food, drinking water, or breathing air. Gastrointestinal absorption from food or what is the most likely source of any internally deposited curium in the general population. After ingestion, most curium is excreted from the body within a few days and never enters the bloodstream; only about 0.05% of the amount ingested is absorbed into the bloodstream. Of the curium that reaches the blood, about 45% deposits in the liver where it is retained with a biological half-life of 20 years, and 45% deposits in bone where it is retained with a biological half-life of 50 years (per simplified models that do not reflect intermediate redistribution). Most of the remaining 10% is directly excreted. Curium in the skeleton is deposited mainly on the endosteal surfaces of mineral bone and only slowly redistributes throughout the bone volume.
+
+Curium is generally a health hazard only if it is taken into the body; however, there is a small external risk associated with the odd-numbered isotopes, i.e., curium-243, curium-245, and curium-247. The main means of exposure are ingestion of food and water containing curium and inhalation of curium-contaminated dust. Ingestion is generally the exposure of concern unless there is a nearby source of contaminated dust. Because curium is taken up in the body much more readily if inhaled rather than ingested, both exposure routes can be important. The major health concern is bone tumors resulting from the ionizing radiation emitted by curium isotopes deposited on bone surfaces.
+
+Skeletal cancers were observed in rats exposed by intravenous injection to curium-242 and curium-244 and lung and liver cancers in rats exposed by inhalation.
+
+Environmental effects of curium
+
+Atmospheric testing of nuclear weapons, which ceased worldwide by 1980, generated most environmental curium. Accidents and other releases from weapons production facilities have caused localized contamination. The amount is however neglible and its radiation contribute only a thiny fraction of the Eartch's background radiation. Curium oxide is the most common form in the environment.
+
+Curium is typically quite insoluble and adheres very tightly to soil particles. The concentration of curium in sandy soil particles is estimated to be about 4,000 times higher than in interstitial water (in pore spaces between soil particles), and it binds even more tightly to loam soil where concentration ratios are even higher (18,000).
+
+
+
+Read more: https://www.lenntech.com/periodic/elements/cm.htm#ixzz64lqcA13h
